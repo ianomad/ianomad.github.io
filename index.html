@@ -1,10 +1,24 @@
 <!DOCTYPE html>
 
 <html>
+
+
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:100" rel="stylesheet">
+  <title>Welcome!</title>
+</head>
+
 <style>
 .center-block p {
   color: #fff;
-  font-size: 20px;
+  font-size: 15px;
+  font-family: 'Roboto Mono', monospace;
+  font-style: thin;
+}
+
+.coming-soon:after {
+  content: '.';
+  animation: dots 3s steps(5, end) infinite;
 }
 
 .center-block  {
@@ -20,21 +34,39 @@
   border-radius: 5px;
 }
 
+@keyframes dots {
+  0%, 20% {
+    color: rgba(0,0,0,0);
+    text-shadow:
+      .25em 0 0 rgba(0,0,0,0),
+      .5em 0 0 rgba(0,0,0,0);}
+  40% {
+    color: white;
+    text-shadow:
+      .25em 0 0 rgba(0,0,0,0),
+      .5em 0 0 rgba(0,0,0,0);}
+  60% {
+    text-shadow:
+      .25em 0 0 white,
+      .5em 0 0 rgba(0,0,0,0);}
+  80%, 100% {
+    text-shadow:
+      .25em 0 0 white,
+      .5em 0 0 white;}}
+
 body {
   background-color: #607D8B;
 }
+
 </style>
 
-<head>
-  <title>Welcome!</title>
-</head>
 
 <body>
 
   <div class="center-block">
      <img src="https://avatars3.githubusercontent.com/u/2311684?v=3&s=460" width=200 />
      <p>Iliiaz Akhmedov</p>
-     <p>My blog coming soon...</p>
+     <p class='coming-soon'>My blog coming soon</p>
   </div>
 
 </body>
