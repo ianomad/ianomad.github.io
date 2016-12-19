@@ -1,73 +1,14 @@
-<!DOCTYPE html>
+---
+layout: default
+---
 
-<html>
-
-
-<head>
-  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:100" rel="stylesheet">
-  <title>Welcome!</title>
-</head>
-
-<style>
-.center-block p {
-  color: #fff;
-  font-size: 15px;
-  font-family: 'Roboto Mono', monospace;
-  font-style: thin;
-}
-
-.coming-soon:after {
-  content: '.';
-  animation: dots 3s steps(5, end) infinite;
-}
-
-.center-block  {
-    width: 300px;
-    margin: 100px auto;
-    text-align: center;
-    padding: 50px;
-    border: 3px solid #455A64;
-    border-radius: 5px;
-}
-
-.center-block img  {
-  border-radius: 5px;
-}
-
-@keyframes dots {
-  0%, 20% {
-    color: rgba(0,0,0,0);
-    text-shadow:
-      .25em 0 0 rgba(0,0,0,0),
-      .5em 0 0 rgba(0,0,0,0);}
-  40% {
-    color: white;
-    text-shadow:
-      .25em 0 0 rgba(0,0,0,0),
-      .5em 0 0 rgba(0,0,0,0);}
-  60% {
-    text-shadow:
-      .25em 0 0 white,
-      .5em 0 0 rgba(0,0,0,0);}
-  80%, 100% {
-    text-shadow:
-      .25em 0 0 white,
-      .5em 0 0 white;}}
-
-body {
-  background-color: #607D8B;
-}
-
-</style>
+            
+{% include career-profile.html %}
+            
+{% include experience.html %}
+            
+{% include projects.html %}
+            
+{% include skills.html %}
 
 
-<body>
-
-  <div class="center-block">
-     <img src="https://avatars3.githubusercontent.com/u/2311684?v=3&s=460" width=200 />
-     <p>Iliiaz Akhmedov</p>
-     <p class='coming-soon'>My blog coming soon</p>
-  </div>
-
-</body>
-</html>
