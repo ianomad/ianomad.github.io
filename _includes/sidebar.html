@@ -1,5 +1,5 @@
 <!-- Use icons from fontawesome when you are adding new item in the contact list  -->
-<div class="sidebar-wrapper">
+<div class="sidebar-wrapper" style="width: auto;">
     <div class="profile-container">
         <img class="profile-img" src="{{site.baseurl}}/assets/images/{% if site.pic %}{{ site.pic }}{% else %}profile.png{% endif %}" alt="profile picture" />
         <h1 class="name">{% if site.name %}{{site.name}}{% else %}Alan Doe{% endif %}</h1>
@@ -8,7 +8,7 @@
 
     <div class="contact-container container-block">
         <ul class="list-unstyled contact-list">
-            
+
             {% if site.email %}
             <li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.email}}">Email</a></li>
             {% endif %}
