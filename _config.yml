@@ -27,3 +27,6 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Handling Reading
 markdown:    kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
