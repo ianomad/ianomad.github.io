@@ -1,0 +1,17 @@
+<section class="section summary-section">
+<h2 class="section-title"><i class="fa fa-feed"></i>Latest Posts</h2>
+<div class="summary">
+
+  {% for post in site.posts %}
+    <div class="item">
+        <div class="meta">
+            <div class="upper-row">
+                <h3><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h3>
+            </div>
+            <div>{{ post.excerpt }}</div>
+        </div>
+    </div>
+  {% endfor %}
+
+</div><!--//summary-->
+</section><!--//section-->
