@@ -1,6 +1,6 @@
 title: Iliiaz Blog
 url: 'http://ianomad.github.io'
-baseurl: '/ianomad.github.io' #change it according to your repository name
+baseurl: '' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 # style: styles-2
@@ -26,7 +26,4 @@ excerpt_separator: <!--more-->
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Handling Reading
-markdown:    kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
+markdown: kramdown
