@@ -9,31 +9,24 @@
     <div class="contact-container container-block">
         <ul class="list-unstyled contact-list">
 
-           {% if site.email %}
+          {% if site.email %}
+          <li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.email}}">Email</a></li>
+          {% endif %}
 
-            <li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.email}}">{{site.email}}</a></li>
-            {% else %}
-            <li class="email"><i class="fa fa-envelope"></i><a href="mailto:alan.doe@website.com">alan.doe@website.com</a></li>
-            {% endif %}
+          {% if site.website %}
+          <li class="website"><i class="fa fa-globe"></i><a href="http://{{site.website}}" target="_blank">Website</a></li>
+          {% endif %}
 
-            {% if site.website %}
-            <li class="website"><i class="fa fa-globe"></i><a href="http://{{site.website}}" target="_blank">{{site.website}}</a></li>
-            {% else %}
-            <li class="website"><i class="fa fa-globe"></i><a href="http://blog.webjeda.com" target="_blank">blog.webjeda.com</a></li>
-            {% endif %}
+          {% if site.linkedin %}
+          <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://linkedin.com/in/{{site.linkedin}}" target="_blank">LinkedIn</a></li>
+          {% endif %}
 
-            {% if site.linkedin %}
-            <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://in.linkedin.com/{{site.linkedin}}" target="_blank">linkedin.com/in/{{site.linkedin}}</a></li>
-            {% else %}
-            <li class="linkedin"><i class="fa fa-linkedin"></i><a href="https://in.linkedin.com/in/sharath-kumar-87669956" target="_blank">linkedin.com/in/sharathdt</a></li>
-            {% endif %}
+          {% if site.github %}
+          <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">Github</a></li>
+          {% endif %}
 
-            {% if site.github %}
-            <li class="github"><i class="fa fa-github"></i><a href="http://github.com/{{site.github}}" target="_blank">github.com/{{site.github}}</a></li>
-            {% else %}
-            <li class="github"><i class="fa fa-github"></i><a href="http://github.com/sharu725" target="_blank">github.com/sharu725</a></li>
-            {% endif %}
-
+          <li class="github"><i class="fa fa-user"></i><a href="{{site.baseurl}}/me">Me</a></li>
+          
         </ul>
     </div><!--//contact-container-->
    {% include education.html %}
