@@ -7,5 +7,6 @@ layout: default_post
 <div class="blogpost">
     {{ content }}
 
-    <i>Post date: {{ page.date }}</i>
+    <br />
+    <div style="text-align: right;">Post date: {{ page.date | date: "%H:%M %B %d, %Y" }}</div>
 </div>

@@ -9,6 +9,8 @@
                 <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
             </div>
             <div>{{ post.excerpt }}</div>
+            <br />
+            <div>Post date: {{ post.date | date: "%H:%M %B %d, %Y" }}</div>
         </div>
     </div>
   {% endfor %}
