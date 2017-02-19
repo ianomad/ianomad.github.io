@@ -87,8 +87,9 @@ p {
 }
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
-  font-size: 18px;
+  font-size: 20px;
   vertical-align: middle;
+  float: left;
 }
 .sidebar-wrapper .contact-list li {
   margin-bottom: 15px;
@@ -97,7 +98,7 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .contact-list .email .fa {
-  font-size: 14px;
+  /*font-size: 14px;*/
 }
 .sidebar-wrapper .container-block {
   padding: 30px;
@@ -312,4 +313,14 @@ android post title
   text-align: center;
   display: block;
   margin: 30px;
+}
+
+.food-container ul li {
+  width: 50%;
+  padding: 10px;
+  float: left;
+}
+
+.food-container ul {
+  list-style: none;
 }
