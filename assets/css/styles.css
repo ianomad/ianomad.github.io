@@ -6,7 +6,7 @@
  * License: Creative Commons Attribution 3.0 License
  * Website: http://themes.3rdwavemedia.com/
 */
-/* styles.css */
+/* styles-6.css */
 /* ======= Base ======= */
 body {
   font-family: 'Roboto', sans-serif;
@@ -26,7 +26,7 @@ h6 {
   font-weight: 700;
 }
 a {
-  color: #2d7788;
+  color: #2e4049;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -34,7 +34,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #1a454f;
+  color: #10171a;
 }
 a:focus {
   text-decoration: none;
@@ -43,7 +43,7 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  background: #42A8C0;
+  background: #4B6A78;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -52,10 +52,10 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #42A8C0;
+  background: #4B6A78;
   position: absolute;
   right: 0;
-  width: 260px;
+  width: 240px;
   height: 100%;
   min-height: 800px;
   color: #fff;
@@ -70,14 +70,14 @@ p {
   color: #fff;
 }
 .sidebar-wrapper .name {
-  font-size: 16px;
-  font-weight: 900;
+  font-size: 15px;
+  /*font-weight: 900;*/
   margin-top: 0;
   margin-bottom: 10px;
 }
 .sidebar-wrapper .tagline {
   color: rgba(255, 255, 255, 0.6);
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 0;
@@ -87,9 +87,8 @@ p {
 }
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
-  font-size: 20px;
+  font-size: 18px;
   vertical-align: middle;
-  float: left;
 }
 .sidebar-wrapper .contact-list li {
   margin-bottom: 15px;
@@ -156,13 +155,13 @@ p {
 .main-wrapper {
   background: #fff;
   padding: 60px;
-  padding-right: 300px;
+  padding-right: 220px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #2d7788;
+  color: #2e4049;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
@@ -181,7 +180,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #2d7788;
+  background: #2e4049;
   text-align: center;
   padding-top: 8px;
   font-size: 16px;
@@ -243,7 +242,7 @@ p {
 }
 .skillset .level-bar-inner {
   height: 12px;
-  background: #7bc2d3;
+  background: #6c92a3;
 }
 .footer {
   padding: 30px;
@@ -304,23 +303,4 @@ used for profile image
   border: 0px solid #fff;
   border-radius: 100%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
-}
-
-/*
-android post title
-*/
-.embed-image {
-  text-align: center;
-  display: block;
-  margin: 30px;
-}
-
-.food-container ul li {
-  width: 250px;
-  padding: 10px;
-  float: left;
-}
-
-.food-container ul {
-  list-style: none;
 }
