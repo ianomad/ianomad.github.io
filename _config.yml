@@ -25,5 +25,9 @@ permalink: pretty
 excerpt_separator: <!--more-->
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+kramdown:
+  input: GFM
+
 markdown: kramdown
-highlighter: rouge
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks"]
