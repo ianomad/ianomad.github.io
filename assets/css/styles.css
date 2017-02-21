@@ -154,7 +154,7 @@ p {
 }
 .main-wrapper {
   background: #fff;
-  padding: 60px;
+  padding: 40px;
   padding-right: 220px;
 }
 .main-wrapper .section-title {
@@ -303,4 +303,17 @@ used for profile image
   border: 0px solid #fff;
   border-radius: 100%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.food-container ul {
+  list-style: none;
+  text-align: center;
+  padding: 0px;
+  text-align: center;
+}
+
+.food-container li {
+  float: left;
+  width: 280px;
+  height: 350px;
 }
