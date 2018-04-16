@@ -308,7 +308,7 @@ used for profile image
   margin-top: 30px;
 }
 
-.food-container ul {
+.video-container ul, .food-container ul {
   list-style: none;
   text-align: center;
   padding: 0px;
