@@ -15,12 +15,12 @@ This is a continuation of the previous post of the most popular libraries for a 
 
 ## Table of contents
 
-  - [Dagger 2](dagger2)
-  - [RxJava](rxjava)
-  - [RxLifecycle](RxLifecycle)
-  - [Parceler](parceler)
-  - [Icepick](icepick)
-  - [Permissions Dispatcher](permissionsdispatcher)
+  - [Dagger 2](#dagger2)
+  - [RxJava](#rxjava)
+  - [RxLifecycle](#RxLifecycle)
+  - [Parceler](#parceler)
+  - [Icepick](#icepick)
+  - [Permissions Dispatcher](#permissionsdispatcher)
 
 -----------------
 
