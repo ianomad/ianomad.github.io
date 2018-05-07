@@ -143,7 +143,11 @@ After all of the code above executed, you will eventually be able to see a nice 
 </p>
 
 
-### <a name="static">Static compile time injection</a>
+### <a name="static">Static compile time injection (Java)</a>
+
+There is a concept of cold start time in apps that constants keep restarting (for example: mobile applications when screen goes into background mode, etc.) and it's crucial for those cases. In short, the idea of static compile time injection is code generation of all the object dependencies, so that we don't have to perform heavily reflection operations every time app starts. See below example of how it's setup.
+
+
 
 
 ## Pros and cons
