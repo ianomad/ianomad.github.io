@@ -18,8 +18,9 @@ This post will describe dependency injection as a way to manage object graph in 
   - [Usage Introduction](#usage)
     - [Dynamic reflection object graph evaluation](#dynamic)
     - [Static compile time injection](#static)
-  - [Dagger 2](#dagger2)
-  - [Guice](#guice)
+  - [Common DI features](#commondifeatures)
+    - [Scopes](#scopes)
+    - [Automatic Injection, Type Binding, To Instance, To Provider](#feature2)
 
 -----------------
 
@@ -143,17 +144,180 @@ After all of the code above executed, you will eventually be able to see a nice 
 </p>
 
 
-### <a name="static">Static compile time injection (Java)</a>
+### <a name="static">New Static Compile Time Dependency Injection</a>
 
-There is a concept of cold start time in apps that constants keep restarting (for example: mobile applications when screen goes into background mode, etc.) and it's crucial for those cases. In short, the idea of static compile time injection is code generation of all the object dependencies, so that we don't have to perform heavily reflection operations every time app starts. See below example of how it's setup.
+Dependency Injection has been known for a long time and has been used and implemented in many languages. Now that there is a higher demand on DI to populate the object graph super quickly, there is a new implementation of it via static compile time. For example, there is a frequent cold start time in mobile apps (upon the app screen lifecycle going background/foreground with all the crazy memory optimizations) and it's crucial to have it instant which is not that great via traditional dynamic reflection based injection. In short, the idea of static compile time injection is code generation of all the object dependencies, so that we don't have to perform heavy reflection operations every time app starts and possibly error out all the mismatches during the code compilation. See below example of how it's setup with Dagger 2.
+
+First of all, we start off with the basic setup of the same dependency entities.
+
+```java
+
+public interface PlayerDao {}
+
+public class PlayerDaoImpl implements PlayerDao {
+
+  private final GameDao gameDao;
+
+  @Inject
+  public PlayerDaoImpl(GameDao gameDao) {
+      this.gameDao = gameDao;
+  }
+}
+
+public interface GameDao {}
+
+public class GameDaoImpl implements GameDao {
+
+    @Inject
+    public GameDaoImpl() {
+
+    }
+}
+
+public interface MatchService {}
+
+public class MatchServiceImpl implements MatchService {
+
+    @Inject
+    private GameDao gameDao;
+
+    @Inject
+    private PlayerDao playerDao;
+
+}
+
+```
+
+Now we have to setup the same module as in the previous dynamic approach, but more of the provider approach (below is just an example, but Dagger 2 has a lot more flexible ways of binding and scoping objects)
 
 
+```java
 
+@Module
+public class PlayerNetworkModule {
 
-## Pros and cons
+    @Singleton
+    @Provides
+    public GameDao provideGameDao() {
+        return new GameDaoImpl();
+    }
+
+    @Singleton
+    @Provides
+    public PlayerDao providePlayerDao(GameDao gameDao) {
+        return new PlayerDaoImpl(gameDao);
+    }
+
+    @Provides
+    @Singleton
+    public MatchService provideMatchService(MatchServiceImpl matchService) {
+        return matchService;
+    }
+
+}
+
+```
+
+Finally, let's setup a component that will install the corresponding module and connect all the necessary bindings.
+
+```java
+
+@Singleton
+@Component(modules = PlayerNetworkModule.class)
+public interface PlayerNetworkComponent {
+
+    void inject(EntryPoint entryPoint);
+
+    MatchService matchService();
+
+}
+
+```
+
+As you can see above, we specify what modules should be included, and more importantly how we access the dependencies (it can be either an injection into the classes with its own injections or a simple getter like `PlayerNetworkComponent.matchService()`). We define only the interface, so that the library will help us generate all the code with the actual classes that will create everything via constructors directly, etc.
+
+```java
+
+public class EntryPoint {
+
+    @Inject
+    MatchService matchService;
+
+    public EntryPoint() {
+        PlayerNetworkComponent playerNetworkComponent =
+                DaggerPlayerNetworkComponent.builder()
+                        .playerNetworkModule(new PlayerNetworkModule())
+                        .build();
+
+        playerNetworkComponent.inject(this);
+
+        System.out.println(playerNetworkComponent.matchService());
+        System.out.println(matchService);
+    }
+
+    public static void main(String[] args) throws IOException {
+        new EntryPoint();
+
+        // output is the populated singleton service
+        // --> com.example.di.MatchServiceImpl@2626b418
+        // ->> com.example.di.MatchServiceImpl@2626b418
+    }
+
+}
+
+```
+
+The compiler generated lots of code with factories with corresponding classes with `@Inject` annotated constructors. We endup using only the class `DaggerPlayerNetworkComponent` which is explicitly prefixed with `Dagger` word.
 
 -----------------
 
-## <a name="dagger2">Dagger 2</a>
+## <a name="commondifeatures">Common DI Features</a>
 
-TODO...
+## <a name="scopes">Scopes</a>
+
+This is the most obvious and common feature to manage different dependencies. Below are some examples of scopes:
+
+### Singleton
+
+This scope is the most widely used scope to avoid memory waste, concurrency issues, etc. Below is a sample snippet to implement such a scope.
+
+```java
+
+// The difference between methods vary based on the stage configured via Guice
+// see more here: https://github.com/google/guice/wiki/Scopes
+
+// example 1
+bind(MatchService.class).in(Singleton.class);
+
+// example 2
+bind(MatchService.class).in(Scopes.SINGLETON);
+
+// example 3
+@Singleton
+class MatchService {
+  //...
+}
+
+```
+
+### ServletScopes.REQUEST
+
+This method works well for services like web. The idea is injection of certain dependencies within the context of the request (like HTTP request).
+
+```java
+
+bind(UserTokenInfo.class)
+      .toProvider(UserTokenInfoProvider.class)
+      .in(ServletScopes.REQUEST);
+
+```
+
+You have to make sure that your request is intercepted and has proper configuration to make this work. Guice has a <a href='https://github.com/google/guice/wiki/Servlets' target='_blank'>Servlet interceptor</a> that makes it work only for some frameworks like <a href='https://spring.io/' target='_blank'>Spring</a>.
+
+### Custom Scopes
+
+Obviously, you can have your own scopes and apply them accordingly. This is a more sophisticated feature and not used that often. Normally, simple annotation based approach always works well to separate out same types.
+
+## <a name="feature2">Automatic Injection, Type Binding, To Instance, To Provider</a>
+
+The above title is super obvious, the question is more about which one to use for what. There are multiple ways to let the injector know how to populate your objects.
