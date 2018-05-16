@@ -8,7 +8,7 @@ excerpt: "This article is about dependency injection as a method to manage objec
 
 # Dependency Injection In Depth
 
-This post will describe dependency injection as a way to manage object graph in your app lifecycle including overviews of libraries and use cases.
+This post will describe dependency injection, its common features and types and some examples in different programming languages.
 
 -----------------
 
@@ -21,6 +21,9 @@ This post will describe dependency injection as a way to manage object graph in 
   - [Common DI features](#commondifeatures)
     - [Scopes](#scopes)
     - [Automatic Injection, Type Binding, To Instance, To Provider](#feature2)
+    - [Annotation Binding](#annotationbinding)
+  - [DI in Golang](#diingo)
+  - [Best Practices](#bestpractices)
 
 -----------------
 
@@ -48,7 +51,7 @@ Example DI libraries are here:
 
 ## <a name="usage">Usage Introduction</a>
 
-All approaches of dependency injection try to satisfy the same goal, which is ease of graph object management in different scopes, threads, etc. to avoid memory leaks, concurrency issues, and even some clarification on documentation, because annotations tend to be readable and clear already. Particularly, looking into Java world, we can divide DI into 2 classes `dynamic reflection` and `static compile-time`.
+All approaches of dependency injection try to satisfy the same goal, which is ease of graph object management in different scopes, threads, etc. to avoid memory leaks, concurrency issues, and even some clarification on documentation, because annotations tend to be readable and clear already. Particularly, looking into Java world, we can divide DI into 2 classes `dynamic reflection` and `static compile-time` (the latter is relatively new and mostly is used in mobile apps).
 
 ### <a name="dynamic">Dynamic reflection object graph evaluation</a>
 
@@ -101,7 +104,7 @@ public class PlayerNetworkModule extends AbstractModule {
 
     @Override
     protected void configure() {
-        bind(PlayerDao.class).to(PlayerDaoImpl.class).in(Scopes.SINGLETON);
+        bind(PlayerDao.class).to(PlayerDaoImpl.class).in(Scopes.SINGLETON); // this is a regular linked binding
         bind(GameDao.class).to(GameDaoImpl.class).in(Scopes.SINGLETON);
         bind(MatchService.class).to(MatchServiceImpl.class).in(Scopes.SINGLETON);
     }
@@ -267,7 +270,117 @@ public class EntryPoint {
 
 ```
 
-The compiler generated lots of code with factories with corresponding classes with `@Inject` annotated constructors. We endup using only the class `DaggerPlayerNetworkComponent` which is explicitly prefixed with `Dagger` word.
+The compiler generated lots of code with factories with corresponding classes with `@Inject` annotated constructors. We endup using only the class `DaggerPlayerNetworkComponent` which is explicitly prefixed with `Dagger` word. See below some of the code snippets of the generated code.
+
+```java
+
+public final class MatchServiceImpl_Factory implements Factory<MatchServiceImpl> {
+    private final Provider<GameDao> gameDaoProvider;
+    private final Provider<PlayerDao> playerDaoProvider;
+
+    public MatchServiceImpl_Factory(Provider<GameDao> gameDaoProvider, Provider<PlayerDao> playerDaoProvider) {
+        this.gameDaoProvider = gameDaoProvider;
+        this.playerDaoProvider = playerDaoProvider;
+    }
+
+    public MatchServiceImpl get() {
+        return provideInstance(this.gameDaoProvider, this.playerDaoProvider);
+    }
+
+    public static MatchServiceImpl provideInstance(Provider<GameDao> gameDaoProvider, Provider<PlayerDao> playerDaoProvider) {
+        return new MatchServiceImpl((GameDao)gameDaoProvider.get(), (PlayerDao)playerDaoProvider.get());
+    }
+
+    public static MatchServiceImpl_Factory create(Provider<GameDao> gameDaoProvider, Provider<PlayerDao> playerDaoProvider) {
+        return new MatchServiceImpl_Factory(gameDaoProvider, playerDaoProvider);
+    }
+
+    public static MatchServiceImpl newMatchServiceImpl(GameDao gameDao, PlayerDao playerDao) {
+        return new MatchServiceImpl(gameDao, playerDao);
+    }
+}
+
+
+@Generated(
+  value = "dagger.internal.codegen.ComponentProcessor",
+  comments = "https://google.github.io/dagger"
+)
+public final class DaggerPlayerNetworkComponent implements PlayerNetworkComponent {
+  private Provider<GameDao> provideGameDaoProvider;
+
+  private Provider<PlayerDao> providePlayerDaoProvider;
+
+  private MatchServiceImpl_Factory matchServiceImplProvider;
+
+  private Provider<MatchService> provideMatchServiceProvider;
+
+  private DaggerPlayerNetworkComponent(Builder builder) {
+    initialize(builder);
+  }
+
+  public static Builder builder() {
+    return new Builder();
+  }
+
+  public static PlayerNetworkComponent create() {
+    return new Builder().build();
+  }
+
+  @SuppressWarnings("unchecked")
+  private void initialize(final Builder builder) {
+    this.provideGameDaoProvider =
+        DoubleCheck.provider(
+            PlayerNetworkModule_ProvideGameDaoFactory.create(builder.playerNetworkModule));
+    this.providePlayerDaoProvider =
+        DoubleCheck.provider(
+            PlayerNetworkModule_ProvidePlayerDaoFactory.create(
+                builder.playerNetworkModule, provideGameDaoProvider));
+    this.matchServiceImplProvider =
+        MatchServiceImpl_Factory.create(provideGameDaoProvider, providePlayerDaoProvider);
+    this.provideMatchServiceProvider =
+        DoubleCheck.provider(
+            PlayerNetworkModule_ProvideMatchServiceFactory.create(
+                builder.playerNetworkModule, matchServiceImplProvider));
+  }
+
+  @Override
+  public void inject(EntryPoint entryPoint) {
+    injectEntryPoint(entryPoint);
+  }
+
+  @Override
+  public MatchService matchService() {
+    return provideMatchServiceProvider.get();
+  }
+
+  private EntryPoint injectEntryPoint(EntryPoint instance) {
+    EntryPoint_MembersInjector.injectMatchService(instance, provideMatchServiceProvider.get());
+    return instance;
+  }
+
+  public static final class Builder {
+    private PlayerNetworkModule playerNetworkModule;
+
+    private Builder() {}
+
+    public PlayerNetworkComponent build() {
+      if (playerNetworkModule == null) {
+        this.playerNetworkModule = new PlayerNetworkModule();
+      }
+      return new DaggerPlayerNetworkComponent(this);
+    }
+
+    public Builder playerNetworkModule(PlayerNetworkModule playerNetworkModule) {
+      this.playerNetworkModule = Preconditions.checkNotNull(playerNetworkModule);
+      return this;
+    }
+  }
+}
+
+
+```
+
+
 
 -----------------
 
@@ -321,3 +434,178 @@ Obviously, you can have your own scopes and apply them accordingly. This is a mo
 ## <a name="feature2">Automatic Injection, Type Binding, To Instance, To Provider</a>
 
 The above title is super obvious, the question is more about which one to use for what. There are multiple ways to let the injector know how to populate your objects.
+
+**Automatic injection** - this method will normally use the default empty constructor to create your object and possibly inject all the fields annotated as well.
+
+**To Instance binding** - the method of injecting an instance directly providing instance is also possible. This is pretty convenient, but sort of deviates from the implicit object creation approach.
+
+```java
+
+MatchService matchService = new MatchServiceImpl();
+
+bind(MatchService.class).toInstance(matchService);
+
+```
+
+**To provider** - finally, this way is very convenient, if you are trying to manually manage the instances provided on every injection. One of the best examples is dynamic configuration or per user request context injection.
+
+```java
+
+// @Provides annotation example
+public class PlayerNetworkModule extends AbstractModule {
+
+    @Override
+    protected void configure() {
+        //...
+    }
+
+    @Provides
+    public MatchService providesMatchService() {
+      new MatchServiceImpl();
+    }
+}
+
+// Provider implementation example
+public class PlayerNetworkModule extends AbstractModule {
+
+    @Override
+    protected void configure() {
+        bind(MatchService.class).toProvider(MatchProvider.class);
+    }
+}
+
+public class MatchProvider<MatchService> {
+  MatchService get() {
+    return new MatchServiceImpl();
+  }
+}
+
+```
+
+## <a name="annotationbinding">Annotation Binding</a>
+
+Using annotation binding to differentiate the binding scope for different objects is very useful. See below simple named or custom annotation bindings.
+
+#### Named binding
+
+This method is very convenient to differentiate the objects, but it requires hardcoding of the names as strings which is easy to misspell, etc. See below example usage.
+
+```java
+
+public class PlayerNetworkModule extends AbstractModule {
+
+    @Override
+    protected void configure() {
+
+      bind(MatchService.class)
+        .annotatedWith(Names.named("NFS"))
+        .to(NFSMatchServiceImpl.class);
+
+      bind(MatchService.class)
+        .annotatedWith(Names.named("PVZ"))
+        .to(PVZMatchServiceImpl.class);
+
+    }
+
+    class MatchMakingProxy {
+
+      @Inject
+      @Named("NFS")
+      MatchService nfsMatches;
+
+      @Inject
+      @Named("PVZ")
+      MatchService pvzMatches;
+
+    }
+}
+
+```
+
+
+#### Custom annotation binding
+
+This method is a little better IMHO than the above, because you avoid mistyping and just use the declared annotations.
+
+```java
+
+@BindingAnnotation @Target({ FIELD, PARAMETER, METHOD }) @Retention(RUNTIME)
+public @interface NFS {}
+
+@BindingAnnotation @Target({ FIELD, PARAMETER, METHOD }) @Retention(RUNTIME)
+public @interface PVZ {}
+
+public class PlayerNetworkModule extends AbstractModule {
+
+    @Override
+    protected void configure() {
+
+      bind(MatchService.class)
+        .annotatedWith(NFS.class)
+        .to(NFSMatchServiceImpl.class);
+
+      bind(MatchService.class)
+        .annotatedWith(PVZ.class)
+        .to(PVZMatchServiceImpl.class);
+
+    }
+
+    class MatchMakingProxy {
+
+      @Inject
+      @NFS
+      MatchService nfsMatches;
+
+      @Inject
+      @PVZ
+      MatchService pvzMatches;
+
+    }
+}
+
+```
+
+## <a name="diingo">DI in Golang</a>
+
+Let's see a super basic example of how DI would look like in Golang with Facebook Inject library.
+
+```golang
+
+package main
+
+import (
+    "fmt"
+    "net/http"
+    "os"
+
+    "github.com/facebookgo/inject"
+)
+
+type PlayerNetworkGraph struct {
+    // The tags below indicate to the inject library that these fields are
+    // eligible for injection. They do not specify any options, and will
+    // result in a singleton instance created for each of the APIs.
+
+    MatchService   *MatchService   `inject:""`
+    GameDao *GameDao `inject:""`
+}
+
+func main() {
+    var g inject.Graph
+
+    var a PlayerNetworkGraph
+    err := g.Provide(
+        &inject.Object{Value: &a}
+    )
+
+    if err != nil {
+        fmt.Fprintln(os.Stderr, err)
+        os.Exit(1)
+    }
+}
+
+```
+
+## <a name="bestpractices">Best practices link</a>
+
+Guice documentation has a good list of best practices for DI. <a href="https://github.com/google/guice/wiki" target="_blank">Check it out</a>.
