@@ -17,11 +17,12 @@ This post will describe dependency injection, its common features and types and 
   - [What is dependency injection?](#whatisit)
   - [Usage Introduction](#usage)
     - [Dynamic reflection object graph evaluation](#dynamic)
-    - [Static compile time injection](#static)
+      - [GraphvizModule](#graphviz)
   - [Common DI features](#commondifeatures)
     - [Scopes](#scopes)
     - [Automatic Injection, Type Binding, To Instance, To Provider](#feature2)
     - [Annotation Binding](#annotationbinding)
+  - [Static compile time injection](#static)
   - [DI in Golang](#diingo)
   - [Best Practices](#bestpractices)
 
@@ -131,6 +132,8 @@ public class EntryPoint {
 
 ```
 
+### <a name="graphviz">GraphvizModule</a>
+
 If you noticed, we also included some code to visualize the object graph Via Grapher. [You can learn more about Grapher from the original documentation](https://github.com/google/guice/wiki/Grapher).
 In order to convert it to an image use the following commands:
 
@@ -146,6 +149,188 @@ After all of the code above executed, you will eventually be able to see a nice 
     <img src="{{site.baseurl}}/assets/images/graphviz.png" alt="Drawing"  alt="Graphiviz Sample Output"/>
 </p>
 
+-----------------
+
+## <a name="commondifeatures">Common DI Features</a>
+
+## <a name="scopes">Scopes</a>
+
+This is the most obvious and common feature to manage different dependencies. Below are some examples of scopes:
+
+### Singleton
+
+This scope is the most widely used scope to avoid memory waste, concurrency issues, etc. Below is a sample snippet to implement such a scope.
+
+```java
+
+// The difference between methods vary based on the stage configured via Guice
+// see more here: https://github.com/google/guice/wiki/Scopes
+
+// example 1
+bind(MatchService.class).in(Singleton.class);
+
+// example 2
+bind(MatchService.class).in(Scopes.SINGLETON);
+
+// example 3
+@Singleton
+class MatchService {
+  //...
+}
+
+```
+
+### ServletScopes.REQUEST
+
+This method works well for services like web. The idea is injection of certain dependencies within the context of the request (like HTTP request).
+
+```java
+
+bind(UserTokenInfo.class)
+      .toProvider(UserTokenInfoProvider.class)
+      .in(ServletScopes.REQUEST);
+
+```
+
+You have to make sure that your request is intercepted and has proper configuration to make this work. Guice has a <a href='https://github.com/google/guice/wiki/Servlets' target='_blank'>Servlet interceptor</a> that makes it work only for some frameworks like <a href='https://spring.io/' target='_blank'>Spring</a>.
+
+### Custom Scopes
+
+Obviously, you can have your own scopes and apply them accordingly. This is a more sophisticated feature and not used that often. Normally, simple annotation based approach always works well to separate out same types.
+
+## <a name="feature2">Automatic Injection, Type Binding, To Instance, To Provider</a>
+
+The above title is super obvious, the question is more about which one to use for what. There are multiple ways to let the injector know how to populate your objects.
+
+**Automatic injection** - this method will normally use the default empty constructor to create your object and possibly inject all the fields annotated as well.
+
+**To Instance binding** - the method of injecting an instance directly providing instance is also possible. This is pretty convenient, but sort of deviates from the implicit object creation approach.
+
+```java
+
+MatchService matchService = new MatchServiceImpl();
+
+bind(MatchService.class).toInstance(matchService);
+
+```
+
+**To provider** - finally, this way is very convenient, if you are trying to manually manage the instances provided on every injection. One of the best examples is dynamic configuration or per user request context injection.
+
+```java
+
+// @Provides annotation example
+public class PlayerNetworkModule extends AbstractModule {
+
+    @Override
+    protected void configure() {
+        //...
+    }
+
+    @Provides
+    public MatchService providesMatchService() {
+      new MatchServiceImpl();
+    }
+}
+
+// Provider implementation example
+public class PlayerNetworkModule extends AbstractModule {
+
+    @Override
+    protected void configure() {
+        bind(MatchService.class).toProvider(MatchProvider.class);
+    }
+}
+
+public class MatchProvider<MatchService> {
+  MatchService get() {
+    return new MatchServiceImpl();
+  }
+}
+
+```
+
+## <a name="annotationbinding">Annotation Binding</a>
+
+Using annotation binding to differentiate the binding scope for different objects is very useful. See below simple named or custom annotation bindings.
+
+#### Named binding
+
+This method is very convenient to differentiate the objects, but it requires hardcoding of the names as strings which is easy to misspell, etc. See below example usage.
+
+```java
+
+public class PlayerNetworkModule extends AbstractModule {
+
+    @Override
+    protected void configure() {
+
+      bind(MatchService.class)
+        .annotatedWith(Names.named("NFS"))
+        .to(NFSMatchServiceImpl.class);
+
+      bind(MatchService.class)
+        .annotatedWith(Names.named("PVZ"))
+        .to(PVZMatchServiceImpl.class);
+
+    }
+
+    class MatchMakingProxy {
+
+      @Inject
+      @Named("NFS")
+      MatchService nfsMatches;
+
+      @Inject
+      @Named("PVZ")
+      MatchService pvzMatches;
+
+    }
+}
+
+```
+
+
+#### Custom annotation binding
+
+This method is a little better IMHO than the above, because you avoid mistyping and just use the declared annotations.
+
+```java
+
+@BindingAnnotation @Target({ FIELD, PARAMETER, METHOD }) @Retention(RUNTIME)
+public @interface NFS {}
+
+@BindingAnnotation @Target({ FIELD, PARAMETER, METHOD }) @Retention(RUNTIME)
+public @interface PVZ {}
+
+public class PlayerNetworkModule extends AbstractModule {
+
+    @Override
+    protected void configure() {
+
+      bind(MatchService.class)
+        .annotatedWith(NFS.class)
+        .to(NFSMatchServiceImpl.class);
+
+      bind(MatchService.class)
+        .annotatedWith(PVZ.class)
+        .to(PVZMatchServiceImpl.class);
+
+    }
+
+    class MatchMakingProxy {
+
+      @Inject
+      @NFS
+      MatchService nfsMatches;
+
+      @Inject
+      @PVZ
+      MatchService pvzMatches;
+
+    }
+}
+
+```
 
 ### <a name="static">New Static Compile Time Dependency Injection</a>
 
@@ -381,189 +566,6 @@ public final class DaggerPlayerNetworkComponent implements PlayerNetworkComponen
 ```
 
 
-
------------------
-
-## <a name="commondifeatures">Common DI Features</a>
-
-## <a name="scopes">Scopes</a>
-
-This is the most obvious and common feature to manage different dependencies. Below are some examples of scopes:
-
-### Singleton
-
-This scope is the most widely used scope to avoid memory waste, concurrency issues, etc. Below is a sample snippet to implement such a scope.
-
-```java
-
-// The difference between methods vary based on the stage configured via Guice
-// see more here: https://github.com/google/guice/wiki/Scopes
-
-// example 1
-bind(MatchService.class).in(Singleton.class);
-
-// example 2
-bind(MatchService.class).in(Scopes.SINGLETON);
-
-// example 3
-@Singleton
-class MatchService {
-  //...
-}
-
-```
-
-### ServletScopes.REQUEST
-
-This method works well for services like web. The idea is injection of certain dependencies within the context of the request (like HTTP request).
-
-```java
-
-bind(UserTokenInfo.class)
-      .toProvider(UserTokenInfoProvider.class)
-      .in(ServletScopes.REQUEST);
-
-```
-
-You have to make sure that your request is intercepted and has proper configuration to make this work. Guice has a <a href='https://github.com/google/guice/wiki/Servlets' target='_blank'>Servlet interceptor</a> that makes it work only for some frameworks like <a href='https://spring.io/' target='_blank'>Spring</a>.
-
-### Custom Scopes
-
-Obviously, you can have your own scopes and apply them accordingly. This is a more sophisticated feature and not used that often. Normally, simple annotation based approach always works well to separate out same types.
-
-## <a name="feature2">Automatic Injection, Type Binding, To Instance, To Provider</a>
-
-The above title is super obvious, the question is more about which one to use for what. There are multiple ways to let the injector know how to populate your objects.
-
-**Automatic injection** - this method will normally use the default empty constructor to create your object and possibly inject all the fields annotated as well.
-
-**To Instance binding** - the method of injecting an instance directly providing instance is also possible. This is pretty convenient, but sort of deviates from the implicit object creation approach.
-
-```java
-
-MatchService matchService = new MatchServiceImpl();
-
-bind(MatchService.class).toInstance(matchService);
-
-```
-
-**To provider** - finally, this way is very convenient, if you are trying to manually manage the instances provided on every injection. One of the best examples is dynamic configuration or per user request context injection.
-
-```java
-
-// @Provides annotation example
-public class PlayerNetworkModule extends AbstractModule {
-
-    @Override
-    protected void configure() {
-        //...
-    }
-
-    @Provides
-    public MatchService providesMatchService() {
-      new MatchServiceImpl();
-    }
-}
-
-// Provider implementation example
-public class PlayerNetworkModule extends AbstractModule {
-
-    @Override
-    protected void configure() {
-        bind(MatchService.class).toProvider(MatchProvider.class);
-    }
-}
-
-public class MatchProvider<MatchService> {
-  MatchService get() {
-    return new MatchServiceImpl();
-  }
-}
-
-```
-
-## <a name="annotationbinding">Annotation Binding</a>
-
-Using annotation binding to differentiate the binding scope for different objects is very useful. See below simple named or custom annotation bindings.
-
-#### Named binding
-
-This method is very convenient to differentiate the objects, but it requires hardcoding of the names as strings which is easy to misspell, etc. See below example usage.
-
-```java
-
-public class PlayerNetworkModule extends AbstractModule {
-
-    @Override
-    protected void configure() {
-
-      bind(MatchService.class)
-        .annotatedWith(Names.named("NFS"))
-        .to(NFSMatchServiceImpl.class);
-
-      bind(MatchService.class)
-        .annotatedWith(Names.named("PVZ"))
-        .to(PVZMatchServiceImpl.class);
-
-    }
-
-    class MatchMakingProxy {
-
-      @Inject
-      @Named("NFS")
-      MatchService nfsMatches;
-
-      @Inject
-      @Named("PVZ")
-      MatchService pvzMatches;
-
-    }
-}
-
-```
-
-
-#### Custom annotation binding
-
-This method is a little better IMHO than the above, because you avoid mistyping and just use the declared annotations.
-
-```java
-
-@BindingAnnotation @Target({ FIELD, PARAMETER, METHOD }) @Retention(RUNTIME)
-public @interface NFS {}
-
-@BindingAnnotation @Target({ FIELD, PARAMETER, METHOD }) @Retention(RUNTIME)
-public @interface PVZ {}
-
-public class PlayerNetworkModule extends AbstractModule {
-
-    @Override
-    protected void configure() {
-
-      bind(MatchService.class)
-        .annotatedWith(NFS.class)
-        .to(NFSMatchServiceImpl.class);
-
-      bind(MatchService.class)
-        .annotatedWith(PVZ.class)
-        .to(PVZMatchServiceImpl.class);
-
-    }
-
-    class MatchMakingProxy {
-
-      @Inject
-      @NFS
-      MatchService nfsMatches;
-
-      @Inject
-      @PVZ
-      MatchService pvzMatches;
-
-    }
-}
-
-```
 
 ## <a name="diingo">DI in Golang</a>
 
