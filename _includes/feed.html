@@ -10,7 +10,7 @@
 
 <section class="section summary-section">
 
-<h2 class="section-title"><i class="fa fa-feed"></i>Latest Posts</h2>
+<h2 class="section-title"><i class="fa fa-feed"></i>Articles</h2>
 <div class="summary">
 
   {% assign items = site.posts | sort: 'date' %}
@@ -18,11 +18,11 @@
     <div class="item">
         <div class="meta">
             <div class="upper-row">
-                <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+                <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
             </div>
             <div>{{ post.excerpt }}</div>
             <br />
-            <div>Post date: {{ post.date | date: "%H:%M %B %d, %Y" }}</div>
+            <div><p>Post date: {{ post.date | date: "%H:%M %B %d, %Y" }}</p></div>
         </div>
     </div>
   {% endfor %}
