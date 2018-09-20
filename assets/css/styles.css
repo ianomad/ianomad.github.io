@@ -306,6 +306,11 @@ used for profile image
 
 .food-container {
   margin-top: 30px;
+  padding-top: 10px;
+  height: 2000px;
+  overflow-y: scroll;
+  background-color: #4B6A78;
+  border-radius: 3px;
 }
 
 .video-container ul, .food-container ul {
