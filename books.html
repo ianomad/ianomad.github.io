@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-book"></i>Books</h2>
+
+  <ul>
+  {% for review in site.data.books %}
+      <li>
+        <a href="{{ review.book.link }}" target="_blank">
+          <span>{{ review.book.title }}</span>
+          <span>, {{ review.book.authors.author.name }}</span>
+          (<span>{{ review.rating }}/5</span>)
+        </a>
+      </li>
+  {% endfor %}
+  </ul>
+</section>
