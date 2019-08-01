@@ -6,7 +6,7 @@ layout: default
   <h2 class="section-title"><i class="fa fa-book"></i>Books</h2>
 
   <ul>
-  {% for review in site.data.books %}
+  {% for review in site.data.books.GoodreadsResponse.reviews.review %}
       <li>
         <a href="{{ review.book.link }}" target="_blank">
           <span>{{ review.book.title }}</span>
