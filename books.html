@@ -10,8 +10,8 @@ layout: default
       <li>
         <a href="{{ review.book.link }}" target="_blank">
           <span>{{ review.book.title }}</span>
-          <span>, {{ review.book.authors.author.name }}</span>
-          (<span>{{ review.rating }}/5</span>)
+          <span>by {{ review.book.authors.author.name }}</span> - 
+          <span>{{ review.rating }}/5</span>
         </a>
       </li>
   {% endfor %}
