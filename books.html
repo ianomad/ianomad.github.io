@@ -5,12 +5,12 @@ layout: default
 <section class="section experiences-section">
   <h2 class="section-title"><i class="fa fa-book"></i>Books</h2>
 
-  <ul>
+  <ul class="books">
   {% for review in site.data.books.GoodreadsResponse.reviews.review %}
       <li>
         <a href="{{ review.book.link }}" target="_blank">
-          <span>{{ review.book.title }}</span>
-          <span>by {{ review.book.authors.author.name }}</span>
+          <span class="title">{{ review.book.title }}</span>
+          <span class="author">by {{ review.book.authors.author.name }}</span>
         </a>
       </li>
   {% endfor %}
