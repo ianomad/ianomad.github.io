@@ -43,7 +43,7 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  background: #4B6A78;
+  /* background: #4B6A78; */
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -52,30 +52,31 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #4B6A78;
+  background: #f9f9f9;
   position: absolute;
   right: 0;
   width: 240px;
   height: 100%;
-  color: #fff;
+  color: #666;
 }
 .sidebar-wrapper a {
-  color: #fff;
+  color: #222;
+  font-size: 16px;
 }
 .sidebar-wrapper .profile-container {
-  padding: 30px;
-  background: rgba(0, 0, 0, 0.2);
+  padding: 35px 30px 0px 30px;
+  /* background: rgba(0, 0, 0, 0.2); */
   text-align: center;
-  color: #fff;
+  color: #222;
 }
 .sidebar-wrapper .name {
-  font-size: 15px;
-  /*font-weight: 900;*/
+  font-size: 16px;
+  font-weight: 400;
   margin-top: 0;
   margin-bottom: 10px;
 }
 .sidebar-wrapper .tagline {
-  color: rgba(255, 255, 255, 0.6);
+  color: #222;
   font-size: 15px;
   font-weight: 400;
   margin-top: 0;
@@ -99,7 +100,7 @@ p {
   /*font-size: 14px;*/
 }
 .sidebar-wrapper .container-block {
-  padding: 30px;
+  padding: 25px 30px 0px 30px;
 }
 .sidebar-wrapper .container-block-title {
   text-transform: uppercase;
@@ -297,7 +298,7 @@ p {
 used for profile image
 */
 .profile-img {
-  max-width: 100px;
+  max-width: 70px;
   margin-bottom: 15px;
   border: 0px solid #fff;
   border-radius: 100%;
