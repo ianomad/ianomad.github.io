@@ -18,6 +18,98 @@
 		"reviews": {
 			"review": [
 				{
+					"id": "2268919596",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "27140043"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": {
+							"_nil": "true"
+						},
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "64"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.T9pJVIDH9rHwAG2Bq-xs-A",
+						"title": "High Output Management",
+						"title_without_series": "High Output Management",
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/27140043-high-output-management",
+						"num_pages": "",
+						"format": "",
+						"edition_information": "",
+						"publisher": "",
+						"publication_day": "",
+						"publication_year": "",
+						"publication_month": "",
+						"average_rating": "4.32",
+						"ratings_count": "7814",
+						"description": "This is a user-friendly guide to the art and science of management from Andrew S. Grove, the president of America's leading manufacturer of computer chips. Groves recommendations are equally appropriate for sales managers, accountants, consultants, and teachers--anyone whose job entails getting a group of people to produce something of value. Adapting the innovations that have made Intel one of America's most successful corporations, <b>High Output Management</b> teaches you:<br />what techniques and indicators you can use to make even corporate recruiting as precise and measurable as manufacturing<br />how to turn your subordinates and coworkers into members of highly productive team<br />how to motivate that team to attain peak performance every time<br />Combining conceptual elegance with a practical understanding of the real-life scenarios that managers encounter every day, <b>High Output Management</b> is one of those rare books that have the power to revolutionize the way we work",
+						"authors": {
+							"author": {
+								"id": "37708",
+								"name": "Andrew S. Grove",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1384484207p5/37708.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1384484207p2/37708.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/37708.Andrew_S_Grove"
+								},
+								"average_rating": "4.17",
+								"ratings_count": "14115",
+								"text_reviews_count": "692"
+							}
+						},
+						"published": "",
+						"work": {
+							"id": "315440",
+							"uri": "kca://work/amzn1.gr.work.v1.OFdTNo-GL6J-molIVC7QBQ"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Fri Aug 09 21:09:07 -0700 2019",
+					"read_at": "Sat Aug 10 21:46:30 -0700 2019",
+					"date_added": "Mon Jan 22 23:22:40 -0800 2018",
+					"date_updated": "Sat Aug 10 21:50:56 -0700 2019",
+					"read_count": "1",
+					"body": {
+						"__cdata": "Very practical almost up to date book on management that will probably work on most of the companies today. Actually, it's greatly appreciated that Intel CEO himself wrote it which you can definitely feel from the simply and understandable content. This is a MUST read for a today manager."
+					},
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2268919596"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2268919596"
+					},
+					"owned": "0"
+				},
+				{
 					"id": "2931063306",
 					"book": {
 						"id": {
@@ -141,7 +233,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.31",
-						"ratings_count": "98328",
+						"ratings_count": "98329",
 						"description": "",
 						"authors": {
 							"author": {
@@ -198,98 +290,6 @@
 					},
 					"link": {
 						"__cdata": "https://www.goodreads.com/review/show/2930122311"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2918951202",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "40112370"
-						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": {
-							"_nil": "true"
-						},
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "1"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.c3PGEQYFKMRZYNv1LftquQ",
-						"title": "Groundwork for the Metaphysics of Morals: With an Updated Translation, Introduction, and Notes",
-						"title_without_series": "Groundwork for the Metaphysics of Morals: With an Updated Translation, Introduction, and Notes",
-						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/40112370-groundwork-for-the-metaphysics-of-morals",
-						"num_pages": "",
-						"format": "",
-						"edition_information": "",
-						"publisher": "",
-						"publication_day": "",
-						"publication_year": "",
-						"publication_month": "",
-						"average_rating": "3.81",
-						"ratings_count": "14969",
-						"description": "The Foundations of the Metaphysics of Morals or Groundwork of the Metaphysics of Morals (Grundlegung zur Metaphysik der Sitten), Immanuel Kant's 1st contribution to moral philosophy, argues for an a priori basis for morality. Where the Critique of Pure Reason laid out his metaphysical &amp; epistemological ideas, this relatively short, primarily metaethical, work was intended to outline &amp; define the concepts &amp; arguments shaping his future work The Metaphysics of Morals. However, the latter work is much less read than the Groundwork. The Groundwork is notable for its explanation of the categorical imperative, which is the central concept of his moral philosophy.<br /> The Groundwork is broken into a preface, followed by three sections. Kant's argument works from common reason up to the supreme unconditional law, in order to identify its existence. He then works backwards from there to prove the relevance &amp; weight of the moral law. The 3rd &amp; final section of the book is famously obscure. It's partly because of this he decided to publish the Critique of Practical Reason in 1788.",
-						"authors": {
-							"author": {
-								"id": "11038",
-								"name": "Immanuel Kant",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1287258849p5/11038.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1287258849p2/11038.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/11038.Immanuel_Kant"
-								},
-								"average_rating": "3.90",
-								"ratings_count": "76229",
-								"text_reviews_count": "1951"
-							}
-						},
-						"published": "",
-						"work": {
-							"id": "375997",
-							"uri": "kca://work/amzn1.gr.work.v1.o8Wg4jfOmjF59UjLD7UsOA"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "Wed Jul 31 00:00:00 -0700 2019",
-					"read_at": "Fri Aug 02 00:00:00 -0700 2019",
-					"date_added": "Wed Jul 31 13:56:08 -0700 2019",
-					"date_updated": "Wed Aug 07 22:27:53 -0700 2019",
-					"read_count": "1",
-					"body": {
-						"__cdata": "It’s the type of read that challenges you and if you really get to understand pieces of it, it’s very rewarding. I wouldn’t recommend it if you are just beginning with philosophy"
-					},
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2918951202"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2918951202"
 					},
 					"owned": "0"
 				},
@@ -478,6 +478,98 @@
 					"owned": "0"
 				},
 				{
+					"id": "2918951202",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "40112370"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": {
+							"_nil": "true"
+						},
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "1"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.c3PGEQYFKMRZYNv1LftquQ",
+						"title": "Groundwork for the Metaphysics of Morals: With an Updated Translation, Introduction, and Notes",
+						"title_without_series": "Groundwork for the Metaphysics of Morals: With an Updated Translation, Introduction, and Notes",
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/40112370-groundwork-for-the-metaphysics-of-morals",
+						"num_pages": "",
+						"format": "",
+						"edition_information": "",
+						"publisher": "",
+						"publication_day": "",
+						"publication_year": "",
+						"publication_month": "",
+						"average_rating": "3.81",
+						"ratings_count": "14969",
+						"description": "The Foundations of the Metaphysics of Morals or Groundwork of the Metaphysics of Morals (Grundlegung zur Metaphysik der Sitten), Immanuel Kant's 1st contribution to moral philosophy, argues for an a priori basis for morality. Where the Critique of Pure Reason laid out his metaphysical &amp; epistemological ideas, this relatively short, primarily metaethical, work was intended to outline &amp; define the concepts &amp; arguments shaping his future work The Metaphysics of Morals. However, the latter work is much less read than the Groundwork. The Groundwork is notable for its explanation of the categorical imperative, which is the central concept of his moral philosophy.<br /> The Groundwork is broken into a preface, followed by three sections. Kant's argument works from common reason up to the supreme unconditional law, in order to identify its existence. He then works backwards from there to prove the relevance &amp; weight of the moral law. The 3rd &amp; final section of the book is famously obscure. It's partly because of this he decided to publish the Critique of Practical Reason in 1788.",
+						"authors": {
+							"author": {
+								"id": "11038",
+								"name": "Immanuel Kant",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1287258849p5/11038.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1287258849p2/11038.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/11038.Immanuel_Kant"
+								},
+								"average_rating": "3.90",
+								"ratings_count": "76229",
+								"text_reviews_count": "1951"
+							}
+						},
+						"published": "",
+						"work": {
+							"id": "375997",
+							"uri": "kca://work/amzn1.gr.work.v1.o8Wg4jfOmjF59UjLD7UsOA"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Wed Jul 31 00:00:00 -0700 2019",
+					"read_at": "Fri Aug 02 00:00:00 -0700 2019",
+					"date_added": "Wed Jul 31 13:56:08 -0700 2019",
+					"date_updated": "Wed Aug 07 22:27:53 -0700 2019",
+					"read_count": "1",
+					"body": {
+						"__cdata": "It’s the type of read that challenges you and if you really get to understand pieces of it, it’s very rewarding. I wouldn’t recommend it if you are just beginning with philosophy"
+					},
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2918951202"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2918951202"
+					},
+					"owned": "0"
+				},
+				{
 					"id": "2900718145",
 					"book": {
 						"id": {
@@ -566,6 +658,188 @@
 					},
 					"link": {
 						"__cdata": "https://www.goodreads.com/review/show/2900718145"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2631648444",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "24280552"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": {
+							"_nil": "true"
+						},
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "1"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.JbgURwHoc5lIO_Ra8FcmsA",
+						"title": "The Meditations of the Emperor Marcus Aurelius Antoninus",
+						"title_without_series": "The Meditations of the Emperor Marcus Aurelius Antoninus",
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/24280552-the-meditations-of-the-emperor-marcus-aurelius-antoninus",
+						"num_pages": "",
+						"format": "",
+						"edition_information": "",
+						"publisher": "",
+						"publication_day": "",
+						"publication_year": "",
+						"publication_month": "",
+						"average_rating": "4.23",
+						"ratings_count": "87501",
+						"description": "<div>This 1742 translation is a collaborative work by Francis Hutcheson and<br />a colleague at Glasgow University, the classicist James Moor. Although<br />Hutcheson was secretive about the extent of his work on the book, he was<br />clearly the leading spirit of the project.<b><b><br />This influential classical work offered a vision of a universe governed<br />by a natural law that obliges us to love mankind and to govern our lives<br />in accordance with the natural order of things. In their account of the life<br />of the emperor, prefaced to their translation from the Greek, Hutcheson<br />and Moor celebrated the Stoic ideal of an orderly universe governed by a<br />benevolent God. They contrasted the serenity recommended and<br />practiced by Marcus Aurelius with the divisive sectarianism then exhibited<br />by their fellow Presbyterians in Scotland and elsewhere. They urged their<br />readers and fellow citizens to set aside their narrow prejudices.<b><b><br />In many ways, Hutcheson and Moor’s <strong><em>The Meditations of the<br />Emperor Marcus Aurelius Antoninus</em></strong> is a companion volume to<br />Hutcheson’s Latin work on ethics, released in the same year, <em>Philosophiae<br />Moralis Institutio Compendiaria.</em> In the latter volume, which is also available<br />from Liberty Fund, Hutcheson continues a theme that proffered his ethics<br />as a modern and, not least, Christianized version of Stoicism.<br /><b><b><br /><strong>Knud Haakonssen</strong> is Professor of Intellectual History and Director of the Centre for Intellectual History at the University of<br />Sussex, England.<br /></b></b></b></b></b></b></div>",
+						"authors": {
+							"author": {
+								"id": "216332",
+								"name": "Francis Hutcheson",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1542988836p5/216332.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1542988836p2/216332.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/216332.Francis_Hutcheson"
+								},
+								"average_rating": "3.75",
+								"ratings_count": "59",
+								"text_reviews_count": "10"
+							}
+						},
+						"published": "",
+						"work": {
+							"id": "31010",
+							"uri": "kca://work/amzn1.gr.work.v1.CRf8C6ZWHOK5pQ1pfAOPNQ"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Mon Jul 01 00:00:00 -0700 2019",
+					"read_at": "Mon Jul 22 00:23:49 -0700 2019",
+					"date_added": "Wed Dec 19 09:04:50 -0800 2018",
+					"date_updated": "Mon Jul 22 00:23:49 -0700 2019",
+					"read_count": "1",
+					"body": {
+						"__cdata": "Stoicism and general philosophy. I can find a lot of answers and parallels despite the age of the writing. It’s really hard to read, but worth it. One can find motivation and general position of “thyself” in life of the nature."
+					},
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2631648444"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2631648444"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2361082987",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "23878688"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": {
+							"_nil": "true"
+						},
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "2256"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.4u4XPtiiUlC4KLjuMr3IpA",
+						"title": "The 5 Love Languages: The Secret to Love that Lasts",
+						"title_without_series": "The 5 Love Languages: The Secret to Love that Lasts",
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/23878688-the-5-love-languages",
+						"num_pages": "",
+						"format": "",
+						"edition_information": "",
+						"publisher": "",
+						"publication_day": "",
+						"publication_year": "",
+						"publication_month": "",
+						"average_rating": "4.24",
+						"ratings_count": "244400",
+						"description": "Couples who understand each other's love language hold a priceless advantage in the quest for love that lasts a lifetime -- they know how to effectively and consistently make each other feel truly and deeply loved. That gift never fades away.",
+						"authors": {
+							"author": {
+								"id": "622",
+								"name": "Gary Chapman",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1489420646p5/622.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1489420646p2/622.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/622.Gary_Chapman"
+								},
+								"average_rating": "4.22",
+								"ratings_count": "303204",
+								"text_reviews_count": "16386"
+							}
+						},
+						"published": "",
+						"work": {
+							"id": "832090",
+							"uri": "kca://work/amzn1.gr.work.v1.r9MFwnalFsGvJqzwTg45kw"
+						}
+					},
+					"rating": "3",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Sat Apr 14 08:16:17 -0700 2018",
+					"read_at": "Sat Jul 20 00:03:15 -0700 2019",
+					"date_added": "Sat Apr 14 08:16:16 -0700 2018",
+					"date_updated": "Sat Jul 20 00:03:15 -0700 2019",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2361082987"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2361082987"
 					},
 					"owned": "0"
 				},
@@ -754,6 +1028,282 @@
 					"owned": "0"
 				},
 				{
+					"id": "2501703891",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "43601742"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": {
+							"_nil": "true"
+						},
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "11"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.VmHHO6QsibV6YTQ7z3Bk_A",
+						"title": "1984",
+						"title_without_series": "1984",
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/43601742-1984",
+						"num_pages": "",
+						"format": "",
+						"edition_information": "",
+						"publisher": "",
+						"publication_day": "",
+						"publication_year": "",
+						"publication_month": "",
+						"average_rating": "4.17",
+						"ratings_count": "2646811",
+						"description": "Among the seminal texts of the 20th century, <i>Nineteen Eighty-Four</i> is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell's nightmare vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life--the ubiquity of television, the distortion of the language--and his ability to construct such a thorough version of hell. Required reading for students since it was published, it ranks among the most terrifying novels ever written.",
+						"authors": {
+							"author": {
+								"id": "3706",
+								"name": "George Orwell",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1450573063p5/3706.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1450573063p2/3706.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/3706.George_Orwell"
+								},
+								"average_rating": "4.06",
+								"ratings_count": "5387095",
+								"text_reviews_count": "121133"
+							}
+						},
+						"published": "",
+						"work": {
+							"id": "153313",
+							"uri": "kca://work/amzn1.gr.work.v1.SgJQSc4-cyFNY1JLB6R9mA"
+						}
+					},
+					"rating": "3",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Thu Jul 11 00:00:00 -0700 2019",
+					"read_at": "Sat Jul 13 00:00:00 -0700 2019",
+					"date_added": "Tue Aug 21 00:24:44 -0700 2018",
+					"date_updated": "Sat Jul 13 22:05:19 -0700 2019",
+					"read_count": "1",
+					"body": {
+						"__cdata": "I felt pretty neutral and didn’t particularly feel any emotional excitement or derived any knowledge out of this."
+					},
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2501703891"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2501703891"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2869815916",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "18600043"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": {
+							"_nil": "true"
+						},
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "65"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.pY9w5MBGU5d92UIggrwHAg",
+						"title": "How to Read a Book",
+						"title_without_series": "How to Read a Book",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477781481l/18600043._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477781481l/18600043._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/18600043-how-to-read-a-book",
+						"num_pages": "",
+						"format": "",
+						"edition_information": "",
+						"publisher": "",
+						"publication_day": "",
+						"publication_year": "",
+						"publication_month": "",
+						"average_rating": "4.01",
+						"ratings_count": "14392",
+						"description": "How to Read a Book, originally published in 1940, has become a rare phenomenon, a living classic. It is the best and most successful guide to reading comprehension for the general reader. And now it has been completely rewritten and updated.<br /><br />You are told about the various levels of reading and how to achieve them -- from elementary reading, through systematic skimming and inspectional reading, to speed reading, you learn how to pigeonhole a book, X-ray it, extract the author's message, criticize. You are taught the different reading techniques for reading practical books, imaginative literature, plays, poetry, history, science and mathematics, philosophy and social science.<br /><br />Finally, the authors offer a recommended reading list and supply reading tests whereby you can measure your own progress in reading skills, comprehension and speed.",
+						"authors": {
+							"author": {
+								"id": "22395",
+								"name": "Mortimer J. Adler",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1250032408p5/22395.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1250032408p2/22395.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/22395.Mortimer_J_Adler"
+								},
+								"average_rating": "3.99",
+								"ratings_count": "19377",
+								"text_reviews_count": "2116"
+							}
+						},
+						"published": "",
+						"work": {
+							"id": "1633521",
+							"uri": "kca://work/amzn1.gr.work.v1.MlYWRf9jKWU3b8r5YdQuYw"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Sun Jul 07 00:00:00 -0700 2019",
+					"read_at": "Thu Jul 11 00:00:00 -0700 2019",
+					"date_added": "Mon Jun 24 04:14:12 -0700 2019",
+					"date_updated": "Thu Jul 11 22:22:44 -0700 2019",
+					"read_count": "1",
+					"body": {
+						"__cdata": "<strong>For an early reader it’s probably the best investment into reading </strong><br /><br />It gives a practical guidance and an insightful explanation on how to choose and read books. It’s shallow and gets lazy on the syntopical reading section. This gives you an absolute ramp on stretching your brain in the long term and absolutely worth reading."
+					},
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2869815916"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2869815916"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087490233",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "6001566"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": {
+							"_nil": "true"
+						},
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "117"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.7Z0mr4quSFoN1EFlEeY-qA",
+						"title": "The Tipping Point: How Little Things Can Make a Big Difference",
+						"title_without_series": "The Tipping Point: How Little Things Can Make a Big Difference",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328201287l/6001566._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328201287l/6001566._SX50_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/6001566-the-tipping-point",
+						"num_pages": "322",
+						"format": "",
+						"edition_information": "",
+						"publisher": "Little, Brown and Company",
+						"publication_day": "1",
+						"publication_year": "2006",
+						"publication_month": "11",
+						"average_rating": "3.96",
+						"ratings_count": "612899",
+						"description": "<i>An alternate cover edition exists <a href=\"https://www.goodreads.com/book/show/34668905.here\" title=\"here\" rel=\"nofollow\">here</a>.</i><br /><br />The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.<br /><br />Gladwell introduces us to the particular personality types who are natural pollinators of new ideas and trends, the people who create the phenomenon of word of mouth. He analyzes fashion trends, smoking, children's television, direct mail, and the early days of the American Revolution for clues about making ideas infectious, and visits a religious commune, a successful high-tech company, and one of the world's greatest salesmen to show how to start and sustain social epidemics.",
+						"authors": {
+							"author": {
+								"id": "1439",
+								"name": "Malcolm Gladwell",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1564001739p5/1439.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1564001739p2/1439.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell"
+								},
+								"average_rating": "3.99",
+								"ratings_count": "1724345",
+								"text_reviews_count": "63336"
+							}
+						},
+						"published": "2006",
+						"work": {
+							"id": "2124255",
+							"uri": "kca://work/amzn1.gr.work.v1.0gldOhtTZsFxGayFbXajCQ"
+						}
+					},
+					"rating": "4",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Thu Jul 04 00:00:00 -0700 2019",
+					"read_at": "Sun Jul 07 00:00:00 -0700 2019",
+					"date_added": "Wed Aug 09 11:17:28 -0700 2017",
+					"date_updated": "Fri Jul 12 00:52:52 -0700 2019",
+					"read_count": "1",
+					"body": {
+						"__cdata": "The title sounds more of as if it is about something collected over a period of time that has some big impact, whereas the book more concentrates on epidemics and how it could be caused and done for a meant reason with a set of conditions considered or applied."
+					},
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087490233"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087490233"
+					},
+					"owned": "0"
+				},
+				{
 					"id": "2871967009",
 					"book": {
 						"id": {
@@ -804,7 +1354,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/8435.Norman_Vincent_Peale"
 								},
 								"average_rating": "4.12",
-								"ratings_count": "76446",
+								"ratings_count": "76448",
 								"text_reviews_count": "1552"
 							}
 						},
@@ -938,11 +1488,11 @@
 					"owned": "0"
 				},
 				{
-					"id": "2869815916",
+					"id": "2679077369",
 					"book": {
 						"id": {
 							"_type": "integer",
-							"__text": "18600043"
+							"__text": "40198846"
 						},
 						"isbn": {
 							"_nil": "true"
@@ -952,50 +1502,50 @@
 						},
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "65"
+							"__text": "43"
 						},
-						"uri": "kca://book/amzn1.gr.book.v1.pY9w5MBGU5d92UIggrwHAg",
-						"title": "How to Read a Book",
-						"title_without_series": "How to Read a Book",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477781481l/18600043._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477781481l/18600043._SY75_.jpg",
+						"uri": "kca://book/amzn1.gr.book.v1.PGq4CDJvSO1gNEdN7qF7lg",
+						"title": "A Brief History of Time",
+						"title_without_series": "A Brief History of Time",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527090163l/40198846._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527090163l/40198846._SY75_.jpg",
 						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/18600043-how-to-read-a-book",
-						"num_pages": "",
-						"format": "",
+						"link": "https://www.goodreads.com/book/show/40198846-a-brief-history-of-time",
+						"num_pages": "226",
+						"format": "Kindle Edition",
 						"edition_information": "",
-						"publisher": "",
-						"publication_day": "",
-						"publication_year": "",
-						"publication_month": "",
-						"average_rating": "4.01",
-						"ratings_count": "14392",
-						"description": "How to Read a Book, originally published in 1940, has become a rare phenomenon, a living classic. It is the best and most successful guide to reading comprehension for the general reader. And now it has been completely rewritten and updated.<br /><br />You are told about the various levels of reading and how to achieve them -- from elementary reading, through systematic skimming and inspectional reading, to speed reading, you learn how to pigeonhole a book, X-ray it, extract the author's message, criticize. You are taught the different reading techniques for reading practical books, imaginative literature, plays, poetry, history, science and mathematics, philosophy and social science.<br /><br />Finally, the authors offer a recommended reading list and supply reading tests whereby you can measure your own progress in reading skills, comprehension and speed.",
+						"publisher": "Bantam",
+						"publication_day": "4",
+						"publication_year": "2011",
+						"publication_month": "5",
+						"average_rating": "4.16",
+						"ratings_count": "246991",
+						"description": "In the ten years since its publication in 1988, Stephen Hawking's classic work has become a landmark volume in scientific writing, with more than nine million copies in forty languages sold worldwide. That edition was on the cutting edge of what was then known about the origins and nature of the universe. But the intervening years have seen extraordinary advances in the technology of observing both the micro- and the macrocosmic worlds. These observations have confirmed many of Professor Hawking's theoretical predictions in the first edition of his book, including the recent discoveries of the Cosmic Background Explorer satellite (COBE), which probed back in time to within 300,000 years of the universe's beginning and revealed wrinkles in the fabric of space-time that he had projected. Eager to bring to his original text the new knowledge revealed by these observations, as well as his own recent research, Professor Hawking has prepared a new introduction to the book, written an entirely new chapter on wormholes and time travel, and updated the chapters throughout.",
 						"authors": {
 							"author": {
-								"id": "22395",
-								"name": "Mortimer J. Adler",
+								"id": "1401",
+								"name": "Stephen Hawking",
 								"role": "",
 								"image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1250032408p5/22395.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1557493340p5/1401.jpg"
 								},
 								"small_image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1250032408p2/22395.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1557493340p2/1401.jpg"
 								},
 								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/22395.Mortimer_J_Adler"
+									"__cdata": "https://www.goodreads.com/author/show/1401.Stephen_Hawking"
 								},
-								"average_rating": "3.99",
-								"ratings_count": "19377",
-								"text_reviews_count": "2116"
+								"average_rating": "4.14",
+								"ratings_count": "454627",
+								"text_reviews_count": "17425"
 							}
 						},
-						"published": "",
+						"published": "2011",
 						"work": {
-							"id": "1633521",
-							"uri": "kca://work/amzn1.gr.work.v1.MlYWRf9jKWU3b8r5YdQuYw"
+							"id": "2192250",
+							"uri": "kca://work/amzn1.gr.work.v1.OZ8CGI8cStk8Z7Qkqcry1g"
 						}
 					},
 					"rating": "5",
@@ -1012,20 +1562,20 @@
 					},
 					"recommended_for": "",
 					"recommended_by": "",
-					"started_at": "Sun Jul 07 00:00:00 -0700 2019",
-					"read_at": "Thu Jul 11 00:00:00 -0700 2019",
-					"date_added": "Mon Jun 24 04:14:12 -0700 2019",
-					"date_updated": "Thu Jul 11 22:22:44 -0700 2019",
-					"read_count": "1",
+					"started_at": "Mon Jun 24 00:00:00 -0700 2019",
+					"read_at": "Tue Jun 25 00:00:00 -0700 2019",
+					"date_added": "Fri Jan 18 07:02:00 -0800 2019",
+					"date_updated": "Fri Jul 12 00:58:54 -0700 2019",
+					"read_count": "3",
 					"body": {
-						"__cdata": "<strong>For an early reader it’s probably the best investment into reading </strong><br /><br />It gives a practical guidance and an insightful explanation on how to choose and read books. It’s shallow and gets lazy on the syntopical reading section. This gives you an absolute ramp on stretching your brain in the long term and absolutely worth reading."
+						"__cdata": "This is probably the best read of mine. I don’t think I can write a fair review to share the greatness. Things I will mention though is it’s written in the best manner and language and has multidimensional perspectives on the matter in the literal, metaphorical, and probably any other sense."
 					},
 					"comments_count": "0",
 					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2869815916"
+						"__cdata": "https://www.goodreads.com/review/show/2679077369"
 					},
 					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2869815916"
+						"__cdata": "https://www.goodreads.com/review/show/2679077369"
 					},
 					"owned": "0"
 				},
@@ -1122,6 +1672,98 @@
 					"owned": "0"
 				},
 				{
+					"id": "2500290752",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "39963165"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": {
+							"_nil": "true"
+						},
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "77"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.7cuo0Q7b7Q4FMcYgcOpx9w",
+						"title": "Extreme Ownership: How U.S. Navy SEALs Lead and Win",
+						"title_without_series": "Extreme Ownership: How U.S. Navy SEALs Lead and Win",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524748524l/39963165._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524748524l/39963165._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/39963165-extreme-ownership",
+						"num_pages": "317",
+						"format": "Kindle Edition",
+						"edition_information": "",
+						"publisher": "St. Martin's Press",
+						"publication_day": "21",
+						"publication_year": "2017",
+						"publication_month": "11",
+						"average_rating": "4.28",
+						"ratings_count": "23627",
+						"description": "In <i>Extreme Ownership: How U.S. Navy SEALs Lead and Win</i>, Jocko Willink and Leif Babin share hard-hitting, Navy SEAL combat stories that translate into lessons learned for business and life. With riveting first-hand accounts that put the reader directly in the action making high-pressure decisions as a Navy SEAL battlefield leader, this book is equally gripping for leaders who seek to dominate their arena as well as military enthusiasts.<br />Jocko Willink and Leif Babin served together in SEAL Task Unit Bruiser, the most highly decorated Special Operations unit from the war in Iraq. Jocko, the task unit commander, planned and executed the strategy for Task Unit Bruiser, which had huge impact in the \"Battle of Ramadi.\" Leif, as commander of Charlie Platoon (one of two SEAL platoons in Task Unit Bruiser) led countless combat operations into hostile territory alongside such outstanding SEAL warriors as Charlie Platoon's lead sniper and point man,<i> </i>Chris Kyle, the<i> American Sniper</i>. These efforts contributed to the historic triumph for U.S. forces in Ramadi, which was the epicenter of the Iraqi insurgency at the time. Through those difficult months of sustained combat, Jocko, Leif and their SEAL brothers learned that leadership-at every level-is the most important thing on the battlefield; the greatest factor in whether a team succeeds or fails. <br />Leif and Jocko returned from the battlefield to build and run advanced SEAL training, where they developed much of the SEAL leadership curriculum in use today. Leif and Jocko trained and mentored the future generations of SEAL leaders and watched many of them implement the same leadership principles on difficult battlefields with incredible success. When Jocko retired from the service and Leif left active duty, they launched a company, Echelon Front, to teach these same leadership principles to others who want to build their own high-performance, winning teams. In their work with dozens of companies across industries throughout the business world, they again witnessed how these same leadership principles lead to victory for the companies and executives they trained. <br />This book explains the SEAL leadership concepts crucial to accomplishing the most difficult missions in combat and how to apply them to any group, team, or organization. It provides the reader with Jocko and Leif's formula for success: the mindset and guiding principles that enable SEAL combat units to achieve extraordinary results. It demonstrates how to apply these directly to business and life to likewise achieve victory.<br /><br />Principles include:<b> </b><br /><b></b><b></b><br /><b><br />Extreme Ownership</b>: With lives at stake, a combat leader must own <i>everything</i>. There is no one else to blame. The same applies in any leadership situation. When Jocko and Leif explain and take ownership of the incredible combat challenges and horrific tragedy they experienced, that message resonates crystal clear.<br /><b>Cover and Move:</b> In a firefight, every person and group within the team must work together to suppress enemy fire while others maneuver to destroy the enemy. If members of the team fail to work together, the results are catastrophic. While the consequences in the business world are not as severe, the lesson is the same: individuals and teams must work together to achieve victory. When heard in the context of combat, it is a lesson that will not be forgotten.<br /><br /><b>Leading Up the Chain of Command: </b>On the battlefield, there is no time for a leader to blame their boss for not giving the support needed. It is up to frontline leaders to educate, inform, and clearly communicate up the chain of command to ensure they have what they need in order to achieve victory. This directly translates to any business or industry.<br /><br /><b>Quotes from business executives who have read the manuscript:</b><br /><b></b><b></b><br /><b></b>\"I can't put this book down. Wow! My mind is racing about how much better of a leader I could be. This is really incredible...\"<br /><br />\"I've read dozens of leadership books, studied leadership through business school and been in leadership positions all my life. I can say without reservation that I've been able to immediately implement more practices and principles taught in your book than any other leadership book I've read.\"<br /><br />\"It was inspiring, directive and super practical, making the lessons taught easy to digest in order to put to work. This book provides huge value for leaders of all levels. My team will thank you for making me better. Now I have lots to do!\"<br /><br />This outstanding read will give anyone in any leadership position a whole new perspective on leadership. Order a copy now and execute EXTREME OWNERSHIP.",
+						"authors": {
+							"author": {
+								"id": "10803973",
+								"name": "Jocko Willink",
+								"role": "",
+								"image_url": {
+									"_nophoto": "true",
+									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+								},
+								"small_image_url": {
+									"_nophoto": "true",
+									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/10803973.Jocko_Willink"
+								},
+								"average_rating": "4.27",
+								"ratings_count": "33502",
+								"text_reviews_count": "3031"
+							}
+						},
+						"published": "2017",
+						"work": {
+							"id": "43458164",
+							"uri": "kca://work/amzn1.gr.work.v1.K5NDWseMuwxG3o8uuGpKWg"
+						}
+					},
+					"rating": "4",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Sun Jun 02 00:00:00 -0700 2019",
+					"read_at": "Sun Jun 16 00:00:00 -0700 2019",
+					"date_added": "Sun Aug 19 23:50:06 -0700 2018",
+					"date_updated": "Fri Jul 12 01:02:29 -0700 2019",
+					"read_count": "1",
+					"body": {
+						"__cdata": "It’s a very declarative and opinionated framework which probably works in practice to get things executed in corporates or life. It certainly carries an aggressive winner attitude one might find highly motivating, etc. It doesn’t have much philosophical ethics, which is probably fine for the kind."
+					},
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2500290752"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2500290752"
+					},
+					"owned": "0"
+				},
+				{
 					"id": "2812227897",
 					"book": {
 						"id": {
@@ -1210,6 +1852,98 @@
 					},
 					"link": {
 						"__cdata": "https://www.goodreads.com/review/show/2812227897"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2592383595",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "37761254"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": {
+							"_nil": "true"
+						},
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "27"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.trKN5mJ7iuk3iGMZW0Mjaw",
+						"title": "Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions",
+						"title_without_series": "Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514494506l/37761254._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514494506l/37761254._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/37761254-predictably-irrational-revised-and-expanded-edition",
+						"num_pages": "382",
+						"format": "Kindle Edition",
+						"edition_information": "",
+						"publisher": "HarperCollins e-books",
+						"publication_day": "6",
+						"publication_year": "2009",
+						"publication_month": "6",
+						"average_rating": "4.12",
+						"ratings_count": "86392",
+						"description": "Why do our headaches persist after taking a one-cent aspirin but disappear when we take a 50-cent aspirin?<br /><br />Why does recalling the Ten Commandments reduce our tendency to lie, even when we couldn't possibly be caught?<br /><br />Why do we splurge on a lavish meal but cut coupons to save twenty-five cents on a can of soup?<br /><br />Why do we go back for second helpings at the unlimited buffet, even when our stomachs are already full?<br /><br />And how did we ever start spending $4.15 on a cup of coffee when, just a few years ago, we used to pay less than a dollar?<br /><br />When it comes to making decisions in our lives, we think we're in control. We think we're making smart, rational choices. But are we?<br /><br />In a series of illuminating, often surprising experiments, MIT behavioral economist Dan Ariely refutes the common assumption that we behave in fundamentally rational ways. Blending everyday experience with groundbreaking research, Ariely explains how expectations, emotions, social norms, and other invisible, seemingly illogical forces skew our reasoning abilities.<br /><br />Not only do we make astonishingly simple mistakes every day, but we make the same \"types\" of mistakes, Ariely discovers. We consistently overpay, underestimate, and procrastinate. We fail to understand the profound effects of our emotions on what we want, and we overvalue what we already own. Yet these misguided behaviors are neither random nor senseless. They're systematic and predictable--making us \"predictably\" irrational.<br /><br />From drinking coffee to losing weight, from buying a car to choosing a romantic partner, Ariely explains how to break through these systematic patterns of thought to make better decisions. \"Predictably Irrational\" will change the way we interact with the world--one small decision at a time.",
+						"authors": {
+							"author": {
+								"id": "788461",
+								"name": "Dan Ariely",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1270639083p5/788461.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1270639083p2/788461.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/788461.Dan_Ariely"
+								},
+								"average_rating": "4.06",
+								"ratings_count": "137506",
+								"text_reviews_count": "7604"
+							}
+						},
+						"published": "2009",
+						"work": {
+							"id": "3074803",
+							"uri": "kca://work/amzn1.gr.work.v1.fS00640pj9R2VilgRIHS0Q"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Fri Feb 08 00:00:00 -0800 2019",
+					"read_at": "Sun Apr 07 00:00:00 -0700 2019",
+					"date_added": "Mon Nov 12 16:55:19 -0800 2018",
+					"date_updated": "Fri Jul 12 01:04:26 -0700 2019",
+					"read_count": "1",
+					"body": {
+						"__cdata": "Good read to understand how dumb people can be. The book tries to help us be not such."
+					},
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2592383595"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2592383595"
 					},
 					"owned": "0"
 				},
@@ -1304,554 +2038,6 @@
 					"owned": "0"
 				},
 				{
-					"id": "2679077369",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "40198846"
-						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": {
-							"_nil": "true"
-						},
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "43"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.PGq4CDJvSO1gNEdN7qF7lg",
-						"title": "A Brief History of Time",
-						"title_without_series": "A Brief History of Time",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527090163l/40198846._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527090163l/40198846._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/40198846-a-brief-history-of-time",
-						"num_pages": "226",
-						"format": "Kindle Edition",
-						"edition_information": "",
-						"publisher": "Bantam",
-						"publication_day": "4",
-						"publication_year": "2011",
-						"publication_month": "5",
-						"average_rating": "4.16",
-						"ratings_count": "246988",
-						"description": "In the ten years since its publication in 1988, Stephen Hawking's classic work has become a landmark volume in scientific writing, with more than nine million copies in forty languages sold worldwide. That edition was on the cutting edge of what was then known about the origins and nature of the universe. But the intervening years have seen extraordinary advances in the technology of observing both the micro- and the macrocosmic worlds. These observations have confirmed many of Professor Hawking's theoretical predictions in the first edition of his book, including the recent discoveries of the Cosmic Background Explorer satellite (COBE), which probed back in time to within 300,000 years of the universe's beginning and revealed wrinkles in the fabric of space-time that he had projected. Eager to bring to his original text the new knowledge revealed by these observations, as well as his own recent research, Professor Hawking has prepared a new introduction to the book, written an entirely new chapter on wormholes and time travel, and updated the chapters throughout.",
-						"authors": {
-							"author": {
-								"id": "1401",
-								"name": "Stephen Hawking",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1557493340p5/1401.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1557493340p2/1401.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/1401.Stephen_Hawking"
-								},
-								"average_rating": "4.14",
-								"ratings_count": "454627",
-								"text_reviews_count": "17425"
-							}
-						},
-						"published": "2011",
-						"work": {
-							"id": "2192250",
-							"uri": "kca://work/amzn1.gr.work.v1.OZ8CGI8cStk8Z7Qkqcry1g"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "Mon Jun 24 00:00:00 -0700 2019",
-					"read_at": "Tue Jun 25 00:00:00 -0700 2019",
-					"date_added": "Fri Jan 18 07:02:00 -0800 2019",
-					"date_updated": "Fri Jul 12 00:58:54 -0700 2019",
-					"read_count": "3",
-					"body": {
-						"__cdata": "This is probably the best read of mine. I don’t think I can write a fair review to share the greatness. Things I will mention though is it’s written in the best manner and language and has multidimensional perspectives on the matter in the literal, metaphorical, and probably any other sense."
-					},
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2679077369"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2679077369"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2631648444",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "24280552"
-						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": {
-							"_nil": "true"
-						},
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "1"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.JbgURwHoc5lIO_Ra8FcmsA",
-						"title": "The Meditations of the Emperor Marcus Aurelius Antoninus",
-						"title_without_series": "The Meditations of the Emperor Marcus Aurelius Antoninus",
-						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/24280552-the-meditations-of-the-emperor-marcus-aurelius-antoninus",
-						"num_pages": "",
-						"format": "",
-						"edition_information": "",
-						"publisher": "",
-						"publication_day": "",
-						"publication_year": "",
-						"publication_month": "",
-						"average_rating": "4.23",
-						"ratings_count": "87501",
-						"description": "<div>This 1742 translation is a collaborative work by Francis Hutcheson and<br />a colleague at Glasgow University, the classicist James Moor. Although<br />Hutcheson was secretive about the extent of his work on the book, he was<br />clearly the leading spirit of the project.<b><b><br />This influential classical work offered a vision of a universe governed<br />by a natural law that obliges us to love mankind and to govern our lives<br />in accordance with the natural order of things. In their account of the life<br />of the emperor, prefaced to their translation from the Greek, Hutcheson<br />and Moor celebrated the Stoic ideal of an orderly universe governed by a<br />benevolent God. They contrasted the serenity recommended and<br />practiced by Marcus Aurelius with the divisive sectarianism then exhibited<br />by their fellow Presbyterians in Scotland and elsewhere. They urged their<br />readers and fellow citizens to set aside their narrow prejudices.<b><b><br />In many ways, Hutcheson and Moor’s <strong><em>The Meditations of the<br />Emperor Marcus Aurelius Antoninus</em></strong> is a companion volume to<br />Hutcheson’s Latin work on ethics, released in the same year, <em>Philosophiae<br />Moralis Institutio Compendiaria.</em> In the latter volume, which is also available<br />from Liberty Fund, Hutcheson continues a theme that proffered his ethics<br />as a modern and, not least, Christianized version of Stoicism.<br /><b><b><br /><strong>Knud Haakonssen</strong> is Professor of Intellectual History and Director of the Centre for Intellectual History at the University of<br />Sussex, England.<br /></b></b></b></b></b></b></div>",
-						"authors": {
-							"author": {
-								"id": "216332",
-								"name": "Francis Hutcheson",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1542988836p5/216332.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1542988836p2/216332.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/216332.Francis_Hutcheson"
-								},
-								"average_rating": "3.75",
-								"ratings_count": "59",
-								"text_reviews_count": "10"
-							}
-						},
-						"published": "",
-						"work": {
-							"id": "31010",
-							"uri": "kca://work/amzn1.gr.work.v1.CRf8C6ZWHOK5pQ1pfAOPNQ"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "Mon Jul 01 00:00:00 -0700 2019",
-					"read_at": "Mon Jul 22 00:23:49 -0700 2019",
-					"date_added": "Wed Dec 19 09:04:50 -0800 2018",
-					"date_updated": "Mon Jul 22 00:23:49 -0700 2019",
-					"read_count": "1",
-					"body": {
-						"__cdata": "Stoicism and general philosophy. I can find a lot of answers and parallels despite the age of the writing. It’s really hard to read, but worth it. One can find motivation and general position of “thyself” in life of the nature."
-					},
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2631648444"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2631648444"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2592383595",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "37761254"
-						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": {
-							"_nil": "true"
-						},
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "27"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.trKN5mJ7iuk3iGMZW0Mjaw",
-						"title": "Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions",
-						"title_without_series": "Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514494506l/37761254._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514494506l/37761254._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/37761254-predictably-irrational-revised-and-expanded-edition",
-						"num_pages": "382",
-						"format": "Kindle Edition",
-						"edition_information": "",
-						"publisher": "HarperCollins e-books",
-						"publication_day": "6",
-						"publication_year": "2009",
-						"publication_month": "6",
-						"average_rating": "4.12",
-						"ratings_count": "86392",
-						"description": "Why do our headaches persist after taking a one-cent aspirin but disappear when we take a 50-cent aspirin?<br /><br />Why does recalling the Ten Commandments reduce our tendency to lie, even when we couldn't possibly be caught?<br /><br />Why do we splurge on a lavish meal but cut coupons to save twenty-five cents on a can of soup?<br /><br />Why do we go back for second helpings at the unlimited buffet, even when our stomachs are already full?<br /><br />And how did we ever start spending $4.15 on a cup of coffee when, just a few years ago, we used to pay less than a dollar?<br /><br />When it comes to making decisions in our lives, we think we're in control. We think we're making smart, rational choices. But are we?<br /><br />In a series of illuminating, often surprising experiments, MIT behavioral economist Dan Ariely refutes the common assumption that we behave in fundamentally rational ways. Blending everyday experience with groundbreaking research, Ariely explains how expectations, emotions, social norms, and other invisible, seemingly illogical forces skew our reasoning abilities.<br /><br />Not only do we make astonishingly simple mistakes every day, but we make the same \"types\" of mistakes, Ariely discovers. We consistently overpay, underestimate, and procrastinate. We fail to understand the profound effects of our emotions on what we want, and we overvalue what we already own. Yet these misguided behaviors are neither random nor senseless. They're systematic and predictable--making us \"predictably\" irrational.<br /><br />From drinking coffee to losing weight, from buying a car to choosing a romantic partner, Ariely explains how to break through these systematic patterns of thought to make better decisions. \"Predictably Irrational\" will change the way we interact with the world--one small decision at a time.",
-						"authors": {
-							"author": {
-								"id": "788461",
-								"name": "Dan Ariely",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1270639083p5/788461.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1270639083p2/788461.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/788461.Dan_Ariely"
-								},
-								"average_rating": "4.06",
-								"ratings_count": "137503",
-								"text_reviews_count": "7604"
-							}
-						},
-						"published": "2009",
-						"work": {
-							"id": "3074803",
-							"uri": "kca://work/amzn1.gr.work.v1.fS00640pj9R2VilgRIHS0Q"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "Fri Feb 08 00:00:00 -0800 2019",
-					"read_at": "Sun Apr 07 00:00:00 -0700 2019",
-					"date_added": "Mon Nov 12 16:55:19 -0800 2018",
-					"date_updated": "Fri Jul 12 01:04:26 -0700 2019",
-					"read_count": "1",
-					"body": {
-						"__cdata": "Good read to understand how dumb people can be. The book tries to help us be not such."
-					},
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2592383595"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2592383595"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2501703891",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "43601742"
-						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": {
-							"_nil": "true"
-						},
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "11"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.VmHHO6QsibV6YTQ7z3Bk_A",
-						"title": "1984",
-						"title_without_series": "1984",
-						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/43601742-1984",
-						"num_pages": "",
-						"format": "",
-						"edition_information": "",
-						"publisher": "",
-						"publication_day": "",
-						"publication_year": "",
-						"publication_month": "",
-						"average_rating": "4.17",
-						"ratings_count": "2646811",
-						"description": "Among the seminal texts of the 20th century, <i>Nineteen Eighty-Four</i> is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell's nightmare vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life--the ubiquity of television, the distortion of the language--and his ability to construct such a thorough version of hell. Required reading for students since it was published, it ranks among the most terrifying novels ever written.",
-						"authors": {
-							"author": {
-								"id": "3706",
-								"name": "George Orwell",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1450573063p5/3706.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1450573063p2/3706.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/3706.George_Orwell"
-								},
-								"average_rating": "4.06",
-								"ratings_count": "5387069",
-								"text_reviews_count": "121133"
-							}
-						},
-						"published": "",
-						"work": {
-							"id": "153313",
-							"uri": "kca://work/amzn1.gr.work.v1.SgJQSc4-cyFNY1JLB6R9mA"
-						}
-					},
-					"rating": "3",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "Thu Jul 11 00:00:00 -0700 2019",
-					"read_at": "Sat Jul 13 00:00:00 -0700 2019",
-					"date_added": "Tue Aug 21 00:24:44 -0700 2018",
-					"date_updated": "Sat Jul 13 22:05:19 -0700 2019",
-					"read_count": "1",
-					"body": {
-						"__cdata": "I felt pretty neutral and didn’t particularly feel any emotional excitement or derived any knowledge out of this."
-					},
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2501703891"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2501703891"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2500774301",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "4865"
-						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": "9780671723651",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "9206"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.rKo_rjo_Jxag7Cf2yDnvzg",
-						"title": "How to Win Friends and Influence People",
-						"title_without_series": "How to Win Friends and Influence People",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People",
-						"num_pages": "288",
-						"format": "Paperback",
-						"edition_information": "Special Anniversary Edition",
-						"publisher": "Gallery Books",
-						"publication_day": "1",
-						"publication_year": "1998",
-						"publication_month": "10",
-						"average_rating": "4.18",
-						"ratings_count": "459652",
-						"description": "You can go after the job you want...and get it! You can take the job you have...and improve it! You can take any situation you're in...and make it work for you!<br /><br />Since its release in 1936, <i>How to Win Friends and Influence People</i> has sold more than 15 million copies. Dale Carnegie's first book is a timeless bestseller, packed with rock-solid advice that has carried thousands of now famous people up the ladder of success in their business and personal lives.<br /><br />As relevant as ever before, Dale Carnegie's principles endure, and will help you achieve your maximum potential in the complex and competitive modern age.<br /><br />Learn the six ways to make people like you, the twelve ways to win people to your way of thinking, and the nine ways to change people without arousing resentment.",
-						"authors": {
-							"author": {
-								"id": "3317",
-								"name": "Dale Carnegie",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1230226725p5/3317.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1230226725p2/3317.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/3317.Dale_Carnegie"
-								},
-								"average_rating": "4.17",
-								"ratings_count": "557756",
-								"text_reviews_count": "15628"
-							}
-						},
-						"published": "1998",
-						"work": {
-							"id": "2370171",
-							"uri": "kca://work/amzn1.gr.work.v1.ZfNbTlbgMFPj0utnEXyWKA"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Mon Aug 20 09:57:07 -0700 2018",
-					"date_updated": "Mon Aug 20 09:57:23 -0700 2018",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2500774301"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2500774301"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2500290752",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "39963165"
-						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": {
-							"_nil": "true"
-						},
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "77"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.7cuo0Q7b7Q4FMcYgcOpx9w",
-						"title": "Extreme Ownership: How U.S. Navy SEALs Lead and Win",
-						"title_without_series": "Extreme Ownership: How U.S. Navy SEALs Lead and Win",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524748524l/39963165._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524748524l/39963165._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/39963165-extreme-ownership",
-						"num_pages": "317",
-						"format": "Kindle Edition",
-						"edition_information": "",
-						"publisher": "St. Martin's Press",
-						"publication_day": "21",
-						"publication_year": "2017",
-						"publication_month": "11",
-						"average_rating": "4.28",
-						"ratings_count": "23627",
-						"description": "In <i>Extreme Ownership: How U.S. Navy SEALs Lead and Win</i>, Jocko Willink and Leif Babin share hard-hitting, Navy SEAL combat stories that translate into lessons learned for business and life. With riveting first-hand accounts that put the reader directly in the action making high-pressure decisions as a Navy SEAL battlefield leader, this book is equally gripping for leaders who seek to dominate their arena as well as military enthusiasts.<br />Jocko Willink and Leif Babin served together in SEAL Task Unit Bruiser, the most highly decorated Special Operations unit from the war in Iraq. Jocko, the task unit commander, planned and executed the strategy for Task Unit Bruiser, which had huge impact in the \"Battle of Ramadi.\" Leif, as commander of Charlie Platoon (one of two SEAL platoons in Task Unit Bruiser) led countless combat operations into hostile territory alongside such outstanding SEAL warriors as Charlie Platoon's lead sniper and point man,<i> </i>Chris Kyle, the<i> American Sniper</i>. These efforts contributed to the historic triumph for U.S. forces in Ramadi, which was the epicenter of the Iraqi insurgency at the time. Through those difficult months of sustained combat, Jocko, Leif and their SEAL brothers learned that leadership-at every level-is the most important thing on the battlefield; the greatest factor in whether a team succeeds or fails. <br />Leif and Jocko returned from the battlefield to build and run advanced SEAL training, where they developed much of the SEAL leadership curriculum in use today. Leif and Jocko trained and mentored the future generations of SEAL leaders and watched many of them implement the same leadership principles on difficult battlefields with incredible success. When Jocko retired from the service and Leif left active duty, they launched a company, Echelon Front, to teach these same leadership principles to others who want to build their own high-performance, winning teams. In their work with dozens of companies across industries throughout the business world, they again witnessed how these same leadership principles lead to victory for the companies and executives they trained. <br />This book explains the SEAL leadership concepts crucial to accomplishing the most difficult missions in combat and how to apply them to any group, team, or organization. It provides the reader with Jocko and Leif's formula for success: the mindset and guiding principles that enable SEAL combat units to achieve extraordinary results. It demonstrates how to apply these directly to business and life to likewise achieve victory.<br /><br />Principles include:<b> </b><br /><b></b><b></b><br /><b><br />Extreme Ownership</b>: With lives at stake, a combat leader must own <i>everything</i>. There is no one else to blame. The same applies in any leadership situation. When Jocko and Leif explain and take ownership of the incredible combat challenges and horrific tragedy they experienced, that message resonates crystal clear.<br /><b>Cover and Move:</b> In a firefight, every person and group within the team must work together to suppress enemy fire while others maneuver to destroy the enemy. If members of the team fail to work together, the results are catastrophic. While the consequences in the business world are not as severe, the lesson is the same: individuals and teams must work together to achieve victory. When heard in the context of combat, it is a lesson that will not be forgotten.<br /><br /><b>Leading Up the Chain of Command: </b>On the battlefield, there is no time for a leader to blame their boss for not giving the support needed. It is up to frontline leaders to educate, inform, and clearly communicate up the chain of command to ensure they have what they need in order to achieve victory. This directly translates to any business or industry.<br /><br /><b>Quotes from business executives who have read the manuscript:</b><br /><b></b><b></b><br /><b></b>\"I can't put this book down. Wow! My mind is racing about how much better of a leader I could be. This is really incredible...\"<br /><br />\"I've read dozens of leadership books, studied leadership through business school and been in leadership positions all my life. I can say without reservation that I've been able to immediately implement more practices and principles taught in your book than any other leadership book I've read.\"<br /><br />\"It was inspiring, directive and super practical, making the lessons taught easy to digest in order to put to work. This book provides huge value for leaders of all levels. My team will thank you for making me better. Now I have lots to do!\"<br /><br />This outstanding read will give anyone in any leadership position a whole new perspective on leadership. Order a copy now and execute EXTREME OWNERSHIP.",
-						"authors": {
-							"author": {
-								"id": "10803973",
-								"name": "Jocko Willink",
-								"role": "",
-								"image_url": {
-									"_nophoto": "true",
-									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
-								},
-								"small_image_url": {
-									"_nophoto": "true",
-									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/10803973.Jocko_Willink"
-								},
-								"average_rating": "4.27",
-								"ratings_count": "33502",
-								"text_reviews_count": "3031"
-							}
-						},
-						"published": "2017",
-						"work": {
-							"id": "43458164",
-							"uri": "kca://work/amzn1.gr.work.v1.K5NDWseMuwxG3o8uuGpKWg"
-						}
-					},
-					"rating": "4",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "Sun Jun 02 00:00:00 -0700 2019",
-					"read_at": "Sun Jun 16 00:00:00 -0700 2019",
-					"date_added": "Sun Aug 19 23:50:06 -0700 2018",
-					"date_updated": "Fri Jul 12 01:02:29 -0700 2019",
-					"read_count": "1",
-					"body": {
-						"__cdata": "It’s a very declarative and opinionated framework which probably works in practice to get things executed in corporates or life. It certainly carries an aggressive winner attitude one might find highly motivating, etc. It doesn’t have much philosophical ethics, which is probably fine for the kind."
-					},
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2500290752"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2500290752"
-					},
-					"owned": "0"
-				},
-				{
 					"id": "2420706815",
 					"book": {
 						"id": {
@@ -1934,6 +2120,178 @@
 					},
 					"link": {
 						"__cdata": "https://www.goodreads.com/review/show/2420706815"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087490286",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "28257707"
+						},
+						"isbn": "006245773X",
+						"isbn13": "9780062457738",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "17506"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.ysvaV5CVuyQiR6PtHSekJw",
+						"title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+						"title_without_series": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SX50_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck",
+						"num_pages": "224",
+						"format": "ebook",
+						"edition_information": "",
+						"publisher": "Harper",
+						"publication_day": "13",
+						"publication_year": "2016",
+						"publication_month": "9",
+						"average_rating": "3.97",
+						"ratings_count": "311762",
+						"description": "In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be \"positive\" all the time so that we can truly become better, happier people.<br /><br />For decades, we’ve been told that positive thinking is the key to a happy, rich life. \"F**k positivity,\" Mark Manson says. \"Let’s be honest, shit is f**ked and we have to live with it.\" In his wildly popular Internet blog, Manson doesn’t sugarcoat or equivocate. He tells it like it is—a dose of raw, refreshing, honest truth that is sorely lacking today. <em>The Subtle Art of Not Giving a F**k</em> is his antidote to the coddling, let’s-all-feel-good mindset that has infected American society and spoiled a generation, rewarding them with gold medals just for showing up.<br /><br />Manson makes the argument, backed both by academic research and well-timed poop jokes, that improving our lives hinges not on our ability to turn lemons into lemonade, but on learning to stomach lemons better. Human beings are flawed and limited—\"not everybody can be extraordinary, there are winners and losers in society, and some of it is not fair or your fault.\" Manson advises us to get to know our limitations and accept them. Once we embrace our fears, faults, and uncertainties, once we stop running and avoiding and start confronting painful truths, we can begin to find the courage, perseverance, honesty, responsibility, curiosity, and forgiveness we seek.<br /><br />There are only so many things we can give a f**k about so we need to figure out which ones really matter, Manson makes clear. While money is nice, caring about what you do with your life is better, because true wealth is about experience. A much-needed grab-you-by-the-shoulders-and-look-you-in-the-eye moment of real-talk, filled with entertaining stories and profane, ruthless humor, <em>The Subtle Art of Not Giving a F**k</em> is a refreshing slap for a generation to help them lead contented, grounded lives.",
+						"authors": {
+							"author": {
+								"id": "8529755",
+								"name": "Mark Manson",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1410365708p5/8529755.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1410365708p2/8529755.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/8529755.Mark_Manson"
+								},
+								"average_rating": "3.98",
+								"ratings_count": "327811",
+								"text_reviews_count": "23968"
+							}
+						},
+						"published": "2016",
+						"work": {
+							"id": "48297245",
+							"uri": "kca://work/amzn1.gr.work.v1.Iz2jEzw-6qZH8loK7F2Hzw"
+						}
+					},
+					"rating": "3",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Tue Dec 11 10:05:49 -0800 2018",
+					"read_at": "Sun Dec 16 11:48:52 -0800 2018",
+					"date_added": "Wed Aug 09 11:17:31 -0700 2017",
+					"date_updated": "Sun Dec 16 11:48:52 -0800 2018",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087490286"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087490286"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2236617128",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "34626372"
+						},
+						"isbn": "0735219427",
+						"isbn13": "9780735219427",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "124"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.Vu403VJnCi76tiPlV1LPSw",
+						"title": "Finding My Virginity: The New Autobiography",
+						"title_without_series": "Finding My Virginity: The New Autobiography",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501508369l/34626372._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501508369l/34626372._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/34626372-finding-my-virginity",
+						"num_pages": "471",
+						"format": "Hardcover",
+						"edition_information": "",
+						"publisher": "Portfolio",
+						"publication_day": "10",
+						"publication_year": "2017",
+						"publication_month": "10",
+						"average_rating": "4.12",
+						"ratings_count": "1711",
+						"description": "<b>Global business icon Richard Branson has written many books, but none have been more popular than his first memoir, 1998's <i>Losing My Virginity</i>. Now he's finally publishing his second volume of memoirs, covering all of his fascinating ups and downs of the past two decades.</b><br /><b> </b><br /> In the two decades since Richard Branson wrote <i>Losing My Virginity</i>, his life and company have changed significantly. Now he brings his life story up to date, including all the successes and failures of ventures such as Virgin Galactic. He also shares his personal, intimate thoughts on five decades as the world's ultimate entrepreneur, and his shift to focusing more and more on public service. <i>Virginity Regained </i>shows how Branson created hundreds of different companies, going from a houseboat to his own private island. Join him as he juggles working life with raising his children, sustaining his marriage, and creating a unique company culture. Discover how he created a new life on Necker Island, while continuing to grow the Virgin brand into all corners of the world. Get the real story behind his encounters with everyone from Bill Gates and Rupert Murdoch to Nelson Mandela and Beyonce.<br /><br />Go behind the scenes as Branson creates the world's first commercial spaceline, Virgin Galactic; handles the biggest crisis of his career; and makes world record attempts on land, sea and air. He even discusses what it's like for the original business hippy to become a doting \"grand-dude\" to his three grandchildren.",
+						"authors": {
+							"author": {
+								"id": "115943",
+								"name": "Richard Branson",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1219198910p5/115943.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1219198910p2/115943.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/115943.Richard_Branson"
+								},
+								"average_rating": "3.96",
+								"ratings_count": "71491",
+								"text_reviews_count": "2994"
+							}
+						},
+						"published": "2017",
+						"work": {
+							"id": "56778818",
+							"uri": "kca://work/amzn1.gr.work.v1.DW3qxwO03Og4LtYRbfih-w"
+						}
+					},
+					"rating": "3",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Mon Jan 01 12:07:36 -0800 2018",
+					"read_at": "Tue Sep 04 12:41:44 -0700 2018",
+					"date_added": "Mon Jan 01 12:07:36 -0800 2018",
+					"date_updated": "Tue Sep 04 12:41:44 -0700 2018",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2236617128"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2236617128"
 					},
 					"owned": "0"
 				},
@@ -2110,446 +2468,6 @@
 					"owned": "0"
 				},
 				{
-					"id": "2361082987",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "23878688"
-						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": {
-							"_nil": "true"
-						},
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "2256"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.4u4XPtiiUlC4KLjuMr3IpA",
-						"title": "The 5 Love Languages: The Secret to Love that Lasts",
-						"title_without_series": "The 5 Love Languages: The Secret to Love that Lasts",
-						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/23878688-the-5-love-languages",
-						"num_pages": "",
-						"format": "",
-						"edition_information": "",
-						"publisher": "",
-						"publication_day": "",
-						"publication_year": "",
-						"publication_month": "",
-						"average_rating": "4.24",
-						"ratings_count": "244400",
-						"description": "Couples who understand each other's love language hold a priceless advantage in the quest for love that lasts a lifetime -- they know how to effectively and consistently make each other feel truly and deeply loved. That gift never fades away.",
-						"authors": {
-							"author": {
-								"id": "622",
-								"name": "Gary Chapman",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1489420646p5/622.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1489420646p2/622.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/622.Gary_Chapman"
-								},
-								"average_rating": "4.22",
-								"ratings_count": "303204",
-								"text_reviews_count": "16386"
-							}
-						},
-						"published": "",
-						"work": {
-							"id": "832090",
-							"uri": "kca://work/amzn1.gr.work.v1.r9MFwnalFsGvJqzwTg45kw"
-						}
-					},
-					"rating": "3",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "Sat Apr 14 08:16:17 -0700 2018",
-					"read_at": "Sat Jul 20 00:03:15 -0700 2019",
-					"date_added": "Sat Apr 14 08:16:16 -0700 2018",
-					"date_updated": "Sat Jul 20 00:03:15 -0700 2019",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2361082987"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2361082987"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2268919596",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "27140043"
-						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": {
-							"_nil": "true"
-						},
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "64"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.T9pJVIDH9rHwAG2Bq-xs-A",
-						"title": "High Output Management",
-						"title_without_series": "High Output Management",
-						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/27140043-high-output-management",
-						"num_pages": "",
-						"format": "",
-						"edition_information": "",
-						"publisher": "",
-						"publication_day": "",
-						"publication_year": "",
-						"publication_month": "",
-						"average_rating": "4.32",
-						"ratings_count": "7813",
-						"description": "This is a user-friendly guide to the art and science of management from Andrew S. Grove, the president of America's leading manufacturer of computer chips. Groves recommendations are equally appropriate for sales managers, accountants, consultants, and teachers--anyone whose job entails getting a group of people to produce something of value. Adapting the innovations that have made Intel one of America's most successful corporations, <b>High Output Management</b> teaches you:<br />what techniques and indicators you can use to make even corporate recruiting as precise and measurable as manufacturing<br />how to turn your subordinates and coworkers into members of highly productive team<br />how to motivate that team to attain peak performance every time<br />Combining conceptual elegance with a practical understanding of the real-life scenarios that managers encounter every day, <b>High Output Management</b> is one of those rare books that have the power to revolutionize the way we work",
-						"authors": {
-							"author": {
-								"id": "37708",
-								"name": "Andrew S. Grove",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1384484207p5/37708.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1384484207p2/37708.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/37708.Andrew_S_Grove"
-								},
-								"average_rating": "4.17",
-								"ratings_count": "14115",
-								"text_reviews_count": "692"
-							}
-						},
-						"published": "",
-						"work": {
-							"id": "315440",
-							"uri": "kca://work/amzn1.gr.work.v1.OFdTNo-GL6J-molIVC7QBQ"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "Fri Aug 09 21:09:07 -0700 2019",
-					"read_at": "Sat Aug 10 21:46:30 -0700 2019",
-					"date_added": "Mon Jan 22 23:22:40 -0800 2018",
-					"date_updated": "Sat Aug 10 21:50:56 -0700 2019",
-					"read_count": "1",
-					"body": {
-						"__cdata": "Very practical almost up to date book on management that will probably work on most of the companies today. Actually, it's greatly appreciated that Intel CEO himself wrote it which you can definitely feel from the simply and understandable content. This is a MUST read for a today manager."
-					},
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2268919596"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2268919596"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2236619396",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "18176747"
-						},
-						"isbn": "0062273205",
-						"isbn13": "9780062273208",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "1887"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.CSf1AlzG9n9OsClYOs4SMw",
-						"title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
-						"title_without_series": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386609333l/18176747._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386609333l/18176747._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things",
-						"num_pages": "304",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "HarperBusiness",
-						"publication_day": "4",
-						"publication_year": "2014",
-						"publication_month": "3",
-						"average_rating": "4.24",
-						"ratings_count": "38441",
-						"description": "A lot of people talk about how great it is to start a business, but only Ben Horowitz is brutally honest about how hard it is to run one.<br /><br />In <em>The Hard Thing About Hard Things</em>, Ben Horowitz, cofounder of Andreessen Horowitz and one of Silicon Valley's most respected and experienced entrepreneurs, draws on his own story of founding, running, selling, buying, managing, and investing in technology companies to offer essential advice and practical wisdom for navigating the toughest problems business schools don't cover. His blog has garnered a devoted following of millions of readers who have come to rely on him to help them run their businesses. A lifelong rap fan, Horowitz amplifies business lessons with lyrics from his favorite songs and tells it straight about everything from firing friends to poaching competitors, from cultivating and sustaining a CEO mentality to knowing the right time to cash in.<br /><br />His advice is grounded in anecdotes from his own hard-earned rise—from cofounding the early cloud service provider Loudcloud to building the phenomenally successful Andreessen Horowitz venture capital firm, both with fellow tech superstar Marc Andreessen (inventor of Mosaic, the Internet's first popular Web browser). This is no polished victory lap; he analyzes issues with no easy answers through his trials, including<br /><br /><br />demoting (or firing) a loyal friend;<br />whether you should incorporate titles and promotions, and how to handle them;<br />if it's OK to hire people from your friend's company;<br />how to manage your own psychology, while the whole company is relying on you;<br />what to do when smart people are bad employees;<br />why Andreessen Horowitz prefers founder CEOs, and how to become one;<br />whether you should sell your company, and how to do it.<br />Filled with Horowitz's trademark humor and straight talk, and drawing from his personal and often humbling experiences, <em>The Hard Thing About Hard Things</em> is invaluable for veteran entrepreneurs as well as those aspiring to their own new ventures.",
-						"authors": {
-							"author": {
-								"id": "7155094",
-								"name": "Ben Horowitz",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1389896445p5/7155094.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1389896445p2/7155094.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/7155094.Ben_Horowitz"
-								},
-								"average_rating": "4.24",
-								"ratings_count": "38496",
-								"text_reviews_count": "2122"
-							}
-						},
-						"published": "2014",
-						"work": {
-							"id": "25548865",
-							"uri": "kca://work/amzn1.gr.work.v1.GwNwwb1SGJ9BhZRGl2JdIg"
-						}
-					},
-					"rating": "4",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Mon Jan 01 12:08:37 -0800 2018",
-					"date_updated": "Mon Jan 22 23:13:40 -0800 2018",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2236619396"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2236619396"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2236617128",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "34626372"
-						},
-						"isbn": "0735219427",
-						"isbn13": "9780735219427",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "124"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.Vu403VJnCi76tiPlV1LPSw",
-						"title": "Finding My Virginity: The New Autobiography",
-						"title_without_series": "Finding My Virginity: The New Autobiography",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501508369l/34626372._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501508369l/34626372._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/34626372-finding-my-virginity",
-						"num_pages": "471",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "Portfolio",
-						"publication_day": "10",
-						"publication_year": "2017",
-						"publication_month": "10",
-						"average_rating": "4.12",
-						"ratings_count": "1711",
-						"description": "<b>Global business icon Richard Branson has written many books, but none have been more popular than his first memoir, 1998's <i>Losing My Virginity</i>. Now he's finally publishing his second volume of memoirs, covering all of his fascinating ups and downs of the past two decades.</b><br /><b> </b><br /> In the two decades since Richard Branson wrote <i>Losing My Virginity</i>, his life and company have changed significantly. Now he brings his life story up to date, including all the successes and failures of ventures such as Virgin Galactic. He also shares his personal, intimate thoughts on five decades as the world's ultimate entrepreneur, and his shift to focusing more and more on public service. <i>Virginity Regained </i>shows how Branson created hundreds of different companies, going from a houseboat to his own private island. Join him as he juggles working life with raising his children, sustaining his marriage, and creating a unique company culture. Discover how he created a new life on Necker Island, while continuing to grow the Virgin brand into all corners of the world. Get the real story behind his encounters with everyone from Bill Gates and Rupert Murdoch to Nelson Mandela and Beyonce.<br /><br />Go behind the scenes as Branson creates the world's first commercial spaceline, Virgin Galactic; handles the biggest crisis of his career; and makes world record attempts on land, sea and air. He even discusses what it's like for the original business hippy to become a doting \"grand-dude\" to his three grandchildren.",
-						"authors": {
-							"author": {
-								"id": "115943",
-								"name": "Richard Branson",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1219198910p5/115943.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1219198910p2/115943.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/115943.Richard_Branson"
-								},
-								"average_rating": "3.96",
-								"ratings_count": "71491",
-								"text_reviews_count": "2994"
-							}
-						},
-						"published": "2017",
-						"work": {
-							"id": "56778818",
-							"uri": "kca://work/amzn1.gr.work.v1.DW3qxwO03Og4LtYRbfih-w"
-						}
-					},
-					"rating": "3",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "Mon Jan 01 12:07:36 -0800 2018",
-					"read_at": "Tue Sep 04 12:41:44 -0700 2018",
-					"date_added": "Mon Jan 01 12:07:36 -0800 2018",
-					"date_updated": "Tue Sep 04 12:41:44 -0700 2018",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2236617128"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2236617128"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2179406788",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "24040556"
-						},
-						"isbn": "0385680996",
-						"isbn13": "9780385680998",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "90"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.sg2LThHYqj4jJsV-1nIiLQ",
-						"title": "Mindware: Tools for Smart Thinking",
-						"title_without_series": "Mindware: Tools for Smart Thinking",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429636733l/24040556._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429636733l/24040556._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/24040556-mindware",
-						"num_pages": "336",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "Doubleday Canada",
-						"publication_day": "18",
-						"publication_year": "2015",
-						"publication_month": "8",
-						"average_rating": "3.76",
-						"ratings_count": "1171",
-						"description": "<b>Learn how to think more effectively, at work and at home.</b><br />     Many scientific and philosophical ideas are so powerful that they can be applied to our lives at home and work and school to help us think smarter and more effectively about our behaviour and the world around us. Surprisingly, many of these ideas remain unknown to most of us.<br />     In <i>Mindware,</i> the world-renowned psychologist Richard Nisbett presents these ideas in clear and accessible detail, offering a tool kit for better thinking and wiser decisions. He has made a distinguished career of studying and teaching such powerful problem-solving concepts as the law of large numbers, statistical regression, cost-benefit analysis, sunk costs and opportunity costs, and causation and correlation, probing how best to teach others to use them effectively in their daily lives. <br />     In this groundbreaking book, he shows that a course in a given field--statistics or economics, for example--often doesn't work as well as a few minutes of more practical instruction in analyzing everyday situations. <i>Mindware</i> shows how to reframe common problems in such a way that these powerful scientific and statistical concepts can be applied to them. The result is an enlightening and practical guide to the most powerful tools of reasoning ever developed--tools that can easily be used to make better professional, business and personal decisions.",
-						"authors": {
-							"author": {
-								"id": "132677",
-								"name": "Richard E. Nisbett",
-								"role": "",
-								"image_url": {
-									"_nophoto": "true",
-									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
-								},
-								"small_image_url": {
-									"_nophoto": "true",
-									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/132677.Richard_E_Nisbett"
-								},
-								"average_rating": "3.82",
-								"ratings_count": "4442",
-								"text_reviews_count": "443"
-							}
-						},
-						"published": "2015",
-						"work": {
-							"id": "42499056",
-							"uri": "kca://work/amzn1.gr.work.v1.VMXlcSSVKI3LxsmnETQAlA"
-						}
-					},
-					"rating": "3",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "Thu Nov 09 13:43:59 -0800 2017",
-					"read_at": "Mon Jan 08 13:02:35 -0800 2018",
-					"date_added": "Thu Nov 09 13:43:59 -0800 2017",
-					"date_updated": "Mon Jan 08 13:02:35 -0800 2018",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2179406788"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2179406788"
-					},
-					"owned": "0"
-				},
-				{
 					"id": "2179406558",
 					"book": {
 						"id": {
@@ -2636,6 +2554,92 @@
 					},
 					"link": {
 						"__cdata": "https://www.goodreads.com/review/show/2179406558"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2179406788",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "24040556"
+						},
+						"isbn": "0385680996",
+						"isbn13": "9780385680998",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "90"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.sg2LThHYqj4jJsV-1nIiLQ",
+						"title": "Mindware: Tools for Smart Thinking",
+						"title_without_series": "Mindware: Tools for Smart Thinking",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429636733l/24040556._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429636733l/24040556._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/24040556-mindware",
+						"num_pages": "336",
+						"format": "Hardcover",
+						"edition_information": "",
+						"publisher": "Doubleday Canada",
+						"publication_day": "18",
+						"publication_year": "2015",
+						"publication_month": "8",
+						"average_rating": "3.76",
+						"ratings_count": "1171",
+						"description": "<b>Learn how to think more effectively, at work and at home.</b><br />     Many scientific and philosophical ideas are so powerful that they can be applied to our lives at home and work and school to help us think smarter and more effectively about our behaviour and the world around us. Surprisingly, many of these ideas remain unknown to most of us.<br />     In <i>Mindware,</i> the world-renowned psychologist Richard Nisbett presents these ideas in clear and accessible detail, offering a tool kit for better thinking and wiser decisions. He has made a distinguished career of studying and teaching such powerful problem-solving concepts as the law of large numbers, statistical regression, cost-benefit analysis, sunk costs and opportunity costs, and causation and correlation, probing how best to teach others to use them effectively in their daily lives. <br />     In this groundbreaking book, he shows that a course in a given field--statistics or economics, for example--often doesn't work as well as a few minutes of more practical instruction in analyzing everyday situations. <i>Mindware</i> shows how to reframe common problems in such a way that these powerful scientific and statistical concepts can be applied to them. The result is an enlightening and practical guide to the most powerful tools of reasoning ever developed--tools that can easily be used to make better professional, business and personal decisions.",
+						"authors": {
+							"author": {
+								"id": "132677",
+								"name": "Richard E. Nisbett",
+								"role": "",
+								"image_url": {
+									"_nophoto": "true",
+									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+								},
+								"small_image_url": {
+									"_nophoto": "true",
+									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/132677.Richard_E_Nisbett"
+								},
+								"average_rating": "3.82",
+								"ratings_count": "4442",
+								"text_reviews_count": "443"
+							}
+						},
+						"published": "2015",
+						"work": {
+							"id": "42499056",
+							"uri": "kca://work/amzn1.gr.work.v1.VMXlcSSVKI3LxsmnETQAlA"
+						}
+					},
+					"rating": "3",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Thu Nov 09 13:43:59 -0800 2017",
+					"read_at": "Mon Jan 08 13:02:35 -0800 2018",
+					"date_added": "Thu Nov 09 13:43:59 -0800 2017",
+					"date_updated": "Mon Jan 08 13:02:35 -0800 2018",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2179406788"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2179406788"
 					},
 					"owned": "0"
 				},
@@ -2730,318 +2734,60 @@
 					"owned": "0"
 				},
 				{
-					"id": "2087506552",
+					"id": "2087489112",
 					"book": {
 						"id": {
 							"_type": "integer",
-							"__text": "343"
+							"__text": "10127019"
 						},
-						"isbn": "0140120831",
-						"isbn13": "9780140120837",
+						"isbn": "0307887898",
+						"isbn13": "9780307887894",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "7177"
+							"__text": "2431"
 						},
-						"uri": "kca://book/amzn1.gr.book.v1.mN3aPAkRnqYYqtSMISBHlw",
-						"title": "Perfume: The Story of a Murderer",
-						"title_without_series": "Perfume: The Story of a Murderer",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SY75_.jpg",
+						"uri": "kca://book/amzn1.gr.book.v1.Ylb6i9FNBkXnLW7rje69Kg",
+						"title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+						"title_without_series": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576876l/10127019._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576876l/10127019._SY75_.jpg",
 						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/343.Perfume",
-						"num_pages": "263",
-						"format": "Paperback",
-						"edition_information": "",
-						"publisher": "Penguin Books",
-						"publication_day": "",
-						"publication_year": "1987",
-						"publication_month": "",
-						"average_rating": "4.02",
-						"ratings_count": "278496",
-						"description": "An acclaimed bestseller and international sensation, Patrick Suskind's classic novel provokes a terrifying examination of what happens when one man's indulgence in his greatest passion—his sense of smell—leads to murder.<br /><br />In the slums of eighteenth-century France, the infant Jean-Baptiste Grenouille is born with one sublime gift—an absolute sense of smell. As a boy, he lives to decipher the odors of Paris, and apprentices himself to a prominent perfumer who teaches him the ancient art of mixing precious oils and herbs. But Grenouille's genius is such that he is not satisfied to stop there, and he becomes obsessed with capturing the smells of objects such as brass doorknobs and fresh-cut wood. Then one day he catches a hint of a scent that will drive him on an ever-more-terrifying quest to create the \"ultimate perfume\"—the scent of a beautiful young virgin. Told with dazzling narrative brilliance, <i>Perfume</i> is a hauntingly powerful tale of murder and sensual depravity.",
-						"authors": {
-							"author": {
-								"id": "39402",
-								"name": "Patrick Süskind",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1201117958p5/39402.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1201117958p2/39402.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/39402.Patrick_S_skind"
-								},
-								"average_rating": "3.99",
-								"ratings_count": "299438",
-								"text_reviews_count": "14674"
-							}
-						},
-						"published": "1987",
-						"work": {
-							"id": "2977727",
-							"uri": "kca://work/amzn1.gr.work.v1.0GBNmY2Ia-KBFQYNo_Ao9w"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:34:33 -0700 2017",
-					"date_updated": "Mon Aug 28 17:31:24 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087506552"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087506552"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087495414",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "10884"
-						},
-						"isbn": "0743264738",
-						"isbn13": "9780743264730",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "2677"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.Y3VmJwL-CVA91L_qML0kkg",
-						"title": "Einstein: His Life and Universe",
-						"title_without_series": "Einstein: His Life and Universe",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011405l/10884._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011405l/10884._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/10884.Einstein",
-						"num_pages": "675",
+						"link": "https://www.goodreads.com/book/show/10127019-the-lean-startup",
+						"num_pages": "299",
 						"format": "Hardcover",
 						"edition_information": "",
-						"publisher": "Simon  Schuster",
-						"publication_day": "10",
-						"publication_year": "2007",
-						"publication_month": "4",
-						"average_rating": "4.10",
-						"ratings_count": "106815",
-						"description": "Einstein was a rebel and nonconformist from boyhood days, and these character traits drove both his life and his science. In this narrative, Walter Isaacson explains how his mind worked and the mysteries of the universe that he discovered.",
-						"authors": {
-							"author": {
-								"id": "7111",
-								"name": "Walter Isaacson",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1192222433p5/7111.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1192222433p2/7111.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/7111.Walter_Isaacson"
-								},
-								"average_rating": "4.11",
-								"ratings_count": "1094028",
-								"text_reviews_count": "27233"
-							}
-						},
-						"published": "2007",
-						"work": {
-							"id": "985244",
-							"uri": "kca://work/amzn1.gr.work.v1.kQAB3ssqcXRp_0oKFGaGBQ"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:22:53 -0700 2017",
-					"date_updated": "Wed Aug 09 11:22:53 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087495414"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087495414"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087493988",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "81922"
-						},
-						"isbn": "0446677477",
-						"isbn13": "9780446677479",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "712"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.l_Y13oZYttng-9JhVCWnUA",
-						"title": "Rich Dad's Cashflow Quadrant: Rich Dad's Guide to Financial Freedom",
-						"title_without_series": "Rich Dad's Cashflow Quadrant: Rich Dad's Guide to Financial Freedom",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483023081l/81922._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483023081l/81922._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/81922.Rich_Dad_s_Cashflow_Quadrant",
-						"num_pages": "376",
-						"format": "Paperback",
-						"edition_information": "",
-						"publisher": "Business Plus",
-						"publication_day": "",
-						"publication_year": "2012",
-						"publication_month": "3",
-						"average_rating": "4.10",
-						"ratings_count": "34441",
-						"description": "The Cashflow Quadrant is the follow-up guide to finding the financial fast track that best works for you. It reveals the strategies necessary for moving beyond just job security to greater financial security by generating wealth from four selective financial quadrants. This work will reveal why some people work less, earn more, pay less in taxes, and feel more financially secure than others. It's simply a matter of knowing which quadrant to work in.",
-						"authors": {
-							"author": {
-								"id": "600",
-								"name": "Robert T. Kiyosaki",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1236463010p5/600.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1236463010p2/600.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/600.Robert_T_Kiyosaki"
-								},
-								"average_rating": "4.03",
-								"ratings_count": "388481",
-								"text_reviews_count": "14614"
-							}
-						},
-						"published": "2012",
-						"work": {
-							"id": "42235",
-							"uri": "kca://work/amzn1.gr.work.v1.C6Q9ZZK-CTAlz6wHkalS8A"
-						}
-					},
-					"rating": "4",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:21:34 -0700 2017",
-					"date_updated": "Wed Aug 09 11:21:34 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087493988"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087493988"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087493736",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "10339170"
-						},
-						"isbn": "0470627603",
-						"isbn13": "9780470627600",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "914"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.PrqUVoV8MF7t7j5813ieBA",
-						"title": "The 10x Rule: The Only Difference Between Success and Failure",
-						"title_without_series": "The 10x Rule: The Only Difference Between Success and Failure",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310779133l/10339170._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310779133l/10339170._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/10339170-the-10x-rule",
-						"num_pages": "240",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "Wiley",
-						"publication_day": "26",
+						"publisher": "Currency",
+						"publication_day": "13",
 						"publication_year": "2011",
-						"publication_month": "4",
-						"average_rating": "4.04",
-						"ratings_count": "9784",
-						"description": "<b>Achieve \"Massive Action\" results and accomplish your business dreams!</b> While most people operate with only three degrees of action-no action, retreat, or normal action-if you're after big goals, you don't want to settle for the ordinary. To reach the next level, you must understand the coveted 4th degree of action. This 4th degree, also know as the 10 X Rule, is that level of action that guarantees companies and individuals realize their goals and dreams.<br /><br /><i>The 10 X Rule</i> unveils the principle of \"Massive Action,\" allowing you to blast through business clichZs and risk-aversion while taking concrete steps to reach your dreams. It also demonstrates why people get stuck in the first three actions and how to move into making the 10X Rule a discipline. Find out exactly where to start, what to do, and how to follow up each action you take with more action to achieve Massive Action results.<br /><br /><br />Learn the \"Estimation of Effort\" calculation to ensure you exceed your targets Make the Fourth Degree a way of life and defy mediocrity Discover the time management myth Get the exact reasons why people fail and others succeed Know the exact formula to solve problems Extreme success is by definition outside the realm of normal action. Instead of behaving like everybody else and settling for average results, take Massive Action with <i>The 10 X Rule</i>, remove luck and chance from your business equation, and lock in massive success.",
+						"publication_month": "9",
+						"average_rating": "4.07",
+						"ratings_count": "171334",
+						"description": "<b>Most startups fail. But many of those failures are preventable. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. <br /></b><br />Eric Ries defines a startup as <b>an organization dedicated to creating something new under conditions of extreme uncertainty</b>. This is just as true for one person in a garage or a group of seasoned professionals in a Fortune 500 boardroom. What they have in common is a mission to penetrate that fog of uncertainty to discover a successful path to a sustainable business.<br /><br /><br /><br />The Lean Startup approach fosters companies that are both more capital efficient and that leverage human creativity more effectively. Inspired by lessons from lean manufacturing, it relies on \"validated learning,\" rapid scientific experimentation, as well as a number of counter-intuitive practices that shorten product development cycles, measure actual progress without resorting to vanity metrics, and learn what customers really want. It enables a company to shift directions with agility, altering plans inch by inch, minute by minute.<br /><br />Rather than wasting time creating elaborate business plans, <i>The Lean Startup</i> offers entrepreneurs - in companies of all sizes - a way to test their vision continuously, to adapt and adjust before it's too late. Ries provides a scientific approach to creating and managing successful startups in a age when companies need to innovate more than ever.",
 						"authors": {
 							"author": {
-								"id": "1638887",
-								"name": "Grant Cardone",
+								"id": "278960",
+								"name": "Eric Ries",
 								"role": "",
 								"image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1326447807p5/1638887.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1329162523p5/278960.jpg"
 								},
 								"small_image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1326447807p2/1638887.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1329162523p2/278960.jpg"
 								},
 								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/1638887.Grant_Cardone"
+									"__cdata": "https://www.goodreads.com/author/show/278960.Eric_Ries"
 								},
-								"average_rating": "4.10",
-								"ratings_count": "18535",
-								"text_reviews_count": "1930"
+								"average_rating": "4.07",
+								"ratings_count": "175170",
+								"text_reviews_count": "2812"
 							}
 						},
 						"published": "2011",
 						"work": {
-							"id": "15241850",
-							"uri": "kca://work/amzn1.gr.work.v1.NGivOiXzaSR1eujXHjD1FQ"
+							"id": "15024842",
+							"uri": "kca://work/amzn1.gr.work.v1.jGbo3aJSH_mwWn3t7Mfr5A"
 						}
 					},
 					"rating": "3",
@@ -3060,77 +2806,77 @@
 					"recommended_by": "",
 					"started_at": "",
 					"read_at": "",
-					"date_added": "Wed Aug 09 11:21:20 -0700 2017",
-					"date_updated": "Wed Aug 09 11:21:20 -0700 2017",
+					"date_added": "Wed Aug 09 11:16:07 -0700 2017",
+					"date_updated": "Mon Aug 28 17:30:55 -0700 2017",
 					"read_count": "1",
 					"body": "",
 					"comments_count": "0",
 					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087493736"
+						"__cdata": "https://www.goodreads.com/review/show/2087489112"
 					},
 					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087493736"
+						"__cdata": "https://www.goodreads.com/review/show/2087489112"
 					},
 					"owned": "0"
 				},
 				{
-					"id": "2087492991",
+					"id": "2087489782",
 					"book": {
 						"id": {
 							"_type": "integer",
-							"__text": "13344951"
+							"__text": "18050143"
 						},
-						"isbn": "0983988536",
-						"isbn13": "9780983988533",
+						"isbn": "0804139296",
+						"isbn13": "9780804139298",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "291"
+							"__text": "3945"
 						},
-						"uri": "kca://book/amzn1.gr.book.v1.d5jWqzYPzDtrcA4qBdNgLg",
-						"title": "How to Win at the Sport of Business: If I Can Do It, You Can Do It",
-						"title_without_series": "How to Win at the Sport of Business: If I Can Do It, You Can Do It",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441897247l/13344951._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441897247l/13344951._SY75_.jpg",
+						"uri": "kca://book/amzn1.gr.book.v1.bld_eTIK_coG-6BTDY40nQ",
+						"title": "Zero to One: Notes on Startups, or How to Build the Future",
+						"title_without_series": "Zero to One: Notes on Startups, or How to Build the Future",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143._SX50_.jpg",
 						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/13344951-how-to-win-at-the-sport-of-business",
-						"num_pages": "67",
-						"format": "ebook",
+						"link": "https://www.goodreads.com/book/show/18050143-zero-to-one",
+						"num_pages": "195",
+						"format": "Hardcover",
 						"edition_information": "",
-						"publisher": "Diversion Books",
-						"publication_day": "",
-						"publication_year": "2011",
-						"publication_month": "",
-						"average_rating": "4.05",
-						"ratings_count": "4809",
-						"description": "Mark Cuban shares his wealth of experience and business savvy in his first published book, How to Win at the Sport of Business, available now only as an e-book. Using the greatest material from his popular Blog Maverick, he has collected and updated his postings on business and life to provide a catalog of insider knowledge on what it takes to become a thriving entrepreneur. Cuban tells his own rags-to-riches story of how he went from selling powdered milk and sleeping on friends' couches to owning his own company and becoming a multi-billion dollar success story. His unconventional yet highly effective ideas on how to build a successful business offer entrepreneurs at any stage of their careers a huge edge over their competitors.",
+						"publisher": "Crown Business",
+						"publication_day": "16",
+						"publication_year": "2014",
+						"publication_month": "9",
+						"average_rating": "4.16",
+						"ratings_count": "119101",
+						"description": "If you want to build a better future, you must believe in secrets.<br /><br />The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things. <br /><br />Thiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself.<br /><br />Doing what someone else already knows how to do takes the world from 1 to n, adding more of something familiar. But when you do something new, you go from 0 to 1. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. Tomorrow’s champions will not win by competing ruthlessly in today’s marketplace. They will escape competition altogether, because their businesses will be unique. <br /><br />Zero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.",
 						"authors": {
 							"author": {
-								"id": "2070271",
-								"name": "Mark Cuban",
+								"id": "8474721",
+								"name": "Peter Thiel",
 								"role": "",
 								"image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1422937576p5/2070271.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1532597901p5/8474721.jpg"
 								},
 								"small_image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1422937576p2/2070271.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1532597901p2/8474721.jpg"
 								},
 								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/2070271.Mark_Cuban"
+									"__cdata": "https://www.goodreads.com/author/show/8474721.Peter_Thiel"
 								},
-								"average_rating": "4.04",
-								"ratings_count": "5058",
-								"text_reviews_count": "381"
+								"average_rating": "4.16",
+								"ratings_count": "119238",
+								"text_reviews_count": "4559"
 							}
 						},
-						"published": "2011",
+						"published": "2014",
 						"work": {
-							"id": "18559725",
-							"uri": "kca://work/amzn1.gr.work.v1.PLFPVDNiXfkPp7lQlhPMxA"
+							"id": "25332940",
+							"uri": "kca://work/amzn1.gr.work.v1.sQhybJF2mK1jdyDem-lPmg"
 						}
 					},
-					"rating": "4",
+					"rating": "5",
 					"votes": "0",
 					"spoiler_flag": "false",
 					"spoilers_state": "none",
@@ -3146,16 +2892,16 @@
 					"recommended_by": "",
 					"started_at": "",
 					"read_at": "",
-					"date_added": "Wed Aug 09 11:20:37 -0700 2017",
-					"date_updated": "Wed Aug 09 11:20:37 -0700 2017",
+					"date_added": "Wed Aug 09 11:16:54 -0700 2017",
+					"date_updated": "Wed Aug 09 11:16:54 -0700 2017",
 					"read_count": "1",
 					"body": "",
 					"comments_count": "0",
 					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492991"
+						"__cdata": "https://www.goodreads.com/review/show/2087489782"
 					},
 					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492991"
+						"__cdata": "https://www.goodreads.com/review/show/2087489782"
 					},
 					"owned": "0"
 				},
@@ -3332,146 +3078,60 @@
 					"owned": "0"
 				},
 				{
-					"id": "2087492121",
+					"id": "2087492991",
 					"book": {
 						"id": {
 							"_type": "integer",
-							"__text": "95887"
+							"__text": "13344951"
 						},
-						"isbn": "1576754227",
-						"isbn13": "9781576754221",
+						"isbn": "0983988536",
+						"isbn13": "9780983988533",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "2021"
+							"__text": "291"
 						},
-						"uri": "kca://book/amzn1.gr.book.v1.298at6Wytj5Su9FNHgdsnA",
-						"title": "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
-						"title_without_series": "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854785l/95887._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854785l/95887._SY75_.jpg",
+						"uri": "kca://book/amzn1.gr.book.v1.d5jWqzYPzDtrcA4qBdNgLg",
+						"title": "How to Win at the Sport of Business: If I Can Do It, You Can Do It",
+						"title_without_series": "How to Win at the Sport of Business: If I Can Do It, You Can Do It",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441897247l/13344951._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441897247l/13344951._SY75_.jpg",
 						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/95887.Eat_That_Frog_",
-						"num_pages": "128",
-						"format": "Paperback",
-						"edition_information": "Second Edition",
-						"publisher": "Berrett-Koehler Publishers",
-						"publication_day": "1",
-						"publication_year": "2007",
-						"publication_month": "1",
-						"average_rating": "3.87",
-						"ratings_count": "36567",
-						"description": "<div>The legendary <em>Eat That Frog!</em> (more than 450,000 copies sold and translated into 23 languages) provides the 21 most effective methods for conquering procrastination and accomplishing more. This new edition is revised and updated throughout, and includes brand new information on how to keep technology from dominating our time.</div>",
-						"authors": {
-							"author": {
-								"id": "22033",
-								"name": "Brian Tracy",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1258058862p5/22033.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1258058862p2/22033.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/22033.Brian_Tracy"
-								},
-								"average_rating": "4.00",
-								"ratings_count": "85161",
-								"text_reviews_count": "6418"
-							}
-						},
-						"published": "2007",
-						"work": {
-							"id": "2203492",
-							"uri": "kca://work/amzn1.gr.work.v1.JGzQD_KZdB5xdWe8R6Fd9A"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:19:43 -0700 2017",
-					"date_updated": "Wed Aug 09 11:19:43 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492121"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492121"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087491321",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "10534"
-						},
-						"isbn": "1590302257",
-						"isbn13": "9781590302255",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "5459"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.kYPf-NrB9NvXnIdl79xEMQ",
-						"title": "The Art of War",
-						"title_without_series": "The Art of War",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453417993l/10534._SY160_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453417993l/10534._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/10534.The_Art_of_War",
-						"num_pages": "273",
-						"format": "Paperback",
+						"link": "https://www.goodreads.com/book/show/13344951-how-to-win-at-the-sport-of-business",
+						"num_pages": "67",
+						"format": "ebook",
 						"edition_information": "",
-						"publisher": "Shambhala",
-						"publication_day": "11",
-						"publication_year": "2005",
-						"publication_month": "1",
-						"average_rating": "3.97",
-						"ratings_count": "273289",
-						"description": "Twenty-Five Hundred years ago, Sun Tzu wrote this classic book of military strategy based on Chinese warfare and military thought. Since that time, all levels of military have used the teaching on Sun Tzu to warfare and civilization have adapted these teachings for use in politics, business and everyday life. The Art of War is a book which should be used to gain advantage of opponents in the boardroom and battlefield alike.",
+						"publisher": "Diversion Books",
+						"publication_day": "",
+						"publication_year": "2011",
+						"publication_month": "",
+						"average_rating": "4.05",
+						"ratings_count": "4809",
+						"description": "Mark Cuban shares his wealth of experience and business savvy in his first published book, How to Win at the Sport of Business, available now only as an e-book. Using the greatest material from his popular Blog Maverick, he has collected and updated his postings on business and life to provide a catalog of insider knowledge on what it takes to become a thriving entrepreneur. Cuban tells his own rags-to-riches story of how he went from selling powdered milk and sleeping on friends' couches to owning his own company and becoming a multi-billion dollar success story. His unconventional yet highly effective ideas on how to build a successful business offer entrepreneurs at any stage of their careers a huge edge over their competitors.",
 						"authors": {
 							"author": {
-								"id": "1771",
-								"name": "Sun Tzu",
+								"id": "2070271",
+								"name": "Mark Cuban",
 								"role": "",
 								"image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1185211202p5/1771.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1422937576p5/2070271.jpg"
 								},
 								"small_image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1185211202p2/1771.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1422937576p2/2070271.jpg"
 								},
 								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/1771.Sun_Tzu"
+									"__cdata": "https://www.goodreads.com/author/show/2070271.Mark_Cuban"
 								},
-								"average_rating": "3.97",
-								"ratings_count": "280639",
-								"text_reviews_count": "9112"
+								"average_rating": "4.04",
+								"ratings_count": "5058",
+								"text_reviews_count": "381"
 							}
 						},
-						"published": "2005",
+						"published": "2011",
 						"work": {
-							"id": "3200649",
-							"uri": "kca://work/amzn1.gr.work.v1.Qvp9-uRCX3l7q-ln1MnEKw"
+							"id": "18559725",
+							"uri": "kca://work/amzn1.gr.work.v1.PLFPVDNiXfkPp7lQlhPMxA"
 						}
 					},
 					"rating": "4",
@@ -3490,16 +3150,16 @@
 					"recommended_by": "",
 					"started_at": "",
 					"read_at": "",
-					"date_added": "Wed Aug 09 11:18:48 -0700 2017",
-					"date_updated": "Wed Aug 09 11:18:48 -0700 2017",
+					"date_added": "Wed Aug 09 11:20:37 -0700 2017",
+					"date_updated": "Wed Aug 09 11:20:37 -0700 2017",
 					"read_count": "1",
 					"body": "",
 					"comments_count": "0",
 					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087491321"
+						"__cdata": "https://www.goodreads.com/review/show/2087492991"
 					},
 					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087491321"
+						"__cdata": "https://www.goodreads.com/review/show/2087492991"
 					},
 					"owned": "0"
 				},
@@ -3590,60 +3250,60 @@
 					"owned": "0"
 				},
 				{
-					"id": "2087490286",
+					"id": "2087493736",
 					"book": {
 						"id": {
 							"_type": "integer",
-							"__text": "28257707"
+							"__text": "10339170"
 						},
-						"isbn": "006245773X",
-						"isbn13": "9780062457738",
+						"isbn": "0470627603",
+						"isbn13": "9780470627600",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "17506"
+							"__text": "914"
 						},
-						"uri": "kca://book/amzn1.gr.book.v1.ysvaV5CVuyQiR6PtHSekJw",
-						"title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
-						"title_without_series": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SX50_.jpg",
+						"uri": "kca://book/amzn1.gr.book.v1.PrqUVoV8MF7t7j5813ieBA",
+						"title": "The 10x Rule: The Only Difference Between Success and Failure",
+						"title_without_series": "The 10x Rule: The Only Difference Between Success and Failure",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310779133l/10339170._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310779133l/10339170._SY75_.jpg",
 						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck",
-						"num_pages": "224",
-						"format": "ebook",
+						"link": "https://www.goodreads.com/book/show/10339170-the-10x-rule",
+						"num_pages": "240",
+						"format": "Hardcover",
 						"edition_information": "",
-						"publisher": "Harper",
-						"publication_day": "13",
-						"publication_year": "2016",
-						"publication_month": "9",
-						"average_rating": "3.97",
-						"ratings_count": "311753",
-						"description": "In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be \"positive\" all the time so that we can truly become better, happier people.<br /><br />For decades, we’ve been told that positive thinking is the key to a happy, rich life. \"F**k positivity,\" Mark Manson says. \"Let’s be honest, shit is f**ked and we have to live with it.\" In his wildly popular Internet blog, Manson doesn’t sugarcoat or equivocate. He tells it like it is—a dose of raw, refreshing, honest truth that is sorely lacking today. <em>The Subtle Art of Not Giving a F**k</em> is his antidote to the coddling, let’s-all-feel-good mindset that has infected American society and spoiled a generation, rewarding them with gold medals just for showing up.<br /><br />Manson makes the argument, backed both by academic research and well-timed poop jokes, that improving our lives hinges not on our ability to turn lemons into lemonade, but on learning to stomach lemons better. Human beings are flawed and limited—\"not everybody can be extraordinary, there are winners and losers in society, and some of it is not fair or your fault.\" Manson advises us to get to know our limitations and accept them. Once we embrace our fears, faults, and uncertainties, once we stop running and avoiding and start confronting painful truths, we can begin to find the courage, perseverance, honesty, responsibility, curiosity, and forgiveness we seek.<br /><br />There are only so many things we can give a f**k about so we need to figure out which ones really matter, Manson makes clear. While money is nice, caring about what you do with your life is better, because true wealth is about experience. A much-needed grab-you-by-the-shoulders-and-look-you-in-the-eye moment of real-talk, filled with entertaining stories and profane, ruthless humor, <em>The Subtle Art of Not Giving a F**k</em> is a refreshing slap for a generation to help them lead contented, grounded lives.",
+						"publisher": "Wiley",
+						"publication_day": "26",
+						"publication_year": "2011",
+						"publication_month": "4",
+						"average_rating": "4.04",
+						"ratings_count": "9784",
+						"description": "<b>Achieve \"Massive Action\" results and accomplish your business dreams!</b> While most people operate with only three degrees of action-no action, retreat, or normal action-if you're after big goals, you don't want to settle for the ordinary. To reach the next level, you must understand the coveted 4th degree of action. This 4th degree, also know as the 10 X Rule, is that level of action that guarantees companies and individuals realize their goals and dreams.<br /><br /><i>The 10 X Rule</i> unveils the principle of \"Massive Action,\" allowing you to blast through business clichZs and risk-aversion while taking concrete steps to reach your dreams. It also demonstrates why people get stuck in the first three actions and how to move into making the 10X Rule a discipline. Find out exactly where to start, what to do, and how to follow up each action you take with more action to achieve Massive Action results.<br /><br /><br />Learn the \"Estimation of Effort\" calculation to ensure you exceed your targets Make the Fourth Degree a way of life and defy mediocrity Discover the time management myth Get the exact reasons why people fail and others succeed Know the exact formula to solve problems Extreme success is by definition outside the realm of normal action. Instead of behaving like everybody else and settling for average results, take Massive Action with <i>The 10 X Rule</i>, remove luck and chance from your business equation, and lock in massive success.",
 						"authors": {
 							"author": {
-								"id": "8529755",
-								"name": "Mark Manson",
+								"id": "1638887",
+								"name": "Grant Cardone",
 								"role": "",
 								"image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1410365708p5/8529755.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1326447807p5/1638887.jpg"
 								},
 								"small_image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1410365708p2/8529755.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1326447807p2/1638887.jpg"
 								},
 								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/8529755.Mark_Manson"
+									"__cdata": "https://www.goodreads.com/author/show/1638887.Grant_Cardone"
 								},
-								"average_rating": "3.98",
-								"ratings_count": "327811",
-								"text_reviews_count": "23968"
+								"average_rating": "4.10",
+								"ratings_count": "18535",
+								"text_reviews_count": "1930"
 							}
 						},
-						"published": "2016",
+						"published": "2011",
 						"work": {
-							"id": "48297245",
-							"uri": "kca://work/amzn1.gr.work.v1.Iz2jEzw-6qZH8loK7F2Hzw"
+							"id": "15241850",
+							"uri": "kca://work/amzn1.gr.work.v1.NGivOiXzaSR1eujXHjD1FQ"
 						}
 					},
 					"rating": "3",
@@ -3660,80 +3320,76 @@
 					},
 					"recommended_for": "",
 					"recommended_by": "",
-					"started_at": "Tue Dec 11 10:05:49 -0800 2018",
-					"read_at": "Sun Dec 16 11:48:52 -0800 2018",
-					"date_added": "Wed Aug 09 11:17:31 -0700 2017",
-					"date_updated": "Sun Dec 16 11:48:52 -0800 2018",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:21:20 -0700 2017",
+					"date_updated": "Wed Aug 09 11:21:20 -0700 2017",
 					"read_count": "1",
 					"body": "",
 					"comments_count": "0",
 					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087490286"
+						"__cdata": "https://www.goodreads.com/review/show/2087493736"
 					},
 					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087490286"
+						"__cdata": "https://www.goodreads.com/review/show/2087493736"
 					},
 					"owned": "0"
 				},
 				{
-					"id": "2087490233",
+					"id": "2236619396",
 					"book": {
 						"id": {
 							"_type": "integer",
-							"__text": "6001566"
+							"__text": "18176747"
 						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": {
-							"_nil": "true"
-						},
+						"isbn": "0062273205",
+						"isbn13": "9780062273208",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "117"
+							"__text": "1887"
 						},
-						"uri": "kca://book/amzn1.gr.book.v1.7Z0mr4quSFoN1EFlEeY-qA",
-						"title": "The Tipping Point: How Little Things Can Make a Big Difference",
-						"title_without_series": "The Tipping Point: How Little Things Can Make a Big Difference",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328201287l/6001566._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328201287l/6001566._SX50_.jpg",
+						"uri": "kca://book/amzn1.gr.book.v1.CSf1AlzG9n9OsClYOs4SMw",
+						"title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+						"title_without_series": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386609333l/18176747._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386609333l/18176747._SY75_.jpg",
 						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/6001566-the-tipping-point",
-						"num_pages": "322",
-						"format": "",
+						"link": "https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things",
+						"num_pages": "304",
+						"format": "Hardcover",
 						"edition_information": "",
-						"publisher": "Little, Brown and Company",
-						"publication_day": "1",
-						"publication_year": "2006",
-						"publication_month": "11",
-						"average_rating": "3.96",
-						"ratings_count": "612899",
-						"description": "<i>An alternate cover edition exists <a href=\"https://www.goodreads.com/book/show/34668905.here\" title=\"here\" rel=\"nofollow\">here</a>.</i><br /><br />The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.<br /><br />Gladwell introduces us to the particular personality types who are natural pollinators of new ideas and trends, the people who create the phenomenon of word of mouth. He analyzes fashion trends, smoking, children's television, direct mail, and the early days of the American Revolution for clues about making ideas infectious, and visits a religious commune, a successful high-tech company, and one of the world's greatest salesmen to show how to start and sustain social epidemics.",
+						"publisher": "HarperBusiness",
+						"publication_day": "4",
+						"publication_year": "2014",
+						"publication_month": "3",
+						"average_rating": "4.24",
+						"ratings_count": "38441",
+						"description": "A lot of people talk about how great it is to start a business, but only Ben Horowitz is brutally honest about how hard it is to run one.<br /><br />In <em>The Hard Thing About Hard Things</em>, Ben Horowitz, cofounder of Andreessen Horowitz and one of Silicon Valley's most respected and experienced entrepreneurs, draws on his own story of founding, running, selling, buying, managing, and investing in technology companies to offer essential advice and practical wisdom for navigating the toughest problems business schools don't cover. His blog has garnered a devoted following of millions of readers who have come to rely on him to help them run their businesses. A lifelong rap fan, Horowitz amplifies business lessons with lyrics from his favorite songs and tells it straight about everything from firing friends to poaching competitors, from cultivating and sustaining a CEO mentality to knowing the right time to cash in.<br /><br />His advice is grounded in anecdotes from his own hard-earned rise—from cofounding the early cloud service provider Loudcloud to building the phenomenally successful Andreessen Horowitz venture capital firm, both with fellow tech superstar Marc Andreessen (inventor of Mosaic, the Internet's first popular Web browser). This is no polished victory lap; he analyzes issues with no easy answers through his trials, including<br /><br /><br />demoting (or firing) a loyal friend;<br />whether you should incorporate titles and promotions, and how to handle them;<br />if it's OK to hire people from your friend's company;<br />how to manage your own psychology, while the whole company is relying on you;<br />what to do when smart people are bad employees;<br />why Andreessen Horowitz prefers founder CEOs, and how to become one;<br />whether you should sell your company, and how to do it.<br />Filled with Horowitz's trademark humor and straight talk, and drawing from his personal and often humbling experiences, <em>The Hard Thing About Hard Things</em> is invaluable for veteran entrepreneurs as well as those aspiring to their own new ventures.",
 						"authors": {
 							"author": {
-								"id": "1439",
-								"name": "Malcolm Gladwell",
+								"id": "7155094",
+								"name": "Ben Horowitz",
 								"role": "",
 								"image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1564001739p5/1439.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1389896445p5/7155094.jpg"
 								},
 								"small_image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1564001739p2/1439.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1389896445p2/7155094.jpg"
 								},
 								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell"
+									"__cdata": "https://www.goodreads.com/author/show/7155094.Ben_Horowitz"
 								},
-								"average_rating": "3.99",
-								"ratings_count": "1724345",
-								"text_reviews_count": "63336"
+								"average_rating": "4.24",
+								"ratings_count": "38496",
+								"text_reviews_count": "2122"
 							}
 						},
-						"published": "2006",
+						"published": "2014",
 						"work": {
-							"id": "2124255",
-							"uri": "kca://work/amzn1.gr.work.v1.0gldOhtTZsFxGayFbXajCQ"
+							"id": "25548865",
+							"uri": "kca://work/amzn1.gr.work.v1.GwNwwb1SGJ9BhZRGl2JdIg"
 						}
 					},
 					"rating": "4",
@@ -3750,78 +3406,162 @@
 					},
 					"recommended_for": "",
 					"recommended_by": "",
-					"started_at": "Thu Jul 04 00:00:00 -0700 2019",
-					"read_at": "Sun Jul 07 00:00:00 -0700 2019",
-					"date_added": "Wed Aug 09 11:17:28 -0700 2017",
-					"date_updated": "Fri Jul 12 00:52:52 -0700 2019",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Mon Jan 01 12:08:37 -0800 2018",
+					"date_updated": "Mon Jan 22 23:13:40 -0800 2018",
 					"read_count": "1",
-					"body": {
-						"__cdata": "The title sounds more of as if it is about something collected over a period of time that has some big impact, whereas the book more concentrates on epidemics and how it could be caused and done for a meant reason with a set of conditions considered or applied."
-					},
+					"body": "",
 					"comments_count": "0",
 					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087490233"
+						"__cdata": "https://www.goodreads.com/review/show/2236619396"
 					},
 					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087490233"
+						"__cdata": "https://www.goodreads.com/review/show/2236619396"
 					},
 					"owned": "0"
 				},
 				{
-					"id": "2087489782",
+					"id": "2087491321",
 					"book": {
 						"id": {
 							"_type": "integer",
-							"__text": "18050143"
+							"__text": "10534"
 						},
-						"isbn": "0804139296",
-						"isbn13": "9780804139298",
+						"isbn": "1590302257",
+						"isbn13": "9781590302255",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "3945"
+							"__text": "5459"
 						},
-						"uri": "kca://book/amzn1.gr.book.v1.bld_eTIK_coG-6BTDY40nQ",
-						"title": "Zero to One: Notes on Startups, or How to Build the Future",
-						"title_without_series": "Zero to One: Notes on Startups, or How to Build the Future",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143._SX50_.jpg",
+						"uri": "kca://book/amzn1.gr.book.v1.kYPf-NrB9NvXnIdl79xEMQ",
+						"title": "The Art of War",
+						"title_without_series": "The Art of War",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453417993l/10534._SY160_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453417993l/10534._SY75_.jpg",
 						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/18050143-zero-to-one",
-						"num_pages": "195",
-						"format": "Hardcover",
+						"link": "https://www.goodreads.com/book/show/10534.The_Art_of_War",
+						"num_pages": "273",
+						"format": "Paperback",
 						"edition_information": "",
-						"publisher": "Crown Business",
-						"publication_day": "16",
-						"publication_year": "2014",
-						"publication_month": "9",
-						"average_rating": "4.16",
-						"ratings_count": "119101",
-						"description": "If you want to build a better future, you must believe in secrets.<br /><br />The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things. <br /><br />Thiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself.<br /><br />Doing what someone else already knows how to do takes the world from 1 to n, adding more of something familiar. But when you do something new, you go from 0 to 1. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. Tomorrow’s champions will not win by competing ruthlessly in today’s marketplace. They will escape competition altogether, because their businesses will be unique. <br /><br />Zero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.",
+						"publisher": "Shambhala",
+						"publication_day": "11",
+						"publication_year": "2005",
+						"publication_month": "1",
+						"average_rating": "3.97",
+						"ratings_count": "273289",
+						"description": "Twenty-Five Hundred years ago, Sun Tzu wrote this classic book of military strategy based on Chinese warfare and military thought. Since that time, all levels of military have used the teaching on Sun Tzu to warfare and civilization have adapted these teachings for use in politics, business and everyday life. The Art of War is a book which should be used to gain advantage of opponents in the boardroom and battlefield alike.",
 						"authors": {
 							"author": {
-								"id": "8474721",
-								"name": "Peter Thiel",
+								"id": "1771",
+								"name": "Sun Tzu",
 								"role": "",
 								"image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1532597901p5/8474721.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1185211202p5/1771.jpg"
 								},
 								"small_image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1532597901p2/8474721.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1185211202p2/1771.jpg"
 								},
 								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/8474721.Peter_Thiel"
+									"__cdata": "https://www.goodreads.com/author/show/1771.Sun_Tzu"
 								},
-								"average_rating": "4.16",
-								"ratings_count": "119238",
-								"text_reviews_count": "4559"
+								"average_rating": "3.97",
+								"ratings_count": "280640",
+								"text_reviews_count": "9113"
 							}
 						},
-						"published": "2014",
+						"published": "2005",
 						"work": {
-							"id": "25332940",
-							"uri": "kca://work/amzn1.gr.work.v1.sQhybJF2mK1jdyDem-lPmg"
+							"id": "3200649",
+							"uri": "kca://work/amzn1.gr.work.v1.Qvp9-uRCX3l7q-ln1MnEKw"
+						}
+					},
+					"rating": "4",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:18:48 -0700 2017",
+					"date_updated": "Wed Aug 09 11:18:48 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087491321"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087491321"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087506552",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "343"
+						},
+						"isbn": "0140120831",
+						"isbn13": "9780140120837",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "7177"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.mN3aPAkRnqYYqtSMISBHlw",
+						"title": "Perfume: The Story of a Murderer",
+						"title_without_series": "Perfume: The Story of a Murderer",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/343.Perfume",
+						"num_pages": "263",
+						"format": "Paperback",
+						"edition_information": "",
+						"publisher": "Penguin Books",
+						"publication_day": "",
+						"publication_year": "1987",
+						"publication_month": "",
+						"average_rating": "4.02",
+						"ratings_count": "278496",
+						"description": "An acclaimed bestseller and international sensation, Patrick Suskind's classic novel provokes a terrifying examination of what happens when one man's indulgence in his greatest passion—his sense of smell—leads to murder.<br /><br />In the slums of eighteenth-century France, the infant Jean-Baptiste Grenouille is born with one sublime gift—an absolute sense of smell. As a boy, he lives to decipher the odors of Paris, and apprentices himself to a prominent perfumer who teaches him the ancient art of mixing precious oils and herbs. But Grenouille's genius is such that he is not satisfied to stop there, and he becomes obsessed with capturing the smells of objects such as brass doorknobs and fresh-cut wood. Then one day he catches a hint of a scent that will drive him on an ever-more-terrifying quest to create the \"ultimate perfume\"—the scent of a beautiful young virgin. Told with dazzling narrative brilliance, <i>Perfume</i> is a hauntingly powerful tale of murder and sensual depravity.",
+						"authors": {
+							"author": {
+								"id": "39402",
+								"name": "Patrick Süskind",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1201117958p5/39402.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1201117958p2/39402.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/39402.Patrick_S_skind"
+								},
+								"average_rating": "3.99",
+								"ratings_count": "299438",
+								"text_reviews_count": "14674"
+							}
+						},
+						"published": "1987",
+						"work": {
+							"id": "2977727",
+							"uri": "kca://work/amzn1.gr.work.v1.0GBNmY2Ia-KBFQYNo_Ao9w"
 						}
 					},
 					"rating": "5",
@@ -3840,16 +3580,190 @@
 					"recommended_by": "",
 					"started_at": "",
 					"read_at": "",
-					"date_added": "Wed Aug 09 11:16:54 -0700 2017",
-					"date_updated": "Wed Aug 09 11:16:54 -0700 2017",
+					"date_added": "Wed Aug 09 11:34:33 -0700 2017",
+					"date_updated": "Mon Aug 28 17:31:24 -0700 2017",
 					"read_count": "1",
 					"body": "",
 					"comments_count": "0",
 					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489782"
+						"__cdata": "https://www.goodreads.com/review/show/2087506552"
 					},
 					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489782"
+						"__cdata": "https://www.goodreads.com/review/show/2087506552"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2500774301",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "4865"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": "9780671723651",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "9206"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.rKo_rjo_Jxag7Cf2yDnvzg",
+						"title": "How to Win Friends and Influence People",
+						"title_without_series": "How to Win Friends and Influence People",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People",
+						"num_pages": "288",
+						"format": "Paperback",
+						"edition_information": "Special Anniversary Edition",
+						"publisher": "Gallery Books",
+						"publication_day": "1",
+						"publication_year": "1998",
+						"publication_month": "10",
+						"average_rating": "4.18",
+						"ratings_count": "459659",
+						"description": "You can go after the job you want...and get it! You can take the job you have...and improve it! You can take any situation you're in...and make it work for you!<br /><br />Since its release in 1936, <i>How to Win Friends and Influence People</i> has sold more than 15 million copies. Dale Carnegie's first book is a timeless bestseller, packed with rock-solid advice that has carried thousands of now famous people up the ladder of success in their business and personal lives.<br /><br />As relevant as ever before, Dale Carnegie's principles endure, and will help you achieve your maximum potential in the complex and competitive modern age.<br /><br />Learn the six ways to make people like you, the twelve ways to win people to your way of thinking, and the nine ways to change people without arousing resentment.",
+						"authors": {
+							"author": {
+								"id": "3317",
+								"name": "Dale Carnegie",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1230226725p5/3317.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1230226725p2/3317.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/3317.Dale_Carnegie"
+								},
+								"average_rating": "4.17",
+								"ratings_count": "557756",
+								"text_reviews_count": "15628"
+							}
+						},
+						"published": "1998",
+						"work": {
+							"id": "2370171",
+							"uri": "kca://work/amzn1.gr.work.v1.ZfNbTlbgMFPj0utnEXyWKA"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Mon Aug 20 09:57:07 -0700 2018",
+					"date_updated": "Mon Aug 20 09:57:23 -0700 2018",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2500774301"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2500774301"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087492121",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "95887"
+						},
+						"isbn": "1576754227",
+						"isbn13": "9781576754221",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "2021"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.298at6Wytj5Su9FNHgdsnA",
+						"title": "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
+						"title_without_series": "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854785l/95887._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854785l/95887._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/95887.Eat_That_Frog_",
+						"num_pages": "128",
+						"format": "Paperback",
+						"edition_information": "Second Edition",
+						"publisher": "Berrett-Koehler Publishers",
+						"publication_day": "1",
+						"publication_year": "2007",
+						"publication_month": "1",
+						"average_rating": "3.87",
+						"ratings_count": "36567",
+						"description": "<div>The legendary <em>Eat That Frog!</em> (more than 450,000 copies sold and translated into 23 languages) provides the 21 most effective methods for conquering procrastination and accomplishing more. This new edition is revised and updated throughout, and includes brand new information on how to keep technology from dominating our time.</div>",
+						"authors": {
+							"author": {
+								"id": "22033",
+								"name": "Brian Tracy",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1258058862p5/22033.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1258058862p2/22033.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/22033.Brian_Tracy"
+								},
+								"average_rating": "4.00",
+								"ratings_count": "85161",
+								"text_reviews_count": "6418"
+							}
+						},
+						"published": "2007",
+						"work": {
+							"id": "2203492",
+							"uri": "kca://work/amzn1.gr.work.v1.JGzQD_KZdB5xdWe8R6Fd9A"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:19:43 -0700 2017",
+					"date_updated": "Wed Aug 09 11:19:43 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087492121"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087492121"
 					},
 					"owned": "0"
 				},
@@ -3944,6 +3858,178 @@
 					"owned": "0"
 				},
 				{
+					"id": "2087495414",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "10884"
+						},
+						"isbn": "0743264738",
+						"isbn13": "9780743264730",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "2677"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.Y3VmJwL-CVA91L_qML0kkg",
+						"title": "Einstein: His Life and Universe",
+						"title_without_series": "Einstein: His Life and Universe",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011405l/10884._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011405l/10884._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/10884.Einstein",
+						"num_pages": "675",
+						"format": "Hardcover",
+						"edition_information": "",
+						"publisher": "Simon  Schuster",
+						"publication_day": "10",
+						"publication_year": "2007",
+						"publication_month": "4",
+						"average_rating": "4.10",
+						"ratings_count": "106815",
+						"description": "Einstein was a rebel and nonconformist from boyhood days, and these character traits drove both his life and his science. In this narrative, Walter Isaacson explains how his mind worked and the mysteries of the universe that he discovered.",
+						"authors": {
+							"author": {
+								"id": "7111",
+								"name": "Walter Isaacson",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1192222433p5/7111.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1192222433p2/7111.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/7111.Walter_Isaacson"
+								},
+								"average_rating": "4.11",
+								"ratings_count": "1094028",
+								"text_reviews_count": "27233"
+							}
+						},
+						"published": "2007",
+						"work": {
+							"id": "985244",
+							"uri": "kca://work/amzn1.gr.work.v1.kQAB3ssqcXRp_0oKFGaGBQ"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:22:53 -0700 2017",
+					"date_updated": "Wed Aug 09 11:22:53 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087495414"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087495414"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087493988",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "81922"
+						},
+						"isbn": "0446677477",
+						"isbn13": "9780446677479",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "712"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.l_Y13oZYttng-9JhVCWnUA",
+						"title": "Rich Dad's Cashflow Quadrant: Rich Dad's Guide to Financial Freedom",
+						"title_without_series": "Rich Dad's Cashflow Quadrant: Rich Dad's Guide to Financial Freedom",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483023081l/81922._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483023081l/81922._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/81922.Rich_Dad_s_Cashflow_Quadrant",
+						"num_pages": "376",
+						"format": "Paperback",
+						"edition_information": "",
+						"publisher": "Business Plus",
+						"publication_day": "",
+						"publication_year": "2012",
+						"publication_month": "3",
+						"average_rating": "4.10",
+						"ratings_count": "34441",
+						"description": "The Cashflow Quadrant is the follow-up guide to finding the financial fast track that best works for you. It reveals the strategies necessary for moving beyond just job security to greater financial security by generating wealth from four selective financial quadrants. This work will reveal why some people work less, earn more, pay less in taxes, and feel more financially secure than others. It's simply a matter of knowing which quadrant to work in.",
+						"authors": {
+							"author": {
+								"id": "600",
+								"name": "Robert T. Kiyosaki",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1236463010p5/600.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1236463010p2/600.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/600.Robert_T_Kiyosaki"
+								},
+								"average_rating": "4.03",
+								"ratings_count": "388484",
+								"text_reviews_count": "14615"
+							}
+						},
+						"published": "2012",
+						"work": {
+							"id": "42235",
+							"uri": "kca://work/amzn1.gr.work.v1.C6Q9ZZK-CTAlz6wHkalS8A"
+						}
+					},
+					"rating": "4",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:21:34 -0700 2017",
+					"date_updated": "Wed Aug 09 11:21:34 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087493988"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087493988"
+					},
+					"owned": "0"
+				},
+				{
 					"id": "2087489245",
 					"book": {
 						"id": {
@@ -3971,7 +4057,7 @@
 						"publication_year": "2004",
 						"publication_month": "11",
 						"average_rating": "4.09",
-						"ratings_count": "426155",
+						"ratings_count": "426157",
 						"description": "When Stephen Covey first released The Seven Habits of Highly Effective People, the book became an instant rage because people suddenly got up and took notice that their lives were headed off in the wrong direction; and more than that, they realized that there were so many simple things they could do in order to navigate their life correctly. This book was wonderful education for people, education in how to live life effectively and get closer to the ideal of being a ‘success’ in life.<br /><br />But not everyone understands Stephen Covey’s model fully well, or maybe there are some people who haven’t read it yet. This is definitely true because we still see so much failure all around us. Now, I am not saying that by using Covey’s model, or anyone else’s model for that matter, you can become a sure-shot success, but at least we should have seen many more successes around us already judging by the number of copies the book has sold! So, where is the shortcoming?<br /><br />There are two main problems here, and we are talking only about the people who have read the book already. The first problem is that most people are too lazy to implement the ideals of Stephen Covey in their lives. They consider his masterpiece of a book as a mere coffee-table book or a book that you use for light reading when you are traveling and then forget all about it. They do not realize that this book contains life-changing information. Or, they take the information and do not make the effort to actually utilize it so that it becomes knowledge for them.<br /><br />The second problem is that a lot of people have a myopic view of Covey’s ideals. These are people who are impressed by the book already. If you ask them what the seven habits are, they can rattle them off end to end, but then they miss the larger picture. They do not understand that Covey was trying to tell more than he wrote in words. There are hidden implications in this book, yes, and a lot of people have just failed to see through them.<br /><br />That is what we are trying to do. We are trying to show you how Covey’s book, or rather, his model, was a complete model in itself. There was nothing amiss about it. If you implement it, there should be no aspect of your life that should go untouched. The only thing is that you have to understand these ideals and try to implement them in your life.<br /><br />But, before we barge into that area, it is extremely important to understand what these ideals are. What was the model that was propounded by Stephen Covey in his mega-famous book? We shall begin by trying to understand his model first, and then interpret it in such a way that it pertains to every aspect of our life.",
 						"authors": {
 							"author": {
@@ -4026,92 +4112,6 @@
 					},
 					"link": {
 						"__cdata": "https://www.goodreads.com/review/show/2087489245"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087489112",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "10127019"
-						},
-						"isbn": "0307887898",
-						"isbn13": "9780307887894",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "2431"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.Ylb6i9FNBkXnLW7rje69Kg",
-						"title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
-						"title_without_series": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576876l/10127019._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576876l/10127019._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/10127019-the-lean-startup",
-						"num_pages": "299",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "Currency",
-						"publication_day": "13",
-						"publication_year": "2011",
-						"publication_month": "9",
-						"average_rating": "4.07",
-						"ratings_count": "171334",
-						"description": "<b>Most startups fail. But many of those failures are preventable. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. <br /></b><br />Eric Ries defines a startup as <b>an organization dedicated to creating something new under conditions of extreme uncertainty</b>. This is just as true for one person in a garage or a group of seasoned professionals in a Fortune 500 boardroom. What they have in common is a mission to penetrate that fog of uncertainty to discover a successful path to a sustainable business.<br /><br /><br /><br />The Lean Startup approach fosters companies that are both more capital efficient and that leverage human creativity more effectively. Inspired by lessons from lean manufacturing, it relies on \"validated learning,\" rapid scientific experimentation, as well as a number of counter-intuitive practices that shorten product development cycles, measure actual progress without resorting to vanity metrics, and learn what customers really want. It enables a company to shift directions with agility, altering plans inch by inch, minute by minute.<br /><br />Rather than wasting time creating elaborate business plans, <i>The Lean Startup</i> offers entrepreneurs - in companies of all sizes - a way to test their vision continuously, to adapt and adjust before it's too late. Ries provides a scientific approach to creating and managing successful startups in a age when companies need to innovate more than ever.",
-						"authors": {
-							"author": {
-								"id": "278960",
-								"name": "Eric Ries",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1329162523p5/278960.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1329162523p2/278960.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/278960.Eric_Ries"
-								},
-								"average_rating": "4.07",
-								"ratings_count": "175170",
-								"text_reviews_count": "2812"
-							}
-						},
-						"published": "2011",
-						"work": {
-							"id": "15024842",
-							"uri": "kca://work/amzn1.gr.work.v1.jGbo3aJSH_mwWn3t7Mfr5A"
-						}
-					},
-					"rating": "3",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:16:07 -0700 2017",
-					"date_updated": "Mon Aug 28 17:30:55 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489112"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489112"
 					},
 					"owned": "0"
 				}
