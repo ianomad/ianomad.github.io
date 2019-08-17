@@ -327,16 +327,24 @@ used for profile image
   max-width: 400px;
 }
 
-.books {
-  list-style: none;
+.books-section {
+  font-size: 15px;
 }
 
-.books .title {
-  font-size: 15px;
+.books {
+  list-style: none;
+  margin-top: 25px;
+}
+
+.books {
+  padding: 0;
 }
 
 .books .author {
-  font-size: 15px;
   font-style: italic;
   font-weight: bold;
+}
+
+.books li {
+  margin-bottom: 5px;
 }
