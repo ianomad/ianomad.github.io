@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "General coding: Dependency Injection In Depth"
+title:  "Dependency injection in code"
 date:   2017-05-05 20:00
 categories: coding
 excerpt: "This article is about dependency injection as a method to manage object graph in the app lifecycle"
 ---
 
-# Dependency Injection In Depth
+# Dependency injection in code
 
 This post will describe dependency injection, its common features and types and some examples in different programming languages.
 

@@ -1,26 +1,21 @@
 ---
 layout: post
-title:  "Android: The Most Popular Libraries for any decent MVP. Part 2."
+title:  "Android Fun Libraries. Part 2"
 date:   2017-03-09 20:00
 categories: android
 excerpt: "This article is about the most popular
-libraries I found to be super useful. (article is not finished yet)"
+libraries I found to be super useful."
 ---
 
-# Android Libraries - Part 2 - Dagger 2 (article is not finished yet)
+# Android Libraries - Part 2
 
-This is a continuation of the previous post of the most popular libraries for a decent MVP.
+This is a continuation of the previous post of about fun libraries for Android apps.
 
 -----------------
 
 ## Table of contents
 
   - [Dagger 2](#dagger2)
-  - [RxJava](#rxjava)
-  - [RxLifecycle](#RxLifecycle)
-  - [Parceler](#parceler)
-  - [Icepick](#icepick)
-  - [Permissions Dispatcher](#permissionsdispatcher)
 
 -----------------
 

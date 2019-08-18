@@ -2,28 +2,26 @@
   <h2 class="section-title"><i class="fa fa-home"></i>Where am I?</h2>
   <div class="summary">
 
-    I think, it's kind of important to ask this question yourself once in a while (this sentence is slightly ironic and meant to be such).
-    Right now you are on my personal website that I use to share about my interests.
+    <p>It's important to ask this question once in a while (this is sarcastic and meant to be such).
+    Right now you are on my personal website that I use to share a little about me.</p>
+
+    <p>
+      It may be as crucial for you to talk to me as it is crucial for me to hear from you. If you feel that way,
+      <strong><a href = "mailto: ilakhmedov@gmail.com">drop me a note</a></strong>.
+    </p>
 
   </div>
 </section>
 
-<section class="section summary-section">
+<section class="section notes-section">
 
-<h2 class="section-title"><i class="fa fa-feed"></i>Articles</h2>
-<div class="summary">
+<h2 class="section-title"><i class="fa fa-feed"></i>Notes</h2>
+<div class="notes">
 
   {% assign items = site.posts | sort: 'date' %}
   {% for post in items reversed %}
     <div class="item">
-        <div class="meta">
-            <div class="upper-row">
-                <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
-            </div>
-            <div>{{ post.excerpt }}</div>
-            <br />
-            <div><p>Post date: {{ post.date | date: "%H:%M %B %d, %Y" }}</p></div>
-        </div>
+      <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} ({{ post.date | date: "%B %d, %Y" }})</a></p>
     </div>
   {% endfor %}
 

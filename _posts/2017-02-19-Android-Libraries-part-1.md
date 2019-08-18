@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Android: The Most Popular Libraries for any decent MVP. Part 1."
+title:  "Android Fun Libraries. Part 1"
 date:   2017-02-28 20:00
 categories: android
 excerpt: "This article is about the most popular
 libraries I found to be super useful."
 ---
 
-# Android Libraries - Part 1
+# Android Fun Libraries. Part 1
 
 This article is about the most popular libraries I found to be super useful.
 Most of them I learnt on Android Bootcamp organized by [Codepath](https://codepath.com/).
