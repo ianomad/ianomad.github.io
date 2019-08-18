@@ -149,7 +149,7 @@ p {
   background: #fff;
   padding: 40px;
   padding-right: 220px;
-  min-height: 600px;
+  min-height: 400px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
@@ -309,11 +309,12 @@ used for profile image
 }
 
 .notes-section {
-  margin-top: 150px;
+  margin-top: 100px;
 }
 
 .notes-section p {
-  margin: 5px;
+  margin: 5px 0;
+  font-size: 13px;
 }
 
 .video-container ul, .food-container ul {
