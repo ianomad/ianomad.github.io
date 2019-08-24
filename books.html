@@ -13,6 +13,12 @@ layout: default
           <span class="title">{{ review.book.title }}</span>
           <span class="author">by {{ review.book.authors.author.name }}</span>
           <a href="{{ review.book.link }}" target="_blank">[ref]</a>
+
+          <details>
+            <summary><span>See Review</span></summary>
+            <span class="review"><i>{{ review.body.__cdata }}</i></span>
+          </details>
+
       </li>
   {% endfor %}
   </ul>
