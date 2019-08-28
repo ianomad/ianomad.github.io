@@ -37,7 +37,7 @@ The number one change that happened in the beginning was an ability to <strong>c
 ##### Change 2: Ideology
 
 I have been reading pretty intensively (like 2-5 books a week) and visited areas like Philosophy
-(Kant[^4], Nietzsche[^5], Lao Tzu[^6], Bruce Lee[^7], etc.), Business (Explosive Growth[^8], Good to Great[^9], etc.), Marketing, Psychology, Media, Behavioral Economics, etc..
+(Kant[^4], Nietzsche[^5], Lao Tzu[^6], Bruce Lee[^9], etc.), Business (Explosive Growth[^10], Good to Great[^11], etc.), Marketing, Psychology, Media, Behavioral Economics, etc..
 
 
 By Ideology, I mean my stance on where I am, why I am here, what I am doing, how I am doing it, and so on and so forth.
@@ -60,7 +60,7 @@ I am still working on this article...
 [^3]: The Art of War [ref](https://www.goodreads.com/book/show/10534.The_Art_of_War)
 [^4]: Kant [ref](https://www.goodreads.com/book/show/40112370-groundwork-for-the-metaphysics-of-morals)
 [^5]: Nietzsche [ref](https://www.goodreads.com/book/show/12321.Beyond_Good_and_Evil)
-[^7]: Lao Tzu [ref](https://www.goodreads.com/book/show/6341209-tao-te-ching)
+[^6]: Lao Tzu [ref](https://www.goodreads.com/book/show/6341209-tao-te-ching)
 [^9]: Bruce Lee [ref](https://www.goodreads.com/book/show/26247328-bruce-lee)
 [^10]: Explosive Growth [ref](https://www.goodreads.com/book/show/36607149-explosive-growth)
 [^11]: Good to great [ref](https://www.goodreads.com/book/show/11923102-good-to-great)
