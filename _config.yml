@@ -1,5 +1,5 @@
 title: Iliiaz and thoughts
-url: 'http://ianomad.github.io'
+url: 'https://ilyusha.io'
 baseurl: '' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -11,11 +11,11 @@ baseurl: '' #change it according to your repository name
 
 #Profile information
 name: Iliiazbek Akhmedov
-tagline: #Software Engineer <br/> Generalist
+tagline: #
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-website: ianomad.github.io #do not add http://
+website: ilyusha.io #do not add http://
 linkedin: akhmedovi
 
 #Update all the sections by editing the files inside _includes folder.

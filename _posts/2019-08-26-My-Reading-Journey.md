@@ -2,8 +2,8 @@
 layout: post
 title:  "My Reading Journey"
 date:   2019-08-26
-categories: coding
-excerpt: "This article is about why I started reading more and I have learnt from the past couple of months"
+categories: reading
+excerpt: "This article is about why reading journey and what I have learnt from the past couple of months"
 ---
 
 ### My Reading Journey
