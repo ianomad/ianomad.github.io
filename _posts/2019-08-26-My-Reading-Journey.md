@@ -64,6 +64,12 @@ It's very important to share this point. We live in a daily routine of expectati
 
 <br />
 
+##### Change 5: Other
+
+There is a whole bunch and I will edit this article as I explore and have time to write.
+
+<br />
+
 #### Conclusion
 
 <strong>My point is simple: read more</strong>.
