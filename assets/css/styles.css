@@ -334,6 +334,16 @@ used for profile image
   width: 100%;
 }
 
+.embed-image-small {
+  width: 100%;
+  text-align: center;
+}
+
+.embed-image-small img {
+  width: 50%;
+  text-align: center;
+}
+
 .books-section {
   font-size: 15px;
 }
