@@ -1114,6 +1114,94 @@
 					"owned": "0"
 				},
 				{
+					"id": "2900740214",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "18750852"
+						},
+						"isbn": "1422197581",
+						"isbn13": "9781422197585",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "32"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.HPUq4DIp9jfypVCPbzmR2w",
+						"title": "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+						"title_without_series": "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/18750852-the-innovator-s-dilemma",
+						"num_pages": "256",
+						"format": "ebook",
+						"edition_information": "",
+						"publisher": "Harvard Business Review Press",
+						"publication_day": "22",
+						"publication_year": "2013",
+						"publication_month": "10",
+						"average_rating": "3.98",
+						"ratings_count": "33816",
+						"description": "Harvard professor Clayton M. Christensen says outstanding companies can do everything right and still lose their market leadership -- or worse, disappear completely. And he not only proves what he says, he tells others how to avoid a similar fate.<br /><br />Focusing on \"disruptive technology\" -- the Honda Super Cub, Intel's 8088 processor, or the hydraulic excavator, for example -- Christensen shows why most companies miss \"the next great wave.\" Whether in electronics or retailing, a successful company with established products will get pushed aside unless managers know when to abandon traditional business practices. Using the lessons of successes and failures from leading companies, \"The Innovator's Dilemma\" presents a set of rules for capitalizing on the phenomenon of disruptive innovation.",
+						"authors": {
+							"author": {
+								"id": "1792",
+								"name": "Clayton M. Christensen",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1362943115p5/1792.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1362943115p2/1792.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/1792.Clayton_M_Christensen"
+								},
+								"average_rating": "4.03",
+								"ratings_count": "82596",
+								"text_reviews_count": "4619"
+							}
+						},
+						"published": "2013",
+						"work": {
+							"id": "1468535",
+							"uri": "kca://work/amzn1.gr.work.v1.UbZSpnZxMu646pc2kUIBig"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Thu Aug 22 00:49:25 -0700 2019",
+					"read_at": "Fri Aug 23 01:03:21 -0700 2019",
+					"date_added": "Thu Jul 18 00:35:41 -0700 2019",
+					"date_updated": "Fri Aug 23 01:03:21 -0700 2019",
+					"read_count": "1",
+					"body": {
+						"__cdata": "This is a great book backed by extensive empirical data. First half of the book, I had a feeling that it's was too biased and the author is almost trying to fit the opinion into the right selection of data, but towards the end you get the key message on disruptive innovation."
+					},
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2900740214"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2900740214"
+					},
+					"owned": "0"
+				},
+				{
 					"id": "2936450936",
 					"book": {
 						"id": {
@@ -1202,94 +1290,6 @@
 					},
 					"link": {
 						"__cdata": "https://www.goodreads.com/review/show/2936450936"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2900740214",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "18750852"
-						},
-						"isbn": "1422197581",
-						"isbn13": "9781422197585",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "32"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.HPUq4DIp9jfypVCPbzmR2w",
-						"title": "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
-						"title_without_series": "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
-						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/18750852-the-innovator-s-dilemma",
-						"num_pages": "256",
-						"format": "ebook",
-						"edition_information": "",
-						"publisher": "Harvard Business Review Press",
-						"publication_day": "22",
-						"publication_year": "2013",
-						"publication_month": "10",
-						"average_rating": "3.98",
-						"ratings_count": "33816",
-						"description": "Harvard professor Clayton M. Christensen says outstanding companies can do everything right and still lose their market leadership -- or worse, disappear completely. And he not only proves what he says, he tells others how to avoid a similar fate.<br /><br />Focusing on \"disruptive technology\" -- the Honda Super Cub, Intel's 8088 processor, or the hydraulic excavator, for example -- Christensen shows why most companies miss \"the next great wave.\" Whether in electronics or retailing, a successful company with established products will get pushed aside unless managers know when to abandon traditional business practices. Using the lessons of successes and failures from leading companies, \"The Innovator's Dilemma\" presents a set of rules for capitalizing on the phenomenon of disruptive innovation.",
-						"authors": {
-							"author": {
-								"id": "1792",
-								"name": "Clayton M. Christensen",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1362943115p5/1792.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1362943115p2/1792.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/1792.Clayton_M_Christensen"
-								},
-								"average_rating": "4.03",
-								"ratings_count": "82596",
-								"text_reviews_count": "4619"
-							}
-						},
-						"published": "2013",
-						"work": {
-							"id": "1468535",
-							"uri": "kca://work/amzn1.gr.work.v1.UbZSpnZxMu646pc2kUIBig"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "Thu Aug 22 00:49:25 -0700 2019",
-					"read_at": "Fri Aug 23 01:03:21 -0700 2019",
-					"date_added": "Thu Jul 18 00:35:41 -0700 2019",
-					"date_updated": "Fri Aug 23 01:03:21 -0700 2019",
-					"read_count": "1",
-					"body": {
-						"__cdata": "This is a great book backed by extensive empirical data. First half of the book, I had a feeling that it's was too biased and the author is almost trying to fit the opinion into the right selection of data, but towards the end you get the key message on disruptive innovation."
-					},
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2900740214"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2900740214"
 					},
 					"owned": "0"
 				},
@@ -2797,7 +2797,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.19",
-						"ratings_count": "16423",
+						"ratings_count": "16424",
 						"description": "<b>Ray Dalio, one of the world’s most successful investors and entrepreneurs, shares the unconventional principles that he’s developed, refined, and used over the past forty years to create unique results in both life and business—and which any person or organization can adopt to help achieve their goals.</b><br /><br />In 1975, Ray Dalio founded an investment firm, Bridgewater Associates, out of his two-bedroom apartment in New York City. Forty years later, Bridgewater has made more money for its clients than any other hedge fund in history and grown into the fifth most important private company in the United States, according to <i>Fortune</i> magazine. Dalio himself has been named to <i>Time </i>magazine’s list of the 100 most influential people in the world. Along the way, Dalio discovered a set of unique principles that have led to Bridgewater’s exceptionally effective culture, which he describes as “an idea meritocracy that strives to achieve meaningful work and meaningful relationships through radical transparency.” It is these principles, and not anything special about Dalio—who grew up an ordinary kid in a middle-class Long Island neighborhood—that he believes are the reason behind his success.<br /><br />In <i>Principles, </i>Dalio shares what he’s learned over the course of his remarkable career. He argues that life, management, economics, and investing can all be systemized into rules and understood like machines. The book’s hundreds of practical lessons, which are built around his cornerstones of “radical truth” and “radical transparency,” include Dalio laying out the most effective ways for individuals and organizations to make decisions, approach challenges, and build strong teams. He also describes the innovative tools the firm uses to bring an idea meritocracy to life, such as creating “baseball cards” for all employees that distill their strengths and weaknesses, and employing computerized decision-making systems to make believability-weighted decisions. While the book brims with novel ideas for organizations and institutions, <i>Principles</i> also offers a clear, straightforward approach to decision-making that Dalio believes anyone can apply, no matter what they’re seeking to achieve.<br /><br />Here is a rare opportunity to gain proven advice unlike anything you’ll find in the conventional business press.",
 						"authors": {
 							"author": {
@@ -2854,98 +2854,6 @@
 					},
 					"link": {
 						"__cdata": "https://www.goodreads.com/review/show/2895258262"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2501703891",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "43601742"
-						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": {
-							"_nil": "true"
-						},
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "13"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.VmHHO6QsibV6YTQ7z3Bk_A",
-						"title": "1984",
-						"title_without_series": "1984",
-						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/43601742-1984",
-						"num_pages": "",
-						"format": "",
-						"edition_information": "",
-						"publisher": "",
-						"publication_day": "",
-						"publication_year": "",
-						"publication_month": "",
-						"average_rating": "4.17",
-						"ratings_count": "2679261",
-						"description": "Among the seminal texts of the 20th century, <i>Nineteen Eighty-Four</i> is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell's nightmare vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life--the ubiquity of television, the distortion of the language--and his ability to construct such a thorough version of hell. Required reading for students since it was published, it ranks among the most terrifying novels ever written.",
-						"authors": {
-							"author": {
-								"id": "3706",
-								"name": "George Orwell",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1450573063p5/3706.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1450573063p2/3706.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/3706.George_Orwell"
-								},
-								"average_rating": "4.06",
-								"ratings_count": "5446562",
-								"text_reviews_count": "122841"
-							}
-						},
-						"published": "",
-						"work": {
-							"id": "153313",
-							"uri": "kca://work/amzn1.gr.work.v1.SgJQSc4-cyFNY1JLB6R9mA"
-						}
-					},
-					"rating": "3",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "Thu Jul 11 00:00:00 -0700 2019",
-					"read_at": "Sat Jul 13 00:00:00 -0700 2019",
-					"date_added": "Tue Aug 21 00:24:44 -0700 2018",
-					"date_updated": "Sat Jul 13 22:05:19 -0700 2019",
-					"read_count": "1",
-					"body": {
-						"__cdata": "I felt pretty neutral and didn’t particularly feel any emotional excitement or derived any knowledge out of this."
-					},
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2501703891"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2501703891"
 					},
 					"owned": "0"
 				},
@@ -3038,6 +2946,98 @@
 					},
 					"link": {
 						"__cdata": "https://www.goodreads.com/review/show/2895102864"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2501703891",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "43601742"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": {
+							"_nil": "true"
+						},
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "13"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.VmHHO6QsibV6YTQ7z3Bk_A",
+						"title": "1984",
+						"title_without_series": "1984",
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/43601742-1984",
+						"num_pages": "",
+						"format": "",
+						"edition_information": "",
+						"publisher": "",
+						"publication_day": "",
+						"publication_year": "",
+						"publication_month": "",
+						"average_rating": "4.17",
+						"ratings_count": "2679261",
+						"description": "Among the seminal texts of the 20th century, <i>Nineteen Eighty-Four</i> is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell's nightmare vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life--the ubiquity of television, the distortion of the language--and his ability to construct such a thorough version of hell. Required reading for students since it was published, it ranks among the most terrifying novels ever written.",
+						"authors": {
+							"author": {
+								"id": "3706",
+								"name": "George Orwell",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1450573063p5/3706.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1450573063p2/3706.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/3706.George_Orwell"
+								},
+								"average_rating": "4.06",
+								"ratings_count": "5446562",
+								"text_reviews_count": "122841"
+							}
+						},
+						"published": "",
+						"work": {
+							"id": "153313",
+							"uri": "kca://work/amzn1.gr.work.v1.SgJQSc4-cyFNY1JLB6R9mA"
+						}
+					},
+					"rating": "3",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Thu Jul 11 00:00:00 -0700 2019",
+					"read_at": "Sat Jul 13 00:00:00 -0700 2019",
+					"date_added": "Tue Aug 21 00:24:44 -0700 2018",
+					"date_updated": "Sat Jul 13 22:05:19 -0700 2019",
+					"read_count": "1",
+					"body": {
+						"__cdata": "I felt pretty neutral and didn’t particularly feel any emotional excitement or derived any knowledge out of this."
+					},
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2501703891"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2501703891"
 					},
 					"owned": "0"
 				},
@@ -4660,698 +4660,6 @@
 					"owned": "0"
 				},
 				{
-					"id": "2087492743",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "14461754"
-						},
-						"isbn": "1591845734",
-						"isbn13": "9781591845737",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "111"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.N2S4g-JbiMFQsBpt8qqSxg",
-						"title": "Tap Dancing to Work: Warren Buffett on Practically Everything, 1966-2012",
-						"title_without_series": "Tap Dancing to Work: Warren Buffett on Practically Everything, 1966-2012",
-						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/14461754-tap-dancing-to-work",
-						"num_pages": "345",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "Portfolio",
-						"publication_day": "21",
-						"publication_year": "2012",
-						"publication_month": "11",
-						"average_rating": "3.95",
-						"ratings_count": "1750",
-						"description": "<b>Warren Buffett built Berkshire Hathaway into something remarkable— and <i>Fortune </i>journalist Carol Loomis had a front-row seat for it all.</b> When Carol Loomis first mentioned a little-known Omaha hedge fund manager in a 1966 <i>Fortune </i>article, she didn’t dream that Warren Buffett would one day be considered the world’s greatest investor—nor that she and Buffett would quickly become close personal friends. As Buf­fett’s fortune and reputation grew over time, Loomis used her unique insight into Buffett’s thinking to chronicle his work for <i>Fortune</i>, writ­ing and proposing scores of stories that tracked his many accomplishments—and also his occa­sional mistakes. Now Loomis has collected and updated the best Buffett articles <i>Fortune </i>published between 1966 and 2012, including thirteen cover stories and a dozen pieces authored by Buffett himself. Loomis has provided commentary about each major arti­cle that supplies context and her own informed point of view. Readers will gain fresh insights into Buffett’s investment strategies and his thinking on management, philanthropy, public policy, and even parenting. Some of the highlights include:<br />The 1966 A. W. Jones story in which <i>Fortune </i>first mentioned Buffett. The first piece Buffett wrote for the magazine, 1977’s “How Inf lation Swindles the Equity Investor.” Andrew Tobias’s 1983 article “Letters from Chairman Buffett,” the first review of his Berk­shire Hathaway shareholder letters. Buffett’s stunningly prescient 2003 piece about derivatives, “Avoiding a Mega-Catastrophe.” His unconventional thoughts on inheritance and philanthropy, including his intention to leave his kids “enough money so they would feel they could do anything, but not so much that they could do nothing.” Bill Gates’s 1996 article describing his early impressions of Buffett as they struck up their close friendship. Scores of Buffett books have been written, but none can claim this work’s combination of trust between two friends, the writer’s deep under­standing of Buffett’s world, and a very long-term perspective.",
-						"authors": {
-							"author": {
-								"id": "6047133",
-								"name": "Carol J. Loomis",
-								"role": "",
-								"image_url": {
-									"_nophoto": "true",
-									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png"
-								},
-								"small_image_url": {
-									"_nophoto": "true",
-									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/6047133.Carol_J_Loomis"
-								},
-								"average_rating": "3.95",
-								"ratings_count": "1750",
-								"text_reviews_count": "128"
-							}
-						},
-						"published": "2012",
-						"work": {
-							"id": "20104200",
-							"uri": "kca://work/amzn1.gr.work.v1.vJUsKq_xDakO07Der5434g"
-						}
-					},
-					"rating": "4",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:20:19 -0700 2017",
-					"date_updated": "Wed Aug 09 11:20:19 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492743"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492743"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087491147",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "25541028"
-						},
-						"isbn": "0062301233",
-						"isbn13": "9780062301239",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "5335"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.d52utOGsc04TWSnQmaVWcw",
-						"title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
-						"title_without_series": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/25541028-elon-musk",
-						"num_pages": "400",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "Ecco",
-						"publication_day": "19",
-						"publication_year": "2015",
-						"publication_month": "5",
-						"average_rating": "4.23",
-						"ratings_count": "170578",
-						"description": "Elon Musk, the entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, sold one of his internet companies, PayPal, for $1.5 billion. Ashlee Vance captures the full spectacle and arc of the genius's life and work, from his tumultuous upbringing in South Africa and flight to the United States to his dramatic technical innovations and entrepreneurial pursuits. Vance uses Musk's story to explore one of the pressing questions of our age: can the nation of inventors and creators who led the modern world for a century still compete in an age of fierce global competition? He argues that Musk is an amalgam of legendary inventors and industrialists including Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs. More than any other entrepreneur today, Musk has dedicated his energies and his own vast fortune to inventing a future that is as rich and far-reaching as the visionaries of the golden age of science-fiction fantasy",
-						"authors": {
-							"author": {
-								"id": "761595",
-								"name": "Ashlee Vance",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1486997562p5/761595.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1486997562p2/761595.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/761595.Ashlee_Vance"
-								},
-								"average_rating": "4.23",
-								"ratings_count": "171262",
-								"text_reviews_count": "7721"
-							}
-						},
-						"published": "2015",
-						"work": {
-							"id": "41987016",
-							"uri": "kca://work/amzn1.gr.work.v1.u0SRWPh5pMbDRPZwUX1ktw"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:18:36 -0700 2017",
-					"date_updated": "Thu Jan 11 08:33:07 -0800 2018",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087491147"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087491147"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087491321",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "10534"
-						},
-						"isbn": "1590302257",
-						"isbn13": "9781590302255",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "5539"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.kYPf-NrB9NvXnIdl79xEMQ",
-						"title": "The Art of War",
-						"title_without_series": "The Art of War",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453417993l/10534._SY160_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453417993l/10534._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/10534.The_Art_of_War",
-						"num_pages": "273",
-						"format": "Paperback",
-						"edition_information": "",
-						"publisher": "Shambhala",
-						"publication_day": "11",
-						"publication_year": "2005",
-						"publication_month": "1",
-						"average_rating": "3.97",
-						"ratings_count": "277340",
-						"description": "Twenty-Five Hundred years ago, Sun Tzu wrote this classic book of military strategy based on Chinese warfare and military thought. Since that time, all levels of military have used the teaching on Sun Tzu to warfare and civilization have adapted these teachings for use in politics, business and everyday life. The Art of War is a book which should be used to gain advantage of opponents in the boardroom and battlefield alike.",
-						"authors": {
-							"author": {
-								"id": "1771",
-								"name": "Sun Tzu",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1185211202p5/1771.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1185211202p2/1771.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/1771.Sun_Tzu"
-								},
-								"average_rating": "3.97",
-								"ratings_count": "284353",
-								"text_reviews_count": "9257"
-							}
-						},
-						"published": "2005",
-						"work": {
-							"id": "3200649",
-							"uri": "kca://work/amzn1.gr.work.v1.Qvp9-uRCX3l7q-ln1MnEKw"
-						}
-					},
-					"rating": "4",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:18:48 -0700 2017",
-					"date_updated": "Wed Aug 09 11:18:48 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087491321"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087491321"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087495414",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "10884"
-						},
-						"isbn": "0743264738",
-						"isbn13": "9780743264730",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "2707"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.Y3VmJwL-CVA91L_qML0kkg",
-						"title": "Einstein: His Life and Universe",
-						"title_without_series": "Einstein: His Life and Universe",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011405l/10884._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011405l/10884._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/10884.Einstein",
-						"num_pages": "675",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "Simon  Schuster",
-						"publication_day": "10",
-						"publication_year": "2007",
-						"publication_month": "4",
-						"average_rating": "4.10",
-						"ratings_count": "108955",
-						"description": "Einstein was a rebel and nonconformist from boyhood days, and these character traits drove both his life and his science. In this narrative, Walter Isaacson explains how his mind worked and the mysteries of the universe that he discovered.",
-						"authors": {
-							"author": {
-								"id": "7111",
-								"name": "Walter Isaacson",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1192222433p5/7111.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1192222433p2/7111.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/7111.Walter_Isaacson"
-								},
-								"average_rating": "4.11",
-								"ratings_count": "1112534",
-								"text_reviews_count": "27532"
-							}
-						},
-						"published": "2007",
-						"work": {
-							"id": "985244",
-							"uri": "kca://work/amzn1.gr.work.v1.kQAB3ssqcXRp_0oKFGaGBQ"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:22:53 -0700 2017",
-					"date_updated": "Wed Aug 09 11:22:53 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087495414"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087495414"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087506552",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "343"
-						},
-						"isbn": "0140120831",
-						"isbn13": "9780140120837",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "7250"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.mN3aPAkRnqYYqtSMISBHlw",
-						"title": "Perfume: The Story of a Murderer",
-						"title_without_series": "Perfume: The Story of a Murderer",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/343.Perfume",
-						"num_pages": "263",
-						"format": "Paperback",
-						"edition_information": "",
-						"publisher": "Penguin Books",
-						"publication_day": "",
-						"publication_year": "1987",
-						"publication_month": "",
-						"average_rating": "4.02",
-						"ratings_count": "281437",
-						"description": "An acclaimed bestseller and international sensation, Patrick Suskind's classic novel provokes a terrifying examination of what happens when one man's indulgence in his greatest passion—his sense of smell—leads to murder.<br /><br />In the slums of eighteenth-century France, the infant Jean-Baptiste Grenouille is born with one sublime gift—an absolute sense of smell. As a boy, he lives to decipher the odors of Paris, and apprentices himself to a prominent perfumer who teaches him the ancient art of mixing precious oils and herbs. But Grenouille's genius is such that he is not satisfied to stop there, and he becomes obsessed with capturing the smells of objects such as brass doorknobs and fresh-cut wood. Then one day he catches a hint of a scent that will drive him on an ever-more-terrifying quest to create the \"ultimate perfume\"—the scent of a beautiful young virgin. Told with dazzling narrative brilliance, <i>Perfume</i> is a hauntingly powerful tale of murder and sensual depravity.",
-						"authors": {
-							"author": {
-								"id": "39402",
-								"name": "Patrick Süskind",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1201117958p5/39402.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1201117958p2/39402.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/39402.Patrick_S_skind"
-								},
-								"average_rating": "3.99",
-								"ratings_count": "302737",
-								"text_reviews_count": "14876"
-							}
-						},
-						"published": "1987",
-						"work": {
-							"id": "2977727",
-							"uri": "kca://work/amzn1.gr.work.v1.0GBNmY2Ia-KBFQYNo_Ao9w"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:34:33 -0700 2017",
-					"date_updated": "Mon Aug 28 17:31:24 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087506552"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087506552"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087493988",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "81922"
-						},
-						"isbn": "0446677477",
-						"isbn13": "9780446677479",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "724"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.l_Y13oZYttng-9JhVCWnUA",
-						"title": "Rich Dad's Cashflow Quadrant: Rich Dad's Guide to Financial Freedom",
-						"title_without_series": "Rich Dad's Cashflow Quadrant: Rich Dad's Guide to Financial Freedom",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483023081l/81922._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483023081l/81922._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/81922.Rich_Dad_s_Cashflow_Quadrant",
-						"num_pages": "376",
-						"format": "Paperback",
-						"edition_information": "",
-						"publisher": "Business Plus",
-						"publication_day": "",
-						"publication_year": "2012",
-						"publication_month": "3",
-						"average_rating": "4.10",
-						"ratings_count": "34840",
-						"description": "The Cashflow Quadrant is the follow-up guide to finding the financial fast track that best works for you. It reveals the strategies necessary for moving beyond just job security to greater financial security by generating wealth from four selective financial quadrants. This work will reveal why some people work less, earn more, pay less in taxes, and feel more financially secure than others. It's simply a matter of knowing which quadrant to work in.",
-						"authors": {
-							"author": {
-								"id": "600",
-								"name": "Robert T. Kiyosaki",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1236463010p5/600.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1236463010p2/600.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/600.Robert_T_Kiyosaki"
-								},
-								"average_rating": "4.03",
-								"ratings_count": "395464",
-								"text_reviews_count": "14981"
-							}
-						},
-						"published": "2012",
-						"work": {
-							"id": "42235",
-							"uri": "kca://work/amzn1.gr.work.v1.C6Q9ZZK-CTAlz6wHkalS8A"
-						}
-					},
-					"rating": "4",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:21:34 -0700 2017",
-					"date_updated": "Wed Aug 09 11:21:34 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087493988"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087493988"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087489112",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "10127019"
-						},
-						"isbn": "0307887898",
-						"isbn13": "9780307887894",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "2478"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.Ylb6i9FNBkXnLW7rje69Kg",
-						"title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
-						"title_without_series": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576876l/10127019._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576876l/10127019._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/10127019-the-lean-startup",
-						"num_pages": "299",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "Currency",
-						"publication_day": "13",
-						"publication_year": "2011",
-						"publication_month": "9",
-						"average_rating": "4.07",
-						"ratings_count": "175920",
-						"description": "<b>Most startups fail. But many of those failures are preventable. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. <br /></b><br />Eric Ries defines a startup as <b>an organization dedicated to creating something new under conditions of extreme uncertainty</b>. This is just as true for one person in a garage or a group of seasoned professionals in a Fortune 500 boardroom. What they have in common is a mission to penetrate that fog of uncertainty to discover a successful path to a sustainable business.<br /><br /><br /><br />The Lean Startup approach fosters companies that are both more capital efficient and that leverage human creativity more effectively. Inspired by lessons from lean manufacturing, it relies on \"validated learning,\" rapid scientific experimentation, as well as a number of counter-intuitive practices that shorten product development cycles, measure actual progress without resorting to vanity metrics, and learn what customers really want. It enables a company to shift directions with agility, altering plans inch by inch, minute by minute.<br /><br />Rather than wasting time creating elaborate business plans, <i>The Lean Startup</i> offers entrepreneurs - in companies of all sizes - a way to test their vision continuously, to adapt and adjust before it's too late. Ries provides a scientific approach to creating and managing successful startups in a age when companies need to innovate more than ever.",
-						"authors": {
-							"author": {
-								"id": "278960",
-								"name": "Eric Ries",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1329162523p5/278960.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1329162523p2/278960.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/278960.Eric_Ries"
-								},
-								"average_rating": "4.07",
-								"ratings_count": "179945",
-								"text_reviews_count": "2877"
-							}
-						},
-						"published": "2011",
-						"work": {
-							"id": "15024842",
-							"uri": "kca://work/amzn1.gr.work.v1.jGbo3aJSH_mwWn3t7Mfr5A"
-						}
-					},
-					"rating": "3",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:16:07 -0700 2017",
-					"date_updated": "Mon Aug 28 17:30:55 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489112"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489112"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087489393",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "30186948"
-						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": {
-							"_nil": "true"
-						},
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "1796"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.1kndsk926BrSY-nuOCdVsA",
-						"title": "Think and Grow Rich",
-						"title_without_series": "Think and Grow Rich",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/30186948-think-and-grow-rich",
-						"num_pages": "233",
-						"format": "Paperback",
-						"edition_information": "",
-						"publisher": "",
-						"publication_day": "",
-						"publication_year": "2016",
-						"publication_month": "4",
-						"average_rating": "4.17",
-						"ratings_count": "166934",
-						"description": "This is the original 1937 version of Napoleon Hill's Classic Book: <i>Think and Grow Rich</i>. To the greatest extent possible, the text and formatting have been kept exactly the same as in the original release with the exception of some minor formatting changes.",
-						"authors": {
-							"author": {
-								"id": "399",
-								"name": "Napoleon Hill",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1265381018p5/399.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1265381018p2/399.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/399.Napoleon_Hill"
-								},
-								"average_rating": "4.20",
-								"ratings_count": "202986",
-								"text_reviews_count": "7097"
-							}
-						},
-						"published": "2016",
-						"work": {
-							"id": "1199320",
-							"uri": "kca://work/amzn1.gr.work.v1.3ttXVgrGhe0eHHnR7nR1KA"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:16:26 -0700 2017",
-					"date_updated": "Wed Aug 09 11:16:26 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489393"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489393"
-					},
-					"owned": "0"
-				},
-				{
 					"id": "2087492545",
 					"book": {
 						"id": {
@@ -5438,63 +4746,63 @@
 					"owned": "0"
 				},
 				{
-					"id": "2087493736",
+					"id": "2087491147",
 					"book": {
 						"id": {
 							"_type": "integer",
-							"__text": "10339170"
+							"__text": "25541028"
 						},
-						"isbn": "0470627603",
-						"isbn13": "9780470627600",
+						"isbn": "0062301233",
+						"isbn13": "9780062301239",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "943"
+							"__text": "5335"
 						},
-						"uri": "kca://book/amzn1.gr.book.v1.PrqUVoV8MF7t7j5813ieBA",
-						"title": "The 10x Rule: The Only Difference Between Success and Failure",
-						"title_without_series": "The 10x Rule: The Only Difference Between Success and Failure",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310779133l/10339170._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310779133l/10339170._SY75_.jpg",
+						"uri": "kca://book/amzn1.gr.book.v1.d52utOGsc04TWSnQmaVWcw",
+						"title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+						"title_without_series": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SY75_.jpg",
 						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/10339170-the-10x-rule",
-						"num_pages": "240",
+						"link": "https://www.goodreads.com/book/show/25541028-elon-musk",
+						"num_pages": "400",
 						"format": "Hardcover",
 						"edition_information": "",
-						"publisher": "Wiley",
-						"publication_day": "26",
-						"publication_year": "2011",
-						"publication_month": "4",
-						"average_rating": "4.04",
-						"ratings_count": "10168",
-						"description": "<b>Achieve \"Massive Action\" results and accomplish your business dreams!</b> While most people operate with only three degrees of action-no action, retreat, or normal action-if you're after big goals, you don't want to settle for the ordinary. To reach the next level, you must understand the coveted 4th degree of action. This 4th degree, also know as the 10 X Rule, is that level of action that guarantees companies and individuals realize their goals and dreams.<br /><br /><i>The 10 X Rule</i> unveils the principle of \"Massive Action,\" allowing you to blast through business clichZs and risk-aversion while taking concrete steps to reach your dreams. It also demonstrates why people get stuck in the first three actions and how to move into making the 10X Rule a discipline. Find out exactly where to start, what to do, and how to follow up each action you take with more action to achieve Massive Action results.<br /><br /><br />Learn the \"Estimation of Effort\" calculation to ensure you exceed your targets Make the Fourth Degree a way of life and defy mediocrity Discover the time management myth Get the exact reasons why people fail and others succeed Know the exact formula to solve problems Extreme success is by definition outside the realm of normal action. Instead of behaving like everybody else and settling for average results, take Massive Action with <i>The 10 X Rule</i>, remove luck and chance from your business equation, and lock in massive success.",
+						"publisher": "Ecco",
+						"publication_day": "19",
+						"publication_year": "2015",
+						"publication_month": "5",
+						"average_rating": "4.23",
+						"ratings_count": "170581",
+						"description": "Elon Musk, the entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, sold one of his internet companies, PayPal, for $1.5 billion. Ashlee Vance captures the full spectacle and arc of the genius's life and work, from his tumultuous upbringing in South Africa and flight to the United States to his dramatic technical innovations and entrepreneurial pursuits. Vance uses Musk's story to explore one of the pressing questions of our age: can the nation of inventors and creators who led the modern world for a century still compete in an age of fierce global competition? He argues that Musk is an amalgam of legendary inventors and industrialists including Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs. More than any other entrepreneur today, Musk has dedicated his energies and his own vast fortune to inventing a future that is as rich and far-reaching as the visionaries of the golden age of science-fiction fantasy",
 						"authors": {
 							"author": {
-								"id": "1638887",
-								"name": "Grant Cardone",
+								"id": "761595",
+								"name": "Ashlee Vance",
 								"role": "",
 								"image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1326447807p5/1638887.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1486997562p5/761595.jpg"
 								},
 								"small_image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1326447807p2/1638887.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1486997562p2/761595.jpg"
 								},
 								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/1638887.Grant_Cardone"
+									"__cdata": "https://www.goodreads.com/author/show/761595.Ashlee_Vance"
 								},
-								"average_rating": "4.10",
-								"ratings_count": "19231",
-								"text_reviews_count": "1984"
+								"average_rating": "4.23",
+								"ratings_count": "171262",
+								"text_reviews_count": "7721"
 							}
 						},
-						"published": "2011",
+						"published": "2015",
 						"work": {
-							"id": "15241850",
-							"uri": "kca://work/amzn1.gr.work.v1.NGivOiXzaSR1eujXHjD1FQ"
+							"id": "41987016",
+							"uri": "kca://work/amzn1.gr.work.v1.u0SRWPh5pMbDRPZwUX1ktw"
 						}
 					},
-					"rating": "3",
+					"rating": "5",
 					"votes": "0",
 					"spoiler_flag": "false",
 					"spoilers_state": "none",
@@ -5510,16 +4818,102 @@
 					"recommended_by": "",
 					"started_at": "",
 					"read_at": "",
-					"date_added": "Wed Aug 09 11:21:20 -0700 2017",
-					"date_updated": "Wed Aug 09 11:21:20 -0700 2017",
+					"date_added": "Wed Aug 09 11:18:36 -0700 2017",
+					"date_updated": "Thu Jan 11 08:33:07 -0800 2018",
 					"read_count": "1",
 					"body": "",
 					"comments_count": "0",
 					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087493736"
+						"__cdata": "https://www.goodreads.com/review/show/2087491147"
 					},
 					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087493736"
+						"__cdata": "https://www.goodreads.com/review/show/2087491147"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2983878355",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "21864597"
+						},
+						"isbn": "0989988015",
+						"isbn13": "9780989988018",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "1"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.lWNiOxGxI1yJRbMSOk3V3w",
+						"title": "Justification for Murder",
+						"title_without_series": "Justification for Murder",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403188559l/21864597._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403188559l/21864597._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/21864597-justification-for-murder",
+						"num_pages": "404",
+						"format": "Paperback",
+						"edition_information": "",
+						"publisher": "Paperlessreads",
+						"publication_day": "29",
+						"publication_year": "2014",
+						"publication_month": "3",
+						"average_rating": "3.96",
+						"ratings_count": "685",
+						"description": "How far would you go to get something you desperately need? Detective Darcy Lynch licks his wounds as a desk jockey after an undercover case gone bad. He's handed a hit-and-run that quickly reveals itself as a brazen attempted murder-exactly the kind of case he was trying to avoid. Why would anyone want Saffron Meadows dead? An unexpected desire to protect her forces Lynch to stick with the case. Meanwhile, seasoned Detective Erik Sorensen and his intern work a string of bizarre suicides with too much in common to be a mere coincidence. What could drive these people to carve their own flesh out? As mysterious murders and suspicious suicides stack up in Silicon Valley, Lynch and his colleagues must connect the dots between the cases before more people die and panic spreads. Could all this be part of a cover-up? Is this just a hit man crossing names off of a list, or has one Valley startup gone too far? Could there ever be a justification for murder? B.R.A.G.Medallion Honoree",
+						"authors": {
+							"author": {
+								"id": "7390354",
+								"name": "Elin Barnes",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1401920344p5/7390354.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1401920344p2/7390354.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/7390354.Elin_Barnes"
+								},
+								"average_rating": "4.06",
+								"ratings_count": "1264",
+								"text_reviews_count": "131"
+							}
+						},
+						"published": "2014",
+						"work": {
+							"id": "26735289",
+							"uri": "kca://work/amzn1.gr.work.v1.ZvLph5bm5-AsbhmhnsJf3A"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Thu Sep 19 23:34:12 -0700 2019",
+					"date_updated": "Thu Sep 19 23:34:13 -0700 2019",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2983878355"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2983878355"
 					},
 					"owned": "0"
 				},
@@ -5610,63 +5004,63 @@
 					"owned": "0"
 				},
 				{
-					"id": "2087492991",
+					"id": "2087492121",
 					"book": {
 						"id": {
 							"_type": "integer",
-							"__text": "13344951"
+							"__text": "95887"
 						},
-						"isbn": "0983988536",
-						"isbn13": "9780983988533",
+						"isbn": "1576754227",
+						"isbn13": "9781576754221",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "295"
+							"__text": "2071"
 						},
-						"uri": "kca://book/amzn1.gr.book.v1.d5jWqzYPzDtrcA4qBdNgLg",
-						"title": "How to Win at the Sport of Business: If I Can Do It, You Can Do It",
-						"title_without_series": "How to Win at the Sport of Business: If I Can Do It, You Can Do It",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441897247l/13344951._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441897247l/13344951._SY75_.jpg",
+						"uri": "kca://book/amzn1.gr.book.v1.298at6Wytj5Su9FNHgdsnA",
+						"title": "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
+						"title_without_series": "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854785l/95887._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854785l/95887._SY75_.jpg",
 						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/13344951-how-to-win-at-the-sport-of-business",
-						"num_pages": "67",
-						"format": "ebook",
-						"edition_information": "",
-						"publisher": "Diversion Books",
-						"publication_day": "",
-						"publication_year": "2011",
-						"publication_month": "",
-						"average_rating": "4.05",
-						"ratings_count": "4892",
-						"description": "Mark Cuban shares his wealth of experience and business savvy in his first published book, How to Win at the Sport of Business, available now only as an e-book. Using the greatest material from his popular Blog Maverick, he has collected and updated his postings on business and life to provide a catalog of insider knowledge on what it takes to become a thriving entrepreneur. Cuban tells his own rags-to-riches story of how he went from selling powdered milk and sleeping on friends' couches to owning his own company and becoming a multi-billion dollar success story. His unconventional yet highly effective ideas on how to build a successful business offer entrepreneurs at any stage of their careers a huge edge over their competitors.",
+						"link": "https://www.goodreads.com/book/show/95887.Eat_That_Frog_",
+						"num_pages": "128",
+						"format": "Paperback",
+						"edition_information": "Second Edition",
+						"publisher": "Berrett-Koehler Publishers",
+						"publication_day": "1",
+						"publication_year": "2007",
+						"publication_month": "1",
+						"average_rating": "3.87",
+						"ratings_count": "37241",
+						"description": "<div>The legendary <em>Eat That Frog!</em> (more than 450,000 copies sold and translated into 23 languages) provides the 21 most effective methods for conquering procrastination and accomplishing more. This new edition is revised and updated throughout, and includes brand new information on how to keep technology from dominating our time.</div>",
 						"authors": {
 							"author": {
-								"id": "2070271",
-								"name": "Mark Cuban",
+								"id": "22033",
+								"name": "Brian Tracy",
 								"role": "",
 								"image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1422937576p5/2070271.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1258058862p5/22033.jpg"
 								},
 								"small_image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1422937576p2/2070271.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1258058862p2/22033.jpg"
 								},
 								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/2070271.Mark_Cuban"
+									"__cdata": "https://www.goodreads.com/author/show/22033.Brian_Tracy"
 								},
-								"average_rating": "4.04",
-								"ratings_count": "5144",
-								"text_reviews_count": "386"
+								"average_rating": "4.00",
+								"ratings_count": "86608",
+								"text_reviews_count": "6563"
 							}
 						},
-						"published": "2011",
+						"published": "2007",
 						"work": {
-							"id": "18559725",
-							"uri": "kca://work/amzn1.gr.work.v1.PLFPVDNiXfkPp7lQlhPMxA"
+							"id": "2203492",
+							"uri": "kca://work/amzn1.gr.work.v1.JGzQD_KZdB5xdWe8R6Fd9A"
 						}
 					},
-					"rating": "4",
+					"rating": "5",
 					"votes": "0",
 					"spoiler_flag": "false",
 					"spoilers_state": "none",
@@ -5682,16 +5076,16 @@
 					"recommended_by": "",
 					"started_at": "",
 					"read_at": "",
-					"date_added": "Wed Aug 09 11:20:37 -0700 2017",
-					"date_updated": "Wed Aug 09 11:20:37 -0700 2017",
+					"date_added": "Wed Aug 09 11:19:43 -0700 2017",
+					"date_updated": "Wed Aug 09 11:19:43 -0700 2017",
 					"read_count": "1",
 					"body": "",
 					"comments_count": "0",
 					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492991"
+						"__cdata": "https://www.goodreads.com/review/show/2087492121"
 					},
 					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492991"
+						"__cdata": "https://www.goodreads.com/review/show/2087492121"
 					},
 					"owned": "0"
 				},
@@ -5784,60 +5178,490 @@
 					"owned": "0"
 				},
 				{
-					"id": "2087492121",
+					"id": "2087493988",
 					"book": {
 						"id": {
 							"_type": "integer",
-							"__text": "95887"
+							"__text": "81922"
 						},
-						"isbn": "1576754227",
-						"isbn13": "9781576754221",
+						"isbn": "0446677477",
+						"isbn13": "9780446677479",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "2071"
+							"__text": "724"
 						},
-						"uri": "kca://book/amzn1.gr.book.v1.298at6Wytj5Su9FNHgdsnA",
-						"title": "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
-						"title_without_series": "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854785l/95887._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854785l/95887._SY75_.jpg",
+						"uri": "kca://book/amzn1.gr.book.v1.l_Y13oZYttng-9JhVCWnUA",
+						"title": "Rich Dad's Cashflow Quadrant: Rich Dad's Guide to Financial Freedom",
+						"title_without_series": "Rich Dad's Cashflow Quadrant: Rich Dad's Guide to Financial Freedom",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483023081l/81922._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483023081l/81922._SY75_.jpg",
 						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/95887.Eat_That_Frog_",
-						"num_pages": "128",
+						"link": "https://www.goodreads.com/book/show/81922.Rich_Dad_s_Cashflow_Quadrant",
+						"num_pages": "376",
 						"format": "Paperback",
-						"edition_information": "Second Edition",
-						"publisher": "Berrett-Koehler Publishers",
-						"publication_day": "1",
-						"publication_year": "2007",
-						"publication_month": "1",
-						"average_rating": "3.87",
-						"ratings_count": "37241",
-						"description": "<div>The legendary <em>Eat That Frog!</em> (more than 450,000 copies sold and translated into 23 languages) provides the 21 most effective methods for conquering procrastination and accomplishing more. This new edition is revised and updated throughout, and includes brand new information on how to keep technology from dominating our time.</div>",
+						"edition_information": "",
+						"publisher": "Business Plus",
+						"publication_day": "",
+						"publication_year": "2012",
+						"publication_month": "3",
+						"average_rating": "4.10",
+						"ratings_count": "34840",
+						"description": "The Cashflow Quadrant is the follow-up guide to finding the financial fast track that best works for you. It reveals the strategies necessary for moving beyond just job security to greater financial security by generating wealth from four selective financial quadrants. This work will reveal why some people work less, earn more, pay less in taxes, and feel more financially secure than others. It's simply a matter of knowing which quadrant to work in.",
 						"authors": {
 							"author": {
-								"id": "22033",
-								"name": "Brian Tracy",
+								"id": "600",
+								"name": "Robert T. Kiyosaki",
 								"role": "",
 								"image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1258058862p5/22033.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1236463010p5/600.jpg"
 								},
 								"small_image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1258058862p2/22033.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1236463010p2/600.jpg"
 								},
 								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/22033.Brian_Tracy"
+									"__cdata": "https://www.goodreads.com/author/show/600.Robert_T_Kiyosaki"
 								},
-								"average_rating": "4.00",
-								"ratings_count": "86608",
-								"text_reviews_count": "6563"
+								"average_rating": "4.03",
+								"ratings_count": "395464",
+								"text_reviews_count": "14981"
 							}
 						},
-						"published": "2007",
+						"published": "2012",
 						"work": {
-							"id": "2203492",
-							"uri": "kca://work/amzn1.gr.work.v1.JGzQD_KZdB5xdWe8R6Fd9A"
+							"id": "42235",
+							"uri": "kca://work/amzn1.gr.work.v1.C6Q9ZZK-CTAlz6wHkalS8A"
+						}
+					},
+					"rating": "4",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:21:34 -0700 2017",
+					"date_updated": "Wed Aug 09 11:21:34 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087493988"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087493988"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087492743",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "14461754"
+						},
+						"isbn": "1591845734",
+						"isbn13": "9781591845737",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "111"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.N2S4g-JbiMFQsBpt8qqSxg",
+						"title": "Tap Dancing to Work: Warren Buffett on Practically Everything, 1966-2012",
+						"title_without_series": "Tap Dancing to Work: Warren Buffett on Practically Everything, 1966-2012",
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/14461754-tap-dancing-to-work",
+						"num_pages": "345",
+						"format": "Hardcover",
+						"edition_information": "",
+						"publisher": "Portfolio",
+						"publication_day": "21",
+						"publication_year": "2012",
+						"publication_month": "11",
+						"average_rating": "3.95",
+						"ratings_count": "1750",
+						"description": "<b>Warren Buffett built Berkshire Hathaway into something remarkable— and <i>Fortune </i>journalist Carol Loomis had a front-row seat for it all.</b> When Carol Loomis first mentioned a little-known Omaha hedge fund manager in a 1966 <i>Fortune </i>article, she didn’t dream that Warren Buffett would one day be considered the world’s greatest investor—nor that she and Buffett would quickly become close personal friends. As Buf­fett’s fortune and reputation grew over time, Loomis used her unique insight into Buffett’s thinking to chronicle his work for <i>Fortune</i>, writ­ing and proposing scores of stories that tracked his many accomplishments—and also his occa­sional mistakes. Now Loomis has collected and updated the best Buffett articles <i>Fortune </i>published between 1966 and 2012, including thirteen cover stories and a dozen pieces authored by Buffett himself. Loomis has provided commentary about each major arti­cle that supplies context and her own informed point of view. Readers will gain fresh insights into Buffett’s investment strategies and his thinking on management, philanthropy, public policy, and even parenting. Some of the highlights include:<br />The 1966 A. W. Jones story in which <i>Fortune </i>first mentioned Buffett. The first piece Buffett wrote for the magazine, 1977’s “How Inf lation Swindles the Equity Investor.” Andrew Tobias’s 1983 article “Letters from Chairman Buffett,” the first review of his Berk­shire Hathaway shareholder letters. Buffett’s stunningly prescient 2003 piece about derivatives, “Avoiding a Mega-Catastrophe.” His unconventional thoughts on inheritance and philanthropy, including his intention to leave his kids “enough money so they would feel they could do anything, but not so much that they could do nothing.” Bill Gates’s 1996 article describing his early impressions of Buffett as they struck up their close friendship. Scores of Buffett books have been written, but none can claim this work’s combination of trust between two friends, the writer’s deep under­standing of Buffett’s world, and a very long-term perspective.",
+						"authors": {
+							"author": {
+								"id": "6047133",
+								"name": "Carol J. Loomis",
+								"role": "",
+								"image_url": {
+									"_nophoto": "true",
+									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png"
+								},
+								"small_image_url": {
+									"_nophoto": "true",
+									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/6047133.Carol_J_Loomis"
+								},
+								"average_rating": "3.95",
+								"ratings_count": "1750",
+								"text_reviews_count": "128"
+							}
+						},
+						"published": "2012",
+						"work": {
+							"id": "20104200",
+							"uri": "kca://work/amzn1.gr.work.v1.vJUsKq_xDakO07Der5434g"
+						}
+					},
+					"rating": "4",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:20:19 -0700 2017",
+					"date_updated": "Wed Aug 09 11:20:19 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087492743"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087492743"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087492991",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "13344951"
+						},
+						"isbn": "0983988536",
+						"isbn13": "9780983988533",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "295"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.d5jWqzYPzDtrcA4qBdNgLg",
+						"title": "How to Win at the Sport of Business: If I Can Do It, You Can Do It",
+						"title_without_series": "How to Win at the Sport of Business: If I Can Do It, You Can Do It",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441897247l/13344951._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441897247l/13344951._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/13344951-how-to-win-at-the-sport-of-business",
+						"num_pages": "67",
+						"format": "ebook",
+						"edition_information": "",
+						"publisher": "Diversion Books",
+						"publication_day": "",
+						"publication_year": "2011",
+						"publication_month": "",
+						"average_rating": "4.05",
+						"ratings_count": "4892",
+						"description": "Mark Cuban shares his wealth of experience and business savvy in his first published book, How to Win at the Sport of Business, available now only as an e-book. Using the greatest material from his popular Blog Maverick, he has collected and updated his postings on business and life to provide a catalog of insider knowledge on what it takes to become a thriving entrepreneur. Cuban tells his own rags-to-riches story of how he went from selling powdered milk and sleeping on friends' couches to owning his own company and becoming a multi-billion dollar success story. His unconventional yet highly effective ideas on how to build a successful business offer entrepreneurs at any stage of their careers a huge edge over their competitors.",
+						"authors": {
+							"author": {
+								"id": "2070271",
+								"name": "Mark Cuban",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1422937576p5/2070271.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1422937576p2/2070271.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/2070271.Mark_Cuban"
+								},
+								"average_rating": "4.04",
+								"ratings_count": "5144",
+								"text_reviews_count": "386"
+							}
+						},
+						"published": "2011",
+						"work": {
+							"id": "18559725",
+							"uri": "kca://work/amzn1.gr.work.v1.PLFPVDNiXfkPp7lQlhPMxA"
+						}
+					},
+					"rating": "4",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:20:37 -0700 2017",
+					"date_updated": "Wed Aug 09 11:20:37 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087492991"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087492991"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087493736",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "10339170"
+						},
+						"isbn": "0470627603",
+						"isbn13": "9780470627600",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "943"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.PrqUVoV8MF7t7j5813ieBA",
+						"title": "The 10x Rule: The Only Difference Between Success and Failure",
+						"title_without_series": "The 10x Rule: The Only Difference Between Success and Failure",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310779133l/10339170._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310779133l/10339170._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/10339170-the-10x-rule",
+						"num_pages": "240",
+						"format": "Hardcover",
+						"edition_information": "",
+						"publisher": "Wiley",
+						"publication_day": "26",
+						"publication_year": "2011",
+						"publication_month": "4",
+						"average_rating": "4.04",
+						"ratings_count": "10168",
+						"description": "<b>Achieve \"Massive Action\" results and accomplish your business dreams!</b> While most people operate with only three degrees of action-no action, retreat, or normal action-if you're after big goals, you don't want to settle for the ordinary. To reach the next level, you must understand the coveted 4th degree of action. This 4th degree, also know as the 10 X Rule, is that level of action that guarantees companies and individuals realize their goals and dreams.<br /><br /><i>The 10 X Rule</i> unveils the principle of \"Massive Action,\" allowing you to blast through business clichZs and risk-aversion while taking concrete steps to reach your dreams. It also demonstrates why people get stuck in the first three actions and how to move into making the 10X Rule a discipline. Find out exactly where to start, what to do, and how to follow up each action you take with more action to achieve Massive Action results.<br /><br /><br />Learn the \"Estimation of Effort\" calculation to ensure you exceed your targets Make the Fourth Degree a way of life and defy mediocrity Discover the time management myth Get the exact reasons why people fail and others succeed Know the exact formula to solve problems Extreme success is by definition outside the realm of normal action. Instead of behaving like everybody else and settling for average results, take Massive Action with <i>The 10 X Rule</i>, remove luck and chance from your business equation, and lock in massive success.",
+						"authors": {
+							"author": {
+								"id": "1638887",
+								"name": "Grant Cardone",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1326447807p5/1638887.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1326447807p2/1638887.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/1638887.Grant_Cardone"
+								},
+								"average_rating": "4.10",
+								"ratings_count": "19231",
+								"text_reviews_count": "1984"
+							}
+						},
+						"published": "2011",
+						"work": {
+							"id": "15241850",
+							"uri": "kca://work/amzn1.gr.work.v1.NGivOiXzaSR1eujXHjD1FQ"
+						}
+					},
+					"rating": "3",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:21:20 -0700 2017",
+					"date_updated": "Wed Aug 09 11:21:20 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087493736"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087493736"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087489112",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "10127019"
+						},
+						"isbn": "0307887898",
+						"isbn13": "9780307887894",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "2478"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.Ylb6i9FNBkXnLW7rje69Kg",
+						"title": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+						"title_without_series": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576876l/10127019._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576876l/10127019._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/10127019-the-lean-startup",
+						"num_pages": "299",
+						"format": "Hardcover",
+						"edition_information": "",
+						"publisher": "Currency",
+						"publication_day": "13",
+						"publication_year": "2011",
+						"publication_month": "9",
+						"average_rating": "4.07",
+						"ratings_count": "175921",
+						"description": "<b>Most startups fail. But many of those failures are preventable. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. <br /></b><br />Eric Ries defines a startup as <b>an organization dedicated to creating something new under conditions of extreme uncertainty</b>. This is just as true for one person in a garage or a group of seasoned professionals in a Fortune 500 boardroom. What they have in common is a mission to penetrate that fog of uncertainty to discover a successful path to a sustainable business.<br /><br /><br /><br />The Lean Startup approach fosters companies that are both more capital efficient and that leverage human creativity more effectively. Inspired by lessons from lean manufacturing, it relies on \"validated learning,\" rapid scientific experimentation, as well as a number of counter-intuitive practices that shorten product development cycles, measure actual progress without resorting to vanity metrics, and learn what customers really want. It enables a company to shift directions with agility, altering plans inch by inch, minute by minute.<br /><br />Rather than wasting time creating elaborate business plans, <i>The Lean Startup</i> offers entrepreneurs - in companies of all sizes - a way to test their vision continuously, to adapt and adjust before it's too late. Ries provides a scientific approach to creating and managing successful startups in a age when companies need to innovate more than ever.",
+						"authors": {
+							"author": {
+								"id": "278960",
+								"name": "Eric Ries",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1329162523p5/278960.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1329162523p2/278960.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/278960.Eric_Ries"
+								},
+								"average_rating": "4.07",
+								"ratings_count": "179945",
+								"text_reviews_count": "2877"
+							}
+						},
+						"published": "2011",
+						"work": {
+							"id": "15024842",
+							"uri": "kca://work/amzn1.gr.work.v1.jGbo3aJSH_mwWn3t7Mfr5A"
+						}
+					},
+					"rating": "3",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:16:07 -0700 2017",
+					"date_updated": "Mon Aug 28 17:30:55 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087489112"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087489112"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087506552",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "343"
+						},
+						"isbn": "0140120831",
+						"isbn13": "9780140120837",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "7250"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.mN3aPAkRnqYYqtSMISBHlw",
+						"title": "Perfume: The Story of a Murderer",
+						"title_without_series": "Perfume: The Story of a Murderer",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/343.Perfume",
+						"num_pages": "263",
+						"format": "Paperback",
+						"edition_information": "",
+						"publisher": "Penguin Books",
+						"publication_day": "",
+						"publication_year": "1987",
+						"publication_month": "",
+						"average_rating": "4.02",
+						"ratings_count": "281437",
+						"description": "An acclaimed bestseller and international sensation, Patrick Suskind's classic novel provokes a terrifying examination of what happens when one man's indulgence in his greatest passion—his sense of smell—leads to murder.<br /><br />In the slums of eighteenth-century France, the infant Jean-Baptiste Grenouille is born with one sublime gift—an absolute sense of smell. As a boy, he lives to decipher the odors of Paris, and apprentices himself to a prominent perfumer who teaches him the ancient art of mixing precious oils and herbs. But Grenouille's genius is such that he is not satisfied to stop there, and he becomes obsessed with capturing the smells of objects such as brass doorknobs and fresh-cut wood. Then one day he catches a hint of a scent that will drive him on an ever-more-terrifying quest to create the \"ultimate perfume\"—the scent of a beautiful young virgin. Told with dazzling narrative brilliance, <i>Perfume</i> is a hauntingly powerful tale of murder and sensual depravity.",
+						"authors": {
+							"author": {
+								"id": "39402",
+								"name": "Patrick Süskind",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1201117958p5/39402.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1201117958p2/39402.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/39402.Patrick_S_skind"
+								},
+								"average_rating": "3.99",
+								"ratings_count": "302737",
+								"text_reviews_count": "14876"
+							}
+						},
+						"published": "1987",
+						"work": {
+							"id": "2977727",
+							"uri": "kca://work/amzn1.gr.work.v1.0GBNmY2Ia-KBFQYNo_Ao9w"
 						}
 					},
 					"rating": "5",
@@ -5856,16 +5680,278 @@
 					"recommended_by": "",
 					"started_at": "",
 					"read_at": "",
-					"date_added": "Wed Aug 09 11:19:43 -0700 2017",
-					"date_updated": "Wed Aug 09 11:19:43 -0700 2017",
+					"date_added": "Wed Aug 09 11:34:33 -0700 2017",
+					"date_updated": "Mon Aug 28 17:31:24 -0700 2017",
 					"read_count": "1",
 					"body": "",
 					"comments_count": "0",
 					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492121"
+						"__cdata": "https://www.goodreads.com/review/show/2087506552"
 					},
 					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492121"
+						"__cdata": "https://www.goodreads.com/review/show/2087506552"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087495414",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "10884"
+						},
+						"isbn": "0743264738",
+						"isbn13": "9780743264730",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "2707"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.Y3VmJwL-CVA91L_qML0kkg",
+						"title": "Einstein: His Life and Universe",
+						"title_without_series": "Einstein: His Life and Universe",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011405l/10884._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011405l/10884._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/10884.Einstein",
+						"num_pages": "675",
+						"format": "Hardcover",
+						"edition_information": "",
+						"publisher": "Simon  Schuster",
+						"publication_day": "10",
+						"publication_year": "2007",
+						"publication_month": "4",
+						"average_rating": "4.10",
+						"ratings_count": "108955",
+						"description": "Einstein was a rebel and nonconformist from boyhood days, and these character traits drove both his life and his science. In this narrative, Walter Isaacson explains how his mind worked and the mysteries of the universe that he discovered.",
+						"authors": {
+							"author": {
+								"id": "7111",
+								"name": "Walter Isaacson",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1192222433p5/7111.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1192222433p2/7111.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/7111.Walter_Isaacson"
+								},
+								"average_rating": "4.11",
+								"ratings_count": "1112534",
+								"text_reviews_count": "27532"
+							}
+						},
+						"published": "2007",
+						"work": {
+							"id": "985244",
+							"uri": "kca://work/amzn1.gr.work.v1.kQAB3ssqcXRp_0oKFGaGBQ"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:22:53 -0700 2017",
+					"date_updated": "Wed Aug 09 11:22:53 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087495414"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087495414"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087489393",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "30186948"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": {
+							"_nil": "true"
+						},
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "1796"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.1kndsk926BrSY-nuOCdVsA",
+						"title": "Think and Grow Rich",
+						"title_without_series": "Think and Grow Rich",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/30186948-think-and-grow-rich",
+						"num_pages": "233",
+						"format": "Paperback",
+						"edition_information": "",
+						"publisher": "",
+						"publication_day": "",
+						"publication_year": "2016",
+						"publication_month": "4",
+						"average_rating": "4.17",
+						"ratings_count": "166934",
+						"description": "This is the original 1937 version of Napoleon Hill's Classic Book: <i>Think and Grow Rich</i>. To the greatest extent possible, the text and formatting have been kept exactly the same as in the original release with the exception of some minor formatting changes.",
+						"authors": {
+							"author": {
+								"id": "399",
+								"name": "Napoleon Hill",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1265381018p5/399.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1265381018p2/399.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/399.Napoleon_Hill"
+								},
+								"average_rating": "4.20",
+								"ratings_count": "202987",
+								"text_reviews_count": "7097"
+							}
+						},
+						"published": "2016",
+						"work": {
+							"id": "1199320",
+							"uri": "kca://work/amzn1.gr.work.v1.3ttXVgrGhe0eHHnR7nR1KA"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:16:26 -0700 2017",
+					"date_updated": "Wed Aug 09 11:16:26 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087489393"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087489393"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087491321",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "10534"
+						},
+						"isbn": "1590302257",
+						"isbn13": "9781590302255",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "5539"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.kYPf-NrB9NvXnIdl79xEMQ",
+						"title": "The Art of War",
+						"title_without_series": "The Art of War",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453417993l/10534._SY160_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453417993l/10534._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/10534.The_Art_of_War",
+						"num_pages": "273",
+						"format": "Paperback",
+						"edition_information": "",
+						"publisher": "Shambhala",
+						"publication_day": "11",
+						"publication_year": "2005",
+						"publication_month": "1",
+						"average_rating": "3.97",
+						"ratings_count": "277340",
+						"description": "Twenty-Five Hundred years ago, Sun Tzu wrote this classic book of military strategy based on Chinese warfare and military thought. Since that time, all levels of military have used the teaching on Sun Tzu to warfare and civilization have adapted these teachings for use in politics, business and everyday life. The Art of War is a book which should be used to gain advantage of opponents in the boardroom and battlefield alike.",
+						"authors": {
+							"author": {
+								"id": "1771",
+								"name": "Sun Tzu",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1185211202p5/1771.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1185211202p2/1771.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/1771.Sun_Tzu"
+								},
+								"average_rating": "3.97",
+								"ratings_count": "284353",
+								"text_reviews_count": "9257"
+							}
+						},
+						"published": "2005",
+						"work": {
+							"id": "3200649",
+							"uri": "kca://work/amzn1.gr.work.v1.Qvp9-uRCX3l7q-ln1MnEKw"
+						}
+					},
+					"rating": "4",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:18:48 -0700 2017",
+					"date_updated": "Wed Aug 09 11:18:48 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087491321"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087491321"
 					},
 					"owned": "0"
 				},
@@ -5983,7 +6069,7 @@
 						"publication_year": "2014",
 						"publication_month": "9",
 						"average_rating": "4.16",
-						"ratings_count": "124150",
+						"ratings_count": "124151",
 						"description": "If you want to build a better future, you must believe in secrets.<br /><br />The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things. <br /><br />Thiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself.<br /><br />Doing what someone else already knows how to do takes the world from 1 to n, adding more of something familiar. But when you do something new, you go from 0 to 1. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. Tomorrow’s champions will not win by competing ruthlessly in today’s marketplace. They will escape competition altogether, because their businesses will be unique. <br /><br />Zero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.",
 						"authors": {
 							"author": {
@@ -6043,8 +6129,8 @@
 				}
 			],
 			"_start": "1",
-			"_end": "67",
-			"_total": "67"
+			"_end": "68",
+			"_total": "68"
 		}
 	}
 }
