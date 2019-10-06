@@ -28,7 +28,7 @@
 						"isbn13": "9780060833459",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "527"
+							"__text": "528"
 						},
 						"uri": "kca://book/amzn1.gr.book.v1.Fv4B9TUfPjC_phUa4ADDiQ",
 						"title": "The Effective Executive: The Definitive Guide to Getting the Right Things Done",
@@ -65,7 +65,7 @@
 								},
 								"average_rating": "4.08",
 								"ratings_count": "61192",
-								"text_reviews_count": "2238"
+								"text_reviews_count": "2239"
 							}
 						},
 						"published": "2006",
@@ -89,12 +89,12 @@
 					"recommended_for": "",
 					"recommended_by": "",
 					"started_at": "Thu Oct 03 00:37:26 -0700 2019",
-					"read_at": "Sun Oct 06 15:34:27 -0700 2019",
+					"read_at": "Sun Oct 06 16:35:43 -0700 2019",
 					"date_added": "Tue Jun 25 22:50:21 -0700 2019",
-					"date_updated": "Sun Oct 06 15:34:27 -0700 2019",
+					"date_updated": "Sun Oct 06 16:35:43 -0700 2019",
 					"read_count": "1",
 					"body": {
-						"__cdata": "Amazing book!<br /><br />Actionable read with a strong fitful opinion towards execution and effect. It makes a very clear point on effective execution. It don't think there is much comment here, one simply must read this and take resultful actions."
+						"__cdata": "Amazing book!<br /><br />Actionable read with a strong fitful opinion towards execution and effect, which vectorizes the reader unlike many other books. A simple and understand language is used to make you aware on importance of courage, execution, and basic strategy. It don't think there is much comment needed here, one simply must read this and take actions suggested."
 					},
 					"comments_count": "0",
 					"url": {
@@ -152,7 +152,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/38285.C_G_Jung"
 								},
 								"average_rating": "4.20",
-								"ratings_count": "111886",
+								"ratings_count": "111887",
 								"text_reviews_count": "4048"
 							}
 						},
@@ -221,7 +221,7 @@
 						"publication_year": "2016",
 						"publication_month": "5",
 						"average_rating": "4.07",
-						"ratings_count": "49489",
+						"ratings_count": "49490",
 						"description": "In this must-read book for anyone striving to succeed, pioneering psychologist Angela Duckworth shows parents, educators, students, and business people both seasoned and new that the secret to outstanding achievement is not talent but a focused persistence called grit.<br /><br />Why do some people succeed and others fail? Sharing new insights from her landmark research on grit, Angela Duckworth explains why talent is hardly a guarantor of success. Rather, other factors can be even more crucial such as identifying our passions and following through on our commitments.<br /><br />Drawing on her own powerful story as the daughter of a scientist who frequently bemoaned her lack of smarts, Duckworth describes her winding path through teaching, business consulting, and neuroscience, which led to the hypothesis that what really drives success is not genius, but a special blend of passion and long-term perseverance. As a professor at the University of Pennsylvania, Duckworth created her own character lab and set out to test her theory.<br /><br />Here, she takes readers into the field to visit teachers working in some of the toughest schools, cadets struggling through their first days at West Point, and young finalists in the National Spelling Bee. She also mines fascinating insights from history and shows what can be gleaned from modern experiments in peak performance. Finally, she shares what she's learned from interviewing dozens of high achievers; from JP Morgan CEO Jamie Dimon to the cartoon editor of <i>The New Yorker</i> to Seattle Seahawks Coach Pete Carroll.<br /><br />Winningly personal, insightful, and even life-changing, <i>Grit</i> is a book about what goes through your head when you fall down, and how that not talent or luck makes all the difference.",
 						"authors": {
 							"author": {
@@ -497,7 +497,7 @@
 						"publication_year": "2008",
 						"publication_month": "11",
 						"average_rating": "4.14",
-						"ratings_count": "458324",
+						"ratings_count": "458330",
 						"description": "In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of \"outliers\"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?<br /><br />His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band.",
 						"authors": {
 							"author": {
@@ -516,8 +516,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell"
 								},
 								"average_rating": "3.99",
-								"ratings_count": "1754875",
-								"text_reviews_count": "64973"
+								"ratings_count": "1754913",
+								"text_reviews_count": "64976"
 							}
 						},
 						"published": "2008",
@@ -953,7 +953,7 @@
 						"publication_year": "2012",
 						"publication_month": "5",
 						"average_rating": "3.98",
-						"ratings_count": "88084",
+						"ratings_count": "88082",
 						"description": "Darwin's theory of natural selection issued a profound challenge to orthodox thought and belief: no being or species has been specifically created; all are locked into a pitiless struggle for existence, with extinction looming for those not fitted for the task. <br /><br />Yet The Origin of Species (1859) is also a humane and inspirational vision of ecological interrelatedness, revealing the complex mutual interdependencies between animal and plant life, climate and physical environment, and - by implication - within the human world. <br /><br />Written for the general reader, in a style which combines the rigour of science with the subtlety of literature, The Origin of Species remains one of the founding documents of the modern age.",
 						"authors": {
 							"author": {
@@ -972,7 +972,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/12793.Charles_Darwin"
 								},
 								"average_rating": "3.99",
-								"ratings_count": "120801",
+								"ratings_count": "120798",
 								"text_reviews_count": "3706"
 							}
 						},
@@ -1064,7 +1064,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/2883386.David_Eagleman"
 								},
 								"average_rating": "4.08",
-								"ratings_count": "47813",
+								"ratings_count": "47810",
 								"text_reviews_count": "4600"
 							}
 						},
@@ -1340,7 +1340,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/1563.Steven_Johnson"
 								},
 								"average_rating": "3.91",
-								"ratings_count": "75730",
+								"ratings_count": "75731",
 								"text_reviews_count": "6981"
 							}
 						},
@@ -1409,7 +1409,7 @@
 						"publication_year": "2003",
 						"publication_month": "2",
 						"average_rating": "4.01",
-						"ratings_count": "54003",
+						"ratings_count": "54004",
 						"description": "Friedrich Nietzsche's <i>Beyond Good and Evil </i>is translated from the German by R.J. Hollingdale with an introduction by Michael Tanner in Penguin Classics.<br /><br /><i>Beyond Good and Evil</i> confirmed Nietzsche's position as the towering European philosopher of his age. The work dramatically rejects the tradition of Western thought with its notions of truth and God, good and evil. Nietzsche demonstrates that the Christian world is steeped in a false piety and infected with a 'slave morality'. With wit and energy, he turns from this critique to a philosophy that celebrates the present and demands that the individual imposes their own 'will to power' upon the world.<br /><br />This edition includes a commentary on the text by the translator and Michael Tanner's introduction, which explains some of the more abstract passages in <i>Beyond Good and Evil</i>.<br /><br />Frederich Nietzsche (1844-1900) became the chair of classical philology at Basel University at the age of 24 until his bad health forced him to retire in 1879. He divorced himself from society until his final collapse in 1899 when he became insane. A powerfully original thinker, Nietzsche's influence on subsequent writers, such as George Bernard Shaw, D.H. Lawrence, Thomas Mann and Jean-Paul Sartre, was considerable.<br /><br />If you enjoyed <i>Beyond Good and Evil </i>you might like Nietzsche's <i>Thus Spoke Zarathustra</i>, also available in Penguin Classics.<br /><br />\"One of the greatest books of a very great thinker.\" —Michael Tanner",
 						"authors": {
 							"author": {
@@ -1428,7 +1428,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche"
 								},
 								"average_rating": "4.04",
-								"ratings_count": "300196",
+								"ratings_count": "300198",
 								"text_reviews_count": "10342"
 							}
 						},
@@ -1497,7 +1497,7 @@
 						"publication_year": "2013",
 						"publication_month": "10",
 						"average_rating": "3.98",
-						"ratings_count": "33991",
+						"ratings_count": "33992",
 						"description": "Harvard professor Clayton M. Christensen says outstanding companies can do everything right and still lose their market leadership -- or worse, disappear completely. And he not only proves what he says, he tells others how to avoid a similar fate.<br /><br />Focusing on \"disruptive technology\" -- the Honda Super Cub, Intel's 8088 processor, or the hydraulic excavator, for example -- Christensen shows why most companies miss \"the next great wave.\" Whether in electronics or retailing, a successful company with established products will get pushed aside unless managers know when to abandon traditional business practices. Using the lessons of successes and failures from leading companies, \"The Innovator's Dilemma\" presents a set of rules for capitalizing on the phenomenon of disruptive innovation.",
 						"authors": {
 							"author": {
@@ -1516,7 +1516,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/1792.Clayton_M_Christensen"
 								},
 								"average_rating": "4.03",
-								"ratings_count": "83124",
+								"ratings_count": "83125",
 								"text_reviews_count": "4634"
 							}
 						},
@@ -1865,7 +1865,7 @@
 						"publication_year": "2006",
 						"publication_month": "6",
 						"average_rating": "4.36",
-						"ratings_count": "302387",
+						"ratings_count": "302397",
 						"description": "Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Between 1942 and 1945 Frankl labored in four different camps, including Auschwitz, while his parents, brother, and pregnant wife perished. Based on his own experience and the experiences of others he treated later in his practice, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. Frankl's theory-known as logotherapy, from the Greek word logos (\"meaning\")-holds that our primary drive in life is not pleasure, as Freud maintained, but the discovery and pursuit of what we personally find meaningful.",
 						"authors": {
 							"author": {
@@ -1884,7 +1884,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/2782.Viktor_E_Frankl"
 								},
 								"average_rating": "4.35",
-								"ratings_count": "310345",
+								"ratings_count": "310350",
 								"text_reviews_count": "16747"
 							}
 						},
@@ -2509,7 +2509,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.31",
-						"ratings_count": "99970",
+						"ratings_count": "99971",
 						"description": "",
 						"authors": {
 							"author": {
@@ -2528,7 +2528,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/2622245.Lao_Tzu"
 								},
 								"average_rating": "4.30",
-								"ratings_count": "103844",
+								"ratings_count": "103845",
 								"text_reviews_count": "4432"
 							}
 						},
@@ -2693,7 +2693,7 @@
 						"publication_year": "2011",
 						"publication_month": "10",
 						"average_rating": "4.12",
-						"ratings_count": "839015",
+						"ratings_count": "839025",
 						"description": "From the author of the bestselling biographies of Benjamin Franklin and Albert Einstein, this is the exclusive, New York Times bestselling biography of Apple co-founder Steve Jobs.<br /><br />Based on more than forty interviews with Jobs conducted over two years—as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues—Walter Isaacson has written a riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing.<br /><br />At a time when America is seeking ways to sustain its innovative edge, and when societies around the world are trying to build digital-age economies, Jobs stands as the ultimate icon of inventiveness and applied imagination. He knew that the best way to create value in the twenty-first century was to connect creativity with technology. He built a company where leaps of the imagination were combined with remarkable feats of engineering.<br /><br />Although Jobs cooperated with this book, he asked for no control over what was written nor even the right to read it before it was published. He put nothing off-limits. He encouraged the people he knew to speak honestly. And Jobs speaks candidly, sometimes brutally so, about the people he worked with and competed against. His friends, foes, and colleagues provide an unvarnished view of the passions, perfectionism, obsessions, artistry, devilry, and compulsion for control that shaped his approach to business and the innovative products that resulted.<br /><br />Driven by demons, Jobs could drive those around him to fury and despair. But his personality and products were interrelated, just as Apple’s hardware and software tended to be, as if part of an integrated system. His tale is instructive and cautionary, filled with lessons about innovation, character, leadership, and values.",
 						"authors": {
 							"author": {
@@ -2712,8 +2712,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/7111.Walter_Isaacson"
 								},
 								"average_rating": "4.11",
-								"ratings_count": "1119763",
-								"text_reviews_count": "27651"
+								"ratings_count": "1119786",
+								"text_reviews_count": "27652"
 							}
 						},
 						"published": "2011",
@@ -2896,7 +2896,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/4918776.Seneca"
 								},
 								"average_rating": "4.19",
-								"ratings_count": "48033",
+								"ratings_count": "48034",
 								"text_reviews_count": "2990"
 							}
 						},
@@ -2969,7 +2969,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.23",
-						"ratings_count": "90515",
+						"ratings_count": "90516",
 						"description": "<div>This 1742 translation is a collaborative work by Francis Hutcheson and<br />a colleague at Glasgow University, the classicist James Moor. Although<br />Hutcheson was secretive about the extent of his work on the book, he was<br />clearly the leading spirit of the project.<b><b><br />This influential classical work offered a vision of a universe governed<br />by a natural law that obliges us to love mankind and to govern our lives<br />in accordance with the natural order of things. In their account of the life<br />of the emperor, prefaced to their translation from the Greek, Hutcheson<br />and Moor celebrated the Stoic ideal of an orderly universe governed by a<br />benevolent God. They contrasted the serenity recommended and<br />practiced by Marcus Aurelius with the divisive sectarianism then exhibited<br />by their fellow Presbyterians in Scotland and elsewhere. They urged their<br />readers and fellow citizens to set aside their narrow prejudices.<b><b><br />In many ways, Hutcheson and Moor’s <strong><em>The Meditations of the<br />Emperor Marcus Aurelius Antoninus</em></strong> is a companion volume to<br />Hutcheson’s Latin work on ethics, released in the same year, <em>Philosophiae<br />Moralis Institutio Compendiaria.</em> In the latter volume, which is also available<br />from Liberty Fund, Hutcheson continues a theme that proffered his ethics<br />as a modern and, not least, Christianized version of Stoicism.<br /><b><b><br /><strong>Knud Haakonssen</strong> is Professor of Intellectual History and Director of the Centre for Intellectual History at the University of<br />Sussex, England.<br /></b></b></b></b></b></b></div>",
 						"authors": {
 							"author": {
@@ -3044,7 +3044,7 @@
 						},
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "2411"
+							"__text": "2412"
 						},
 						"uri": "kca://book/amzn1.gr.book.v1.4u4XPtiiUlC4KLjuMr3IpA",
 						"title": "The 5 Love Languages: The Secret to Love that Lasts",
@@ -3061,7 +3061,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.24",
-						"ratings_count": "248916",
+						"ratings_count": "248918",
 						"description": "Couples who understand each other's love language hold a priceless advantage in the quest for love that lasts a lifetime -- they know how to effectively and consistently make each other feel truly and deeply loved. That gift never fades away.",
 						"authors": {
 							"author": {
@@ -3080,8 +3080,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/622.Gary_Chapman"
 								},
 								"average_rating": "4.22",
-								"ratings_count": "308905",
-								"text_reviews_count": "16716"
+								"ratings_count": "308910",
+								"text_reviews_count": "16717"
 							}
 						},
 						"published": "",
@@ -3153,7 +3153,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.19",
-						"ratings_count": "16865",
+						"ratings_count": "16868",
 						"description": "<b>Ray Dalio, one of the world’s most successful investors and entrepreneurs, shares the unconventional principles that he’s developed, refined, and used over the past forty years to create unique results in both life and business—and which any person or organization can adopt to help achieve their goals.</b><br /><br />In 1975, Ray Dalio founded an investment firm, Bridgewater Associates, out of his two-bedroom apartment in New York City. Forty years later, Bridgewater has made more money for its clients than any other hedge fund in history and grown into the fifth most important private company in the United States, according to <i>Fortune</i> magazine. Dalio himself has been named to <i>Time </i>magazine’s list of the 100 most influential people in the world. Along the way, Dalio discovered a set of unique principles that have led to Bridgewater’s exceptionally effective culture, which he describes as “an idea meritocracy that strives to achieve meaningful work and meaningful relationships through radical transparency.” It is these principles, and not anything special about Dalio—who grew up an ordinary kid in a middle-class Long Island neighborhood—that he believes are the reason behind his success.<br /><br />In <i>Principles, </i>Dalio shares what he’s learned over the course of his remarkable career. He argues that life, management, economics, and investing can all be systemized into rules and understood like machines. The book’s hundreds of practical lessons, which are built around his cornerstones of “radical truth” and “radical transparency,” include Dalio laying out the most effective ways for individuals and organizations to make decisions, approach challenges, and build strong teams. He also describes the innovative tools the firm uses to bring an idea meritocracy to life, such as creating “baseball cards” for all employees that distill their strengths and weaknesses, and employing computerized decision-making systems to make believability-weighted decisions. While the book brims with novel ideas for organizations and institutions, <i>Principles</i> also offers a clear, straightforward approach to decision-making that Dalio believes anyone can apply, no matter what they’re seeking to achieve.<br /><br />Here is a rare opportunity to gain proven advice unlike anything you’ll find in the conventional business press.",
 						"authors": {
 							"author": {
@@ -3172,7 +3172,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/5289593.Ray_Dalio"
 								},
 								"average_rating": "4.20",
-								"ratings_count": "22911",
+								"ratings_count": "22914",
 								"text_reviews_count": "1830"
 							}
 						},
@@ -3337,7 +3337,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.17",
-						"ratings_count": "2690556",
+						"ratings_count": "2690593",
 						"description": "Among the seminal texts of the 20th century, <i>Nineteen Eighty-Four</i> is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell's nightmare vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life--the ubiquity of television, the distortion of the language--and his ability to construct such a thorough version of hell. Required reading for students since it was published, it ranks among the most terrifying novels ever written.",
 						"authors": {
 							"author": {
@@ -3356,8 +3356,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/3706.George_Orwell"
 								},
 								"average_rating": "4.06",
-								"ratings_count": "5466994",
-								"text_reviews_count": "123466"
+								"ratings_count": "5467057",
+								"text_reviews_count": "123467"
 							}
 						},
 						"published": "",
@@ -3521,7 +3521,7 @@
 						"publication_year": "2006",
 						"publication_month": "11",
 						"average_rating": "3.96",
-						"ratings_count": "620212",
+						"ratings_count": "620215",
 						"description": "<i>An alternate cover edition exists <a href=\"https://www.goodreads.com/book/show/34668905.here\" title=\"here\" rel=\"nofollow\">here</a>.</i><br /><br />The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.<br /><br />Gladwell introduces us to the particular personality types who are natural pollinators of new ideas and trends, the people who create the phenomenon of word of mouth. He analyzes fashion trends, smoking, children's television, direct mail, and the early days of the American Revolution for clues about making ideas infectious, and visits a religious commune, a successful high-tech company, and one of the world's greatest salesmen to show how to start and sustain social epidemics.",
 						"authors": {
 							"author": {
@@ -3540,8 +3540,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell"
 								},
 								"average_rating": "3.99",
-								"ratings_count": "1754875",
-								"text_reviews_count": "64973"
+								"ratings_count": "1754913",
+								"text_reviews_count": "64976"
 							}
 						},
 						"published": "2006",
@@ -3705,7 +3705,7 @@
 						"publication_year": "2011",
 						"publication_month": "7",
 						"average_rating": "4.08",
-						"ratings_count": "110248",
+						"ratings_count": "110250",
 						"description": "To find the keys to greatness, Collins's 21-person research team read and coded 6,000 articles, generated more than 2,000 pages of interview transcripts and created 384 megabytes of computer data in a five-year project. The findings will surprise many readers and, quite frankly, upset others.<br /><br />The Challenge<br />Built to Last, the defining management study of the nineties, showed how great companies triumph over time and how long-term sustained performance can be engineered into the DNA of an enterprise from the very beginning. <br /><br />But what about the company that is not born with great DNA? How can good companies, mediocre companies, even bad companies achieve enduring greatness? <br /><br />The Study<br />For years, this question preyed on the mind of Jim Collins. Are there companies that defy gravity and convert long-term mediocrity or worse into long-term superiority? And if so, what are the universal distinguishing characteristics that cause a company to go from good to great?<br /><br />The Standards<br />Using tough benchmarks, Collins and his research team identified a set of elite companies that made the leap to great results and sustained those results for at least fifteen years. How great? After the leap, the good-to-great companies generated cumulative stock returns that beat the general stock market by an average of seven times in fifteen years, better than twice the results delivered by a composite index of the world's greatest companies, including Coca-Cola, Intel, General Electric, and Merck. <br /><br />The Comparisons<br />The research team contrasted the good-to-great companies with a carefully selected set of comparison companies that failed to make the leap from good to great. What was different? Why did one set of companies become truly great performers while the other set remained only good? <br /><br />The Findings<br />The findings of the Good to Great study will surprise many readers and shed light on virtually every area of management strategy and practice. The findings include:<br />Level 5 Leaders: The research team was shocked to discover the type of leadership required to achieve greatness.<br /><br />The Hedgehog Concept (Simplicity within the Three Circles): To go from good to great requires transcending the curse of competence.<br /><br />A Culture of Discipline: When you combine a culture of discipline with an ethic of entrepreneurship, you get the magical alchemy of great results. Technology Accelerators: Good-to-great companies think differently about the role of technology.<br /><br />The Flywheel and the Doom Loop: Those who launch radical change programs and wrenching restructurings will almost certainly fail to make the leap.",
 						"authors": {
 							"author": {
@@ -3724,7 +3724,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/2826.James_C_Collins"
 								},
 								"average_rating": "4.05",
-								"ratings_count": "194852",
+								"ratings_count": "194856",
 								"text_reviews_count": "6039"
 							}
 						},
@@ -3797,7 +3797,7 @@
 						"publication_year": "2011",
 						"publication_month": "5",
 						"average_rating": "4.16",
-						"ratings_count": "252581",
+						"ratings_count": "252590",
 						"description": "In the ten years since its publication in 1988, Stephen Hawking's classic work has become a landmark volume in scientific writing, with more than nine million copies in forty languages sold worldwide. That edition was on the cutting edge of what was then known about the origins and nature of the universe. But the intervening years have seen extraordinary advances in the technology of observing both the micro- and the macrocosmic worlds. These observations have confirmed many of Professor Hawking's theoretical predictions in the first edition of his book, including the recent discoveries of the Cosmic Background Explorer satellite (COBE), which probed back in time to within 300,000 years of the universe's beginning and revealed wrinkles in the fabric of space-time that he had projected. Eager to bring to his original text the new knowledge revealed by these observations, as well as his own recent research, Professor Hawking has prepared a new introduction to the book, written an entirely new chapter on wormholes and time travel, and updated the chapters throughout.",
 						"authors": {
 							"author": {
@@ -3816,8 +3816,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/1401.Stephen_Hawking"
 								},
 								"average_rating": "4.15",
-								"ratings_count": "464957",
-								"text_reviews_count": "17928"
+								"ratings_count": "464975",
+								"text_reviews_count": "17930"
 							}
 						},
 						"published": "2011",
@@ -4000,7 +4000,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/10803973.Jocko_Willink"
 								},
 								"average_rating": "4.28",
-								"ratings_count": "35669",
+								"ratings_count": "35671",
 								"text_reviews_count": "3212"
 							}
 						},
@@ -4165,7 +4165,7 @@
 						"publication_year": "2009",
 						"publication_month": "6",
 						"average_rating": "4.12",
-						"ratings_count": "87852",
+						"ratings_count": "87853",
 						"description": "Why do our headaches persist after taking a one-cent aspirin but disappear when we take a 50-cent aspirin?<br /><br />Why does recalling the Ten Commandments reduce our tendency to lie, even when we couldn't possibly be caught?<br /><br />Why do we splurge on a lavish meal but cut coupons to save twenty-five cents on a can of soup?<br /><br />Why do we go back for second helpings at the unlimited buffet, even when our stomachs are already full?<br /><br />And how did we ever start spending $4.15 on a cup of coffee when, just a few years ago, we used to pay less than a dollar?<br /><br />When it comes to making decisions in our lives, we think we're in control. We think we're making smart, rational choices. But are we?<br /><br />In a series of illuminating, often surprising experiments, MIT behavioral economist Dan Ariely refutes the common assumption that we behave in fundamentally rational ways. Blending everyday experience with groundbreaking research, Ariely explains how expectations, emotions, social norms, and other invisible, seemingly illogical forces skew our reasoning abilities.<br /><br />Not only do we make astonishingly simple mistakes every day, but we make the same \"types\" of mistakes, Ariely discovers. We consistently overpay, underestimate, and procrastinate. We fail to understand the profound effects of our emotions on what we want, and we overvalue what we already own. Yet these misguided behaviors are neither random nor senseless. They're systematic and predictable--making us \"predictably\" irrational.<br /><br />From drinking coffee to losing weight, from buying a car to choosing a romantic partner, Ariely explains how to break through these systematic patterns of thought to make better decisions. \"Predictably Irrational\" will change the way we interact with the world--one small decision at a time.",
 						"authors": {
 							"author": {
@@ -4184,7 +4184,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/788461.Dan_Ariely"
 								},
 								"average_rating": "4.06",
-								"ratings_count": "139786",
+								"ratings_count": "139790",
 								"text_reviews_count": "7759"
 							}
 						},
@@ -4364,8 +4364,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/3915.Steven_Pinker"
 								},
 								"average_rating": "4.04",
-								"ratings_count": "127109",
-								"text_reviews_count": "9475"
+								"ratings_count": "127110",
+								"text_reviews_count": "9476"
 							}
 						},
 						"published": "2018",
@@ -4433,7 +4433,7 @@
 						"publication_year": "2016",
 						"publication_month": "9",
 						"average_rating": "3.97",
-						"ratings_count": "333706",
+						"ratings_count": "333721",
 						"description": "In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be \"positive\" all the time so that we can truly become better, happier people.<br /><br />For decades, we’ve been told that positive thinking is the key to a happy, rich life. \"F**k positivity,\" Mark Manson says. \"Let’s be honest, shit is f**ked and we have to live with it.\" In his wildly popular Internet blog, Manson doesn’t sugarcoat or equivocate. He tells it like it is—a dose of raw, refreshing, honest truth that is sorely lacking today. <em>The Subtle Art of Not Giving a F**k</em> is his antidote to the coddling, let’s-all-feel-good mindset that has infected American society and spoiled a generation, rewarding them with gold medals just for showing up.<br /><br />Manson makes the argument, backed both by academic research and well-timed poop jokes, that improving our lives hinges not on our ability to turn lemons into lemonade, but on learning to stomach lemons better. Human beings are flawed and limited—\"not everybody can be extraordinary, there are winners and losers in society, and some of it is not fair or your fault.\" Manson advises us to get to know our limitations and accept them. Once we embrace our fears, faults, and uncertainties, once we stop running and avoiding and start confronting painful truths, we can begin to find the courage, perseverance, honesty, responsibility, curiosity, and forgiveness we seek.<br /><br />There are only so many things we can give a f**k about so we need to figure out which ones really matter, Manson makes clear. While money is nice, caring about what you do with your life is better, because true wealth is about experience. A much-needed grab-you-by-the-shoulders-and-look-you-in-the-eye moment of real-talk, filled with entertaining stories and profane, ruthless humor, <em>The Subtle Art of Not Giving a F**k</em> is a refreshing slap for a generation to help them lead contented, grounded lives.",
 						"authors": {
 							"author": {
@@ -4452,8 +4452,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/8529755.Mark_Manson"
 								},
 								"average_rating": "3.97",
-								"ratings_count": "354177",
-								"text_reviews_count": "25777"
+								"ratings_count": "354193",
+								"text_reviews_count": "25778"
 							}
 						},
 						"published": "2016",
@@ -4940,7 +4940,7 @@
 						},
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "18231"
+							"__text": "18233"
 						},
 						"uri": "kca://book/amzn1.gr.book.v1.4aaEOknMj7166lgef5EmXw",
 						"title": "Sapiens: A Brief History of Humankind",
@@ -4957,7 +4957,7 @@
 						"publication_year": "2014",
 						"publication_month": "",
 						"average_rating": "4.45",
-						"ratings_count": "295802",
+						"ratings_count": "295816",
 						"description": "100,000 years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. <br /><br />How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations and human rights; to trust money, books and laws; and to be enslaved by bureaucracy, timetables and consumerism? And what will our world be like in the millennia to come? <br /><br />In <i>Sapiens</i>, Dr Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical – and sometimes devastating – breakthroughs of the Cognitive, Agricultural and Scientific Revolutions. Drawing on insights from biology, anthropology, paleontology and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behaviour from the heritage of our ancestors? And what, if anything, can we do to influence the course of the centuries to come? <br /><br />Bold, wide-ranging and provocative, Sapiens challenges everything we thought we knew about being human: our thoughts, our actions, our power ... and our future.",
 						"authors": {
 							"author": {
@@ -4976,8 +4976,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari"
 								},
 								"average_rating": "4.38",
-								"ratings_count": "434501",
-								"text_reviews_count": "35428"
+								"ratings_count": "434526",
+								"text_reviews_count": "35430"
 							}
 						},
 						"published": "2014",
@@ -5043,7 +5043,7 @@
 						"publication_year": "2014",
 						"publication_month": "9",
 						"average_rating": "4.16",
-						"ratings_count": "126110",
+						"ratings_count": "126113",
 						"description": "If you want to build a better future, you must believe in secrets.<br /><br />The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things. <br /><br />Thiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself.<br /><br />Doing what someone else already knows how to do takes the world from 1 to n, adding more of something familiar. But when you do something new, you go from 0 to 1. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. Tomorrow’s champions will not win by competing ruthlessly in today’s marketplace. They will escape competition altogether, because their businesses will be unique. <br /><br />Zero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.",
 						"authors": {
 							"author": {
@@ -5062,7 +5062,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/8474721.Peter_Thiel"
 								},
 								"average_rating": "4.16",
-								"ratings_count": "126257",
+								"ratings_count": "126261",
 								"text_reviews_count": "4688"
 							}
 						},
@@ -5112,7 +5112,7 @@
 						"isbn13": "9780062273208",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "1950"
+							"__text": "1951"
 						},
 						"uri": "kca://book/amzn1.gr.book.v1.CSf1AlzG9n9OsClYOs4SMw",
 						"title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
@@ -5219,7 +5219,7 @@
 						"publication_year": "2016",
 						"publication_month": "4",
 						"average_rating": "4.17",
-						"ratings_count": "168080",
+						"ratings_count": "168082",
 						"description": "This is the original 1937 version of Napoleon Hill's Classic Book: <i>Think and Grow Rich</i>. To the greatest extent possible, the text and formatting have been kept exactly the same as in the original release with the exception of some minor formatting changes.",
 						"authors": {
 							"author": {
@@ -5238,7 +5238,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/399.Napoleon_Hill"
 								},
 								"average_rating": "4.20",
-								"ratings_count": "204555",
+								"ratings_count": "204557",
 								"text_reviews_count": "7167"
 							}
 						},
@@ -5305,7 +5305,7 @@
 						"publication_year": "2005",
 						"publication_month": "1",
 						"average_rating": "3.97",
-						"ratings_count": "278713",
+						"ratings_count": "278719",
 						"description": "Twenty-Five Hundred years ago, Sun Tzu wrote this classic book of military strategy based on Chinese warfare and military thought. Since that time, all levels of military have used the teaching on Sun Tzu to warfare and civilization have adapted these teachings for use in politics, business and everyday life. The Art of War is a book which should be used to gain advantage of opponents in the boardroom and battlefield alike.",
 						"authors": {
 							"author": {
@@ -5324,7 +5324,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/1771.Sun_Tzu"
 								},
 								"average_rating": "3.97",
-								"ratings_count": "285807",
+								"ratings_count": "285813",
 								"text_reviews_count": "9314"
 							}
 						},
@@ -5391,7 +5391,7 @@
 						"publication_year": "2007",
 						"publication_month": "4",
 						"average_rating": "4.10",
-						"ratings_count": "109743",
+						"ratings_count": "109746",
 						"description": "Einstein was a rebel and nonconformist from boyhood days, and these character traits drove both his life and his science. In this narrative, Walter Isaacson explains how his mind worked and the mysteries of the universe that he discovered.",
 						"authors": {
 							"author": {
@@ -5410,8 +5410,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/7111.Walter_Isaacson"
 								},
 								"average_rating": "4.11",
-								"ratings_count": "1119763",
-								"text_reviews_count": "27651"
+								"ratings_count": "1119786",
+								"text_reviews_count": "27652"
 							}
 						},
 						"published": "2007",
@@ -5477,7 +5477,7 @@
 						"publication_year": "1987",
 						"publication_month": "",
 						"average_rating": "4.02",
-						"ratings_count": "282344",
+						"ratings_count": "282345",
 						"description": "An acclaimed bestseller and international sensation, Patrick Suskind's classic novel provokes a terrifying examination of what happens when one man's indulgence in his greatest passion—his sense of smell—leads to murder.<br /><br />In the slums of eighteenth-century France, the infant Jean-Baptiste Grenouille is born with one sublime gift—an absolute sense of smell. As a boy, he lives to decipher the odors of Paris, and apprentices himself to a prominent perfumer who teaches him the ancient art of mixing precious oils and herbs. But Grenouille's genius is such that he is not satisfied to stop there, and he becomes obsessed with capturing the smells of objects such as brass doorknobs and fresh-cut wood. Then one day he catches a hint of a scent that will drive him on an ever-more-terrifying quest to create the \"ultimate perfume\"—the scent of a beautiful young virgin. Told with dazzling narrative brilliance, <i>Perfume</i> is a hauntingly powerful tale of murder and sensual depravity.",
 						"authors": {
 							"author": {
@@ -5496,7 +5496,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/39402.Patrick_S_skind"
 								},
 								"average_rating": "3.99",
-								"ratings_count": "303760",
+								"ratings_count": "303759",
 								"text_reviews_count": "14944"
 							}
 						},
@@ -5582,7 +5582,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/600.Robert_T_Kiyosaki"
 								},
 								"average_rating": "4.04",
-								"ratings_count": "398208",
+								"ratings_count": "398215",
 								"text_reviews_count": "15085"
 							}
 						},
@@ -5720,7 +5720,7 @@
 						"isbn13": "9780671723651",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "9451"
+							"__text": "9452"
 						},
 						"uri": "kca://book/amzn1.gr.book.v1.rKo_rjo_Jxag7Cf2yDnvzg",
 						"title": "How to Win Friends and Influence People",
@@ -5737,7 +5737,7 @@
 						"publication_year": "1998",
 						"publication_month": "10",
 						"average_rating": "4.19",
-						"ratings_count": "471797",
+						"ratings_count": "471807",
 						"description": "You can go after the job you want...and get it! You can take the job you have...and improve it! You can take any situation you're in...and make it work for you!<br /><br />Since its release in 1936, <i>How to Win Friends and Influence People</i> has sold more than 15 million copies. Dale Carnegie's first book is a timeless bestseller, packed with rock-solid advice that has carried thousands of now famous people up the ladder of success in their business and personal lives.<br /><br />As relevant as ever before, Dale Carnegie's principles endure, and will help you achieve your maximum potential in the complex and competitive modern age.<br /><br />Learn the six ways to make people like you, the twelve ways to win people to your way of thinking, and the nine ways to change people without arousing resentment.",
 						"authors": {
 							"author": {
@@ -5756,8 +5756,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/3317.Dale_Carnegie"
 								},
 								"average_rating": "4.17",
-								"ratings_count": "571589",
-								"text_reviews_count": "16077"
+								"ratings_count": "571596",
+								"text_reviews_count": "16078"
 							}
 						},
 						"published": "1998",
@@ -5823,7 +5823,7 @@
 						"publication_year": "2011",
 						"publication_month": "9",
 						"average_rating": "4.07",
-						"ratings_count": "177779",
+						"ratings_count": "177782",
 						"description": "<b>Most startups fail. But many of those failures are preventable. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. <br /></b><br />Eric Ries defines a startup as <b>an organization dedicated to creating something new under conditions of extreme uncertainty</b>. This is just as true for one person in a garage or a group of seasoned professionals in a Fortune 500 boardroom. What they have in common is a mission to penetrate that fog of uncertainty to discover a successful path to a sustainable business.<br /><br /><br /><br />The Lean Startup approach fosters companies that are both more capital efficient and that leverage human creativity more effectively. Inspired by lessons from lean manufacturing, it relies on \"validated learning,\" rapid scientific experimentation, as well as a number of counter-intuitive practices that shorten product development cycles, measure actual progress without resorting to vanity metrics, and learn what customers really want. It enables a company to shift directions with agility, altering plans inch by inch, minute by minute.<br /><br />Rather than wasting time creating elaborate business plans, <i>The Lean Startup</i> offers entrepreneurs - in companies of all sizes - a way to test their vision continuously, to adapt and adjust before it's too late. Ries provides a scientific approach to creating and managing successful startups in a age when companies need to innovate more than ever.",
 						"authors": {
 							"author": {
@@ -5842,7 +5842,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/278960.Eric_Ries"
 								},
 								"average_rating": "4.07",
-								"ratings_count": "181879",
+								"ratings_count": "181883",
 								"text_reviews_count": "2904"
 							}
 						},
@@ -6253,7 +6253,7 @@
 						"publication_year": "2015",
 						"publication_month": "5",
 						"average_rating": "4.23",
-						"ratings_count": "172365",
+						"ratings_count": "172371",
 						"description": "Elon Musk, the entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, sold one of his internet companies, PayPal, for $1.5 billion. Ashlee Vance captures the full spectacle and arc of the genius's life and work, from his tumultuous upbringing in South Africa and flight to the United States to his dramatic technical innovations and entrepreneurial pursuits. Vance uses Musk's story to explore one of the pressing questions of our age: can the nation of inventors and creators who led the modern world for a century still compete in an age of fierce global competition? He argues that Musk is an amalgam of legendary inventors and industrialists including Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs. More than any other entrepreneur today, Musk has dedicated his energies and his own vast fortune to inventing a future that is as rich and far-reaching as the visionaries of the golden age of science-fiction fantasy",
 						"authors": {
 							"author": {
@@ -6272,7 +6272,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/761595.Ashlee_Vance"
 								},
 								"average_rating": "4.23",
-								"ratings_count": "173055",
+								"ratings_count": "173062",
 								"text_reviews_count": "7779"
 							}
 						},
@@ -6339,7 +6339,7 @@
 						"publication_year": "2004",
 						"publication_month": "11",
 						"average_rating": "4.09",
-						"ratings_count": "434680",
+						"ratings_count": "434685",
 						"description": "When Stephen Covey first released The Seven Habits of Highly Effective People, the book became an instant rage because people suddenly got up and took notice that their lives were headed off in the wrong direction; and more than that, they realized that there were so many simple things they could do in order to navigate their life correctly. This book was wonderful education for people, education in how to live life effectively and get closer to the ideal of being a ‘success’ in life.<br /><br />But not everyone understands Stephen Covey’s model fully well, or maybe there are some people who haven’t read it yet. This is definitely true because we still see so much failure all around us. Now, I am not saying that by using Covey’s model, or anyone else’s model for that matter, you can become a sure-shot success, but at least we should have seen many more successes around us already judging by the number of copies the book has sold! So, where is the shortcoming?<br /><br />There are two main problems here, and we are talking only about the people who have read the book already. The first problem is that most people are too lazy to implement the ideals of Stephen Covey in their lives. They consider his masterpiece of a book as a mere coffee-table book or a book that you use for light reading when you are traveling and then forget all about it. They do not realize that this book contains life-changing information. Or, they take the information and do not make the effort to actually utilize it so that it becomes knowledge for them.<br /><br />The second problem is that a lot of people have a myopic view of Covey’s ideals. These are people who are impressed by the book already. If you ask them what the seven habits are, they can rattle them off end to end, but then they miss the larger picture. They do not understand that Covey was trying to tell more than he wrote in words. There are hidden implications in this book, yes, and a lot of people have just failed to see through them.<br /><br />That is what we are trying to do. We are trying to show you how Covey’s book, or rather, his model, was a complete model in itself. There was nothing amiss about it. If you implement it, there should be no aspect of your life that should go untouched. The only thing is that you have to understand these ideals and try to implement them in your life.<br /><br />But, before we barge into that area, it is extremely important to understand what these ideals are. What was the model that was propounded by Stephen Covey in his mega-famous book? We shall begin by trying to understand his model first, and then interpret it in such a way that it pertains to every aspect of our life.",
 						"authors": {
 							"author": {
@@ -6358,7 +6358,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/1538.Stephen_R_Covey"
 								},
 								"average_rating": "4.08",
-								"ratings_count": "567984",
+								"ratings_count": "567995",
 								"text_reviews_count": "13895"
 							}
 						},
