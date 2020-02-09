@@ -183,7 +183,7 @@ p {
   top: -2px;
 }
 .main-wrapper .section {
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
@@ -310,7 +310,7 @@ used for profile image
 }
 
 .notes-section {
-  margin-top: 50px;
+  /* margin-top: 20px; */
 }
 
 .notes-section p {
