@@ -18,6 +18,98 @@
 		"reviews": {
 			"review": [
 				{
+					"id": "3254905988",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "27426015"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": {
+							"_nil": "true"
+						},
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "1"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.3JcmYhZB0JV4UARCq5-nWg",
+						"title": "Inside the Now: Meditations on Time",
+						"title_without_series": "Inside the Now: Meditations on Time",
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/27426015-inside-the-now",
+						"num_pages": "",
+						"format": "",
+						"edition_information": "",
+						"publisher": "",
+						"publication_day": "",
+						"publication_year": "",
+						"publication_month": "",
+						"average_rating": "4.12",
+						"ratings_count": "142",
+						"description": "For the first time Thich Nhat Hanh shares his inspiration and experience of living in stillness and timelessness. Written to pull you into the moment as he sees it, <i>Inside the Now</i> offers teachings inspired by the spirit of poetry. More personal than the majority of his writing, Inside the Now shares the Zen Master’s experience using poetry and meditation to endure and move beyond violence and oppression.<br /><br />Inspired by <i>Being Time</i> by Zen Master Dogen, Thich Nhat Hanh shares short meditations along with revelations from his past to give the reader a sense of entering a space of timelessness. In these meditations, he reveals his own doubts and his own searching.<br /><br />",
+						"authors": {
+							"author": {
+								"id": "9074",
+								"name": "Thich Nhat Hanh",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1428785775p5/9074.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1428785775p2/9074.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/9074.Thich_Nhat_Hanh"
+								},
+								"average_rating": "4.26",
+								"ratings_count": "197755",
+								"text_reviews_count": "12724"
+							}
+						},
+						"published": "",
+						"work": {
+							"id": "44432642",
+							"uri": "kca://work/amzn1.gr.work.v1.HCFlUDB3YFJ6-UdKGGs-2g"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Sat Apr 04 00:00:00 -0700 2020",
+					"read_at": "Sat Apr 04 02:07:37 -0700 2020",
+					"date_added": "Mon Mar 30 16:29:35 -0700 2020",
+					"date_updated": "Sat Apr 04 02:07:37 -0700 2020",
+					"read_count": "1",
+					"body": {
+						"__cdata": "There is a set of books I find mesmerizing and this is one of them. This is the kind of treasure I keep on looking for.<br /><br />I just literally breeze through this book, and have no idea how it does it. It puts me into a trance and makes me grateful for the \"now\". Here is how I feel every time I find a read like this.<br /><br />I zoom into some lines, slow down and start reading them out loud. I guess, I can claim I am in a partial state of meditation. It considerably detaches me from the routine in the present, makes me deeply fathom, and creates voluntary branches of thoughts. I no longer worry of past, future, this, that, and other. I suddenly feel extremely present, existentially rich, and satisfied with myself. It is also very easy for me to dive into a deep silent self contemplation or stay very light and be primitive. <br /><br />I love this book and wish it to everyone."
+					},
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/3254905988"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/3254905988"
+					},
+					"owned": "0"
+				},
+				{
 					"id": "3062166956",
 					"book": {
 						"id": {
@@ -28,7 +120,7 @@
 						"isbn13": "9780451485076",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "829"
+							"__text": "830"
 						},
 						"uri": "kca://book/amzn1.gr.book.v1.dc9CHzbKt8LnfXrpqyhVZw",
 						"title": "Life 3.0: Being Human in the Age of Artificial Intelligence",
@@ -45,7 +137,7 @@
 						"publication_year": "2017",
 						"publication_month": "8",
 						"average_rating": "4.05",
-						"ratings_count": "11969",
+						"ratings_count": "11970",
 						"description": "<b>How will Artificial Intelligence affect crime, war, justice, jobs, society and our very sense of being human? The rise of AI has the potential to transform our future more than any other technology--and there's nobody better qualified or situated to explore that future than Max Tegmark, an MIT professor who's helped mainstream research on how to keep AI beneficial.</b><br /><br />How can we grow our prosperity through automation without leaving people lacking income or purpose? What career advice should we give today's kids? How can we make future AI systems more robust, so that they do what we want without crashing, malfunctioning or getting hacked? Should we fear an arms race in lethal autonomous weapons? Will machines eventually outsmart us at all tasks, replacing humans on the job market and perhaps altogether? Will AI help life flourish like never before or give us more power than we can handle?<br /><br />What sort of future do <i>you</i> want? This book empowers you to join what may be the most important conversation of our time. It doesn't shy away from the full range of viewpoints or from the most controversial issues--from superintelligence to meaning, consciousness and the ultimate physical limits on life in the cosmos.",
 						"authors": {
 							"author": {
@@ -65,7 +157,7 @@
 								},
 								"average_rating": "4.04",
 								"ratings_count": "18689",
-								"text_reviews_count": "1916"
+								"text_reviews_count": "1917"
 							}
 						},
 						"published": "2017",
@@ -152,7 +244,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche"
 								},
 								"average_rating": "4.04",
-								"ratings_count": "317409",
+								"ratings_count": "317413",
 								"text_reviews_count": "11163"
 							}
 						},
@@ -244,7 +336,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche"
 								},
 								"average_rating": "4.04",
-								"ratings_count": "317409",
+								"ratings_count": "317413",
 								"text_reviews_count": "11163"
 							}
 						},
@@ -409,7 +501,7 @@
 						"publication_year": "2017",
 						"publication_month": "10",
 						"average_rating": "4.44",
-						"ratings_count": "46247",
+						"ratings_count": "46257",
 						"description": "<b>A <i>New York Times</i> bestseller</b><br /> <br />The first sleep book by a leading scientific expert—Professor Matthew Walker, Director of UC Berkeley’s Sleep and Neuroimaging Lab—reveals his groundbreaking exploration of sleep, explaining how we can harness its transformative power to change our lives for the better.<br /><br />Sleep is one of the most important but least understood aspects of our life, wellness, and longevity. Until very recently, science had no answer to the question of why we sleep, or what good it served, or why we suffer such devastating health consequences when we don't sleep. Compared to the other basic drives in life—eating, drinking, and reproducing—the purpose of sleep remained elusive.<br /> <br /> An explosion of scientific discoveries in the last twenty years has shed new light on this fundamental aspect of our lives. Now, preeminent neuroscientist and sleep expert Matthew Walker gives us a new understanding of the vital importance of sleep and dreaming. Within the brain, sleep enriches our ability to learn, memorize, and make logical decisions. It recalibrates our emotions, restocks our immune system, fine-tunes our metabolism, and regulates our appetite. Dreaming mollifies painful memories and creates a virtual reality space in which the brain melds past and present knowledge to inspire creativity.<br /> <br /> Walker answers important questions about sleep: how do caffeine and alcohol affect sleep? What really happens during REM sleep? Why do our sleep patterns change across a lifetime? How do common sleep aids affect us and can they do long-term damage? Charting cutting-edge scientific breakthroughs, and synthesizing decades of research and clinical practice, Walker explains how we can harness sleep to improve learning, mood, and energy levels; regulate hormones; prevent cancer, Alzheimer’s, and diabetes; slow the effects of aging; increase longevity; enhance the education and lifespan of our children, and boost the efficiency, success, and productivity of our businesses. Clear-eyed, fascinating, and accessible, <i>Why We Sleep</i> is a crucial and illuminating book.",
 						"authors": {
 							"author": {
@@ -428,7 +520,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/17598726.Matthew_Walker"
 								},
 								"average_rating": "4.44",
-								"ratings_count": "45982",
+								"ratings_count": "45990",
 								"text_reviews_count": "5786"
 							}
 						},
@@ -497,7 +589,7 @@
 						"publication_year": "2012",
 						"publication_month": "11",
 						"average_rating": "4.09",
-						"ratings_count": "30434",
+						"ratings_count": "30435",
 						"description": "From the bestselling author of The Black Swan and one of the foremost philosophers of our time, Nassim Nicholas Taleb, a book on how some systems actually benefit from disorder.<br /><br />In The Black Swan Taleb outlined a problem; in <i>Antifragile</i> he offers a definitive solution: how to gain from disorder and chaos while being protected from fragilities and adverse events. For what he calls the \"antifragile\" is one step beyond robust, as it benefits from adversity, uncertainty and stressors, just as human bones get stronger when subjected to stress and tension.<br /><br />Taleb stands uncertainty on its head, making it desirable, and proposing that things be built in an antifragile manner. Extremely ambitious and multidisciplinary, <i>Antifragile</i> provides a blueprint for how to behave-and thrive-in a world we don't understand and which is too uncertain for us to even try to understand. He who is not antifragile will perish. Why is the city state better than the nation state, why is debt bad for you, and why is almost everything modern bound to fail? The book covers innovation, health, biology, medicine, life decisions, politics, foreign policy, urban planning, war, personal finance, and economic systems. Throughout, the voice and recipes of the ancient wisdom from Phoenician, Roman, Greek, and Medieval sources are heard loud and clear.",
 						"authors": {
 							"author": {
@@ -516,7 +608,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb"
 								},
 								"average_rating": "3.98",
-								"ratings_count": "171965",
+								"ratings_count": "171971",
 								"text_reviews_count": "10974"
 							}
 						},
@@ -692,7 +784,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/282885.Jordan_B_Peterson"
 								},
 								"average_rating": "3.96",
-								"ratings_count": "81634",
+								"ratings_count": "81636",
 								"text_reviews_count": "7878"
 							}
 						},
@@ -780,7 +872,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/7111.Walter_Isaacson"
 								},
 								"average_rating": "4.12",
-								"ratings_count": "1216798",
+								"ratings_count": "1216830",
 								"text_reviews_count": "29060"
 							}
 						},
@@ -836,7 +928,7 @@
 						},
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "5213"
+							"__text": "5214"
 						},
 						"uri": "kca://book/amzn1.gr.book.v1.LFkxMa7GdhOtqM2WztmG0w",
 						"title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
@@ -853,7 +945,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.34",
-						"ratings_count": "67146",
+						"ratings_count": "67151",
 						"description": "No matter your goals, <i>Atomic Habits</i> offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.<br /><br />If you're having trouble changing your habits, the problem isn't you. The problem is your system. Bad habits repeat themselves again and again not because you don't want to change, but because you have the wrong system for change. You do not rise to the level of your goals. You fall to the level of your systems. Here, you'll get a proven system that can take you to new heights.<br /><br />Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field.<br /><br />Learn how to:<br /><b>*</b>  make time for new habits (even when life gets crazy);<br /><b>*</b>  overcome a lack of motivation and willpower;<br /><b>*</b>  design your environment to make success easier;<br /><b>*</b>  get back on track when you fall off course;<br />...and much more.<br /><br /><i>Atomic Habits</i> will reshape the way you think about progress and success, and give you the tools and strategies you need to transform your habits--whether you are a team looking to win a championship, an organization hoping to redefine an industry, or simply an individual who wishes to quit smoking, lose weight, reduce stress, or achieve any other goal.",
 						"authors": {
 							"author": {
@@ -872,8 +964,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/7327369.James_Clear"
 								},
 								"average_rating": "4.34",
-								"ratings_count": "67438",
-								"text_reviews_count": "6082"
+								"ratings_count": "67445",
+								"text_reviews_count": "6083"
 							}
 						},
 						"published": "",
@@ -941,7 +1033,7 @@
 						"publication_year": "2006",
 						"publication_month": "1",
 						"average_rating": "4.08",
-						"ratings_count": "26402",
+						"ratings_count": "26404",
 						"description": "<strong>What makes an effective executive?<br /><br /></strong>The measure of the executive, Peter F. Drucker reminds us, is the ability to \"get the right things done.\" This usually involves doing what other people have overlooked as well as avoiding what is unproductive. Intelligence, imagination, and knowledge may all be wasted in an executive job without the acquired habits of mind that mold them into results.<br /><br />Drucker identifies five practices essential to business effectiveness that can, and must, be learned: Managing time Choosing what to contribute to the organization Knowing where and how to mobilize strength for best effect Setting the right priorities Knitting all of them together with effective decision-making<br />Ranging widely through the annals of business and government, Peter F. Drucker demonstrates the distinctive skill of the executive and offers fresh insights into old and seemingly obvious business situations.",
 						"authors": {
 							"author": {
@@ -960,7 +1052,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/12008.Peter_F_Drucker"
 								},
 								"average_rating": "4.08",
-								"ratings_count": "64817",
+								"ratings_count": "64818",
 								"text_reviews_count": "2453"
 							}
 						},
@@ -1117,7 +1209,7 @@
 						"publication_year": "2016",
 						"publication_month": "5",
 						"average_rating": "4.08",
-						"ratings_count": "58124",
+						"ratings_count": "58125",
 						"description": "In this must-read book for anyone striving to succeed, pioneering psychologist Angela Duckworth shows parents, educators, students, and business people both seasoned and new that the secret to outstanding achievement is not talent but a focused persistence called grit.<br /><br />Why do some people succeed and others fail? Sharing new insights from her landmark research on grit, Angela Duckworth explains why talent is hardly a guarantor of success. Rather, other factors can be even more crucial such as identifying our passions and following through on our commitments.<br /><br />Drawing on her own powerful story as the daughter of a scientist who frequently bemoaned her lack of smarts, Duckworth describes her winding path through teaching, business consulting, and neuroscience, which led to the hypothesis that what really drives success is not genius, but a special blend of passion and long-term perseverance. As a professor at the University of Pennsylvania, Duckworth created her own character lab and set out to test her theory.<br /><br />Here, she takes readers into the field to visit teachers working in some of the toughest schools, cadets struggling through their first days at West Point, and young finalists in the National Spelling Bee. She also mines fascinating insights from history and shows what can be gleaned from modern experiments in peak performance. Finally, she shares what she's learned from interviewing dozens of high achievers; from JP Morgan CEO Jamie Dimon to the cartoon editor of <i>The New Yorker</i> to Seattle Seahawks Coach Pete Carroll.<br /><br />Winningly personal, insightful, and even life-changing, <i>Grit</i> is a book about what goes through your head when you fall down, and how that not talent or luck makes all the difference.",
 						"authors": {
 							"author": {
@@ -1136,7 +1228,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/14132767.Angela_Duckworth"
 								},
 								"average_rating": "4.08",
-								"ratings_count": "58175",
+								"ratings_count": "58176",
 								"text_reviews_count": "4706"
 							}
 						},
@@ -1209,7 +1301,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.04",
-						"ratings_count": "45942",
+						"ratings_count": "45945",
 						"description": "Have you ever found yourself stretched too thin?<br /> <br />Do you simultaneously feel overworked and underutilized?<br /> <br />Are you often busy but not productive?<br /> <br />Do you feel like your time is constantly being hijacked by other people’s agendas?<br /> <br />If you answered yes to any of these, the way out is the <i>Way of the Essentialist</i><b>.</b><br /> <br />The Way of the Essentialist isn’t about getting more done in less time. It’s about getting <i>only the right things</i> done.  It is not  a time management strategy, or a productivity technique. It is a <i>systematic discipline</i> for discerning what is absolutely essential, then eliminating everything that is not, so we can make the highest possible contribution towards the things that really matter.  <br /><br />By forcing us to apply a more selective criteria for what is Essential, the disciplined pursuit of less empowers us to reclaim control of our own choices about where to spend our precious time and energy – instead of giving others the implicit permission to choose for us.<br /><br />Essentialism is not one more thing – it’s a whole new way of doing everything. A must-read for any leader, manager, or individual who wants to learn who to do less, but better, in every area of their lives, Essentialism  is a movement whose time has come.",
 						"authors": {
 							"author": {
@@ -1228,7 +1320,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/4040962.Greg_McKeown"
 								},
 								"average_rating": "4.03",
-								"ratings_count": "52427",
+								"ratings_count": "52430",
 								"text_reviews_count": "5013"
 							}
 						},
@@ -1393,7 +1485,7 @@
 						"publication_year": "2008",
 						"publication_month": "11",
 						"average_rating": "4.16",
-						"ratings_count": "501026",
+						"ratings_count": "501033",
 						"description": "In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of \"outliers\"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?<br /><br />His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band.",
 						"authors": {
 							"author": {
@@ -1412,8 +1504,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell"
 								},
 								"average_rating": "4.00",
-								"ratings_count": "1933347",
-								"text_reviews_count": "74923"
+								"ratings_count": "1933397",
+								"text_reviews_count": "74924"
 							}
 						},
 						"published": "2008",
@@ -1504,7 +1596,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb"
 								},
 								"average_rating": "3.98",
-								"ratings_count": "171965",
+								"ratings_count": "171971",
 								"text_reviews_count": "10974"
 							}
 						},
@@ -1776,7 +1868,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/219908.Brad_Stone"
 								},
 								"average_rating": "4.14",
-								"ratings_count": "52695",
+								"ratings_count": "52696",
 								"text_reviews_count": "3011"
 							}
 						},
@@ -1868,7 +1960,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/12793.Charles_Darwin"
 								},
 								"average_rating": "3.99",
-								"ratings_count": "125414",
+								"ratings_count": "125415",
 								"text_reviews_count": "3881"
 							}
 						},
@@ -1960,7 +2052,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/2883386.David_Eagleman"
 								},
 								"average_rating": "4.09",
-								"ratings_count": "51879",
+								"ratings_count": "51880",
 								"text_reviews_count": "4963"
 							}
 						},
@@ -2033,7 +2125,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.06",
-						"ratings_count": "44464",
+						"ratings_count": "44465",
 						"description": "<b><i>Fooled by Randomness </i>is a standalone book in Nassim Nicholas Taleb’s landmark Incerto series, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand. The other books in the series are <i>The Black Swan, Antifragile, </i>and <i>The Bed of Procrustes</i>.</b><br /><br />Now in a striking new hardcover edition, Fooled by Randomness is the word-of-mouth sensation that will change the way you think about business and the world. Nassim Nicholas Taleb–veteran trader, renowned risk expert, polymathic scholar, erudite raconteur, and New York Times bestselling author of The Black Swan–has written a modern classic that turns on its head what we believe about luck and skill.<br /><br /> This book is about luck–or more precisely, about how we perceive and deal with luck in life and business. Set against the backdrop of the most conspicuous forum in which luck is mistaken for skill–the world of trading–<i>Fooled by Randomness</i> provides captivating insight into one of the least understood factors in all our lives. Writing in an entertaining narrative style, the author tackles major intellectual issues related to the underestimation of the influence of happenstance on our lives.<br /><br /> The book is populated with an array of characters, some of whom have grasped, in their own way, the significance of chance: the baseball legend Yogi Berra; the philosopher of knowledge Karl Popper; the ancient world’s wisest man, Solon; the modern financier George Soros; and the Greek voyager Odysseus. We also meet the fictional Nero, who seems to understand the role of randomness in his professional life but falls victim to his own superstitious foolishness.<br /><br /> However, the most recognizable character of all remains unnamed–the lucky fool who happens to be in the right place at the right time–he embodies the “survival of the least fit.” Such individuals attract devoted followers who believe in their guru’s insights and methods. But no one can replicate what is obtained by chance.<br /><br /> Are we capable of distinguishing the fortunate charlatan from the genuine visionary? Must we always try to uncover nonexistent messages in random events? It may be impossible to guard ourselves against the vagaries of the goddess Fortuna, but after reading <i>Fooled by Randomness</i> we can be a little better prepared.<br /><br /><b>\n  <u>PRAISE FOR <i>FOOLED BY RANDOMNESS</i></u>\n</b>:<br /><br /><b>Named by Fortune One of the Smartest Books of All Time<br /><br /> A Financial Times Best Business Book of the Year</b><br /><br /> “[<i>Fooled by Randomness</i>] is to conventional Wall Street wisdom approximately what Martin Luther’s ninety-five theses were to the Catholic Church.”<br /> –Malcolm Gladwell, author of <i>Blink</i><br /><br /> “The book that rolled down Wall Street like a hand grenade.”<br /> –Maggie Mahar, author of <i>Bull! A History of the Boom, 1982—1999</i><br /><br /> “Fascinating . . . Taleb will grab you.”<br /> –Peter L. Bernstein, author of <i>Capital Ideas Evolving</i><br /><br /> “Recalls the best of scientist/essayists like Richard Dawkins . . . and Stephen Jay Gould.”<br /> –Michael Schrage, author of <i>Serious Play: How the World’s Best Companies Simulate to Innovate</i><br /><br /> “We need a book like this. . . . Fun to read, refreshingly independent-minded.”<br /> –Robert J. Shiller, author of <i>Irrational Exuberance </i><br /><br /> “Powerful . . . loaded with crackling little insights [and] extreme brilliance.”<br /><i>–National Review</i>",
 						"authors": {
 							"author": {
@@ -2052,7 +2144,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb"
 								},
 								"average_rating": "3.98",
-								"ratings_count": "171965",
+								"ratings_count": "171971",
 								"text_reviews_count": "10974"
 							}
 						},
@@ -2125,7 +2217,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "3.95",
-						"ratings_count": "19559",
+						"ratings_count": "19560",
 						"description": "The New York Times bestseller that explains why certain products and ideas become popular. “Jonah Berger knows more about what makes information ‘go viral’ than anyone in the world” (Daniel Gilbert, author of the bestseller Stumbling on Happiness).<br /><br />What makes things popular? If you said advertising, think again. People don’t listen to advertisements, they listen to their peers. But why do people talk about certain products and ideas more than others? Why are some stories and rumors more infectious? And what makes online content go viral?<br /><br />Wharton marketing professor Jonah Berger has spent the last decade answering these questions. He’s studied why New York Times articles make the paper’s own Most E-mailed list, why products get word of mouth, and how social influence shapes everything from the cars we buy to the clothes we wear to the names we give our children.<br /><br />In Contagious, Berger reveals the secret science behind word-of-mouth and social transmission. Discover how six basic principles drive all sorts of things to become contagious, from consumer products and policy initiatives to workplace rumors and YouTube videos. Learn how a luxury steakhouse found popularity through the lowly cheesesteak, why anti-drug commercials might have actually increased drug use, and why more than 200 million consumers shared a video about one of the most seemingly boring products there is: a blender.<br /><br />Contagious provides a set of specific, actionable techniques for helping information spread—for designing messages, advertisements, and content that people will share. Whether you’re a manager at a big company, a small business owner trying to boost awareness, a politician running for office, or a health official trying to get the word out, Contagious will show you how to make your product or idea catch on.",
 						"authors": {
 							"author": {
@@ -2144,7 +2236,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/1170746.Jonah_Berger"
 								},
 								"average_rating": "3.92",
-								"ratings_count": "21942",
+								"ratings_count": "21943",
 								"text_reviews_count": "1929"
 							}
 						},
@@ -2236,8 +2328,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/1563.Steven_Johnson"
 								},
 								"average_rating": "3.91",
-								"ratings_count": "79475",
-								"text_reviews_count": "7340"
+								"ratings_count": "79476",
+								"text_reviews_count": "7341"
 							}
 						},
 						"published": "",
@@ -2324,7 +2416,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/1938.Friedrich_Nietzsche"
 								},
 								"average_rating": "4.04",
-								"ratings_count": "317409",
+								"ratings_count": "317413",
 								"text_reviews_count": "11163"
 							}
 						},
@@ -2362,6 +2454,94 @@
 					},
 					"link": {
 						"__cdata": "https://www.goodreads.com/review/show/2912767511"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2900740214",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "18750852"
+						},
+						"isbn": "1422197581",
+						"isbn13": "9781422197585",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "35"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.HPUq4DIp9jfypVCPbzmR2w",
+						"title": "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+						"title_without_series": "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/18750852-the-innovator-s-dilemma",
+						"num_pages": "256",
+						"format": "ebook",
+						"edition_information": "",
+						"publisher": "Harvard Business Review Press",
+						"publication_day": "22",
+						"publication_year": "2013",
+						"publication_month": "10",
+						"average_rating": "4.00",
+						"ratings_count": "36595",
+						"description": "Harvard professor Clayton M. Christensen says outstanding companies can do everything right and still lose their market leadership -- or worse, disappear completely. And he not only proves what he says, he tells others how to avoid a similar fate.<br /><br />Focusing on \"disruptive technology\" -- the Honda Super Cub, Intel's 8088 processor, or the hydraulic excavator, for example -- Christensen shows why most companies miss \"the next great wave.\" Whether in electronics or retailing, a successful company with established products will get pushed aside unless managers know when to abandon traditional business practices. Using the lessons of successes and failures from leading companies, \"The Innovator's Dilemma\" presents a set of rules for capitalizing on the phenomenon of disruptive innovation.",
+						"authors": {
+							"author": {
+								"id": "1792",
+								"name": "Clayton M. Christensen",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1362943115p5/1792.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1362943115p2/1792.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/1792.Clayton_M_Christensen"
+								},
+								"average_rating": "4.04",
+								"ratings_count": "90133",
+								"text_reviews_count": "4995"
+							}
+						},
+						"published": "2013",
+						"work": {
+							"id": "1468535",
+							"uri": "kca://work/amzn1.gr.work.v1.UbZSpnZxMu646pc2kUIBig"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "Thu Aug 22 00:49:25 -0700 2019",
+					"read_at": "Fri Aug 23 01:03:21 -0700 2019",
+					"date_added": "Thu Jul 18 00:35:41 -0700 2019",
+					"date_updated": "Fri Aug 23 01:03:21 -0700 2019",
+					"read_count": "1",
+					"body": {
+						"__cdata": "This is a great book backed by extensive empirical data. First half of the book, I had a feeling that it's was too biased and the author is almost trying to fit the opinion into the right selection of data, but towards the end you get the key message on disruptive innovation."
+					},
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2900740214"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2900740214"
 					},
 					"owned": "0"
 				},
@@ -2550,94 +2730,6 @@
 					"owned": "0"
 				},
 				{
-					"id": "2900740214",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "18750852"
-						},
-						"isbn": "1422197581",
-						"isbn13": "9781422197585",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "35"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.HPUq4DIp9jfypVCPbzmR2w",
-						"title": "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
-						"title_without_series": "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
-						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/18750852-the-innovator-s-dilemma",
-						"num_pages": "256",
-						"format": "ebook",
-						"edition_information": "",
-						"publisher": "Harvard Business Review Press",
-						"publication_day": "22",
-						"publication_year": "2013",
-						"publication_month": "10",
-						"average_rating": "4.00",
-						"ratings_count": "36594",
-						"description": "Harvard professor Clayton M. Christensen says outstanding companies can do everything right and still lose their market leadership -- or worse, disappear completely. And he not only proves what he says, he tells others how to avoid a similar fate.<br /><br />Focusing on \"disruptive technology\" -- the Honda Super Cub, Intel's 8088 processor, or the hydraulic excavator, for example -- Christensen shows why most companies miss \"the next great wave.\" Whether in electronics or retailing, a successful company with established products will get pushed aside unless managers know when to abandon traditional business practices. Using the lessons of successes and failures from leading companies, \"The Innovator's Dilemma\" presents a set of rules for capitalizing on the phenomenon of disruptive innovation.",
-						"authors": {
-							"author": {
-								"id": "1792",
-								"name": "Clayton M. Christensen",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1362943115p5/1792.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1362943115p2/1792.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/1792.Clayton_M_Christensen"
-								},
-								"average_rating": "4.04",
-								"ratings_count": "90132",
-								"text_reviews_count": "4994"
-							}
-						},
-						"published": "2013",
-						"work": {
-							"id": "1468535",
-							"uri": "kca://work/amzn1.gr.work.v1.UbZSpnZxMu646pc2kUIBig"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "Thu Aug 22 00:49:25 -0700 2019",
-					"read_at": "Fri Aug 23 01:03:21 -0700 2019",
-					"date_added": "Thu Jul 18 00:35:41 -0700 2019",
-					"date_updated": "Fri Aug 23 01:03:21 -0700 2019",
-					"read_count": "1",
-					"body": {
-						"__cdata": "This is a great book backed by extensive empirical data. First half of the book, I had a feeling that it's was too biased and the author is almost trying to fit the opinion into the right selection of data, but towards the end you get the key message on disruptive innovation."
-					},
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2900740214"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2900740214"
-					},
-					"owned": "0"
-				},
-				{
 					"id": "2940590215",
 					"book": {
 						"id": {
@@ -2761,7 +2853,7 @@
 						"publication_year": "2006",
 						"publication_month": "6",
 						"average_rating": "4.36",
-						"ratings_count": "340571",
+						"ratings_count": "340579",
 						"description": "Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Between 1942 and 1945 Frankl labored in four different camps, including Auschwitz, while his parents, brother, and pregnant wife perished. Based on his own experience and the experiences of others he treated later in his practice, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. Frankl's theory-known as logotherapy, from the Greek word logos (\"meaning\")-holds that our primary drive in life is not pleasure, as Freud maintained, but the discovery and pursuit of what we personally find meaningful.",
 						"authors": {
 							"author": {
@@ -2780,7 +2872,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/2782.Viktor_E_Frankl"
 								},
 								"average_rating": "4.35",
-								"ratings_count": "349006",
+								"ratings_count": "349012",
 								"text_reviews_count": "18787"
 							}
 						},
@@ -3221,7 +3313,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.33",
-						"ratings_count": "9741",
+						"ratings_count": "9742",
 						"description": "This is a user-friendly guide to the art and science of management from Andrew S. Grove, the president of America's leading manufacturer of computer chips. Groves recommendations are equally appropriate for sales managers, accountants, consultants, and teachers--anyone whose job entails getting a group of people to produce something of value. Adapting the innovations that have made Intel one of America's most successful corporations, <b>High Output Management</b> teaches you:<br />what techniques and indicators you can use to make even corporate recruiting as precise and measurable as manufacturing<br />how to turn your subordinates and coworkers into members of highly productive team<br />how to motivate that team to attain peak performance every time<br />Combining conceptual elegance with a practical understanding of the real-life scenarios that managers encounter every day, <b>High Output Management</b> is one of those rare books that have the power to revolutionize the way we work",
 						"authors": {
 							"author": {
@@ -3240,8 +3332,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/37708.Andrew_S_Grove"
 								},
 								"average_rating": "4.19",
-								"ratings_count": "16700",
-								"text_reviews_count": "821"
+								"ratings_count": "16701",
+								"text_reviews_count": "822"
 							}
 						},
 						"published": "",
@@ -3332,8 +3424,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/5383925.Kevin_Horsley"
 								},
 								"average_rating": "4.02",
-								"ratings_count": "13617",
-								"text_reviews_count": "854"
+								"ratings_count": "13619",
+								"text_reviews_count": "855"
 							}
 						},
 						"published": "",
@@ -3405,7 +3497,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.30",
-						"ratings_count": "105852",
+						"ratings_count": "105854",
 						"description": "<b>A lucid translation of the well-known Taoist classic by a leading scholar-now in a Shambhala Pocket Library edition.</b> <br />Written more than two thousand years ago, the <i>Tao Teh Ching</i>, or -The Classic of the Way and Its Virtue, - is one of the true classics of the world of spiritual literature. Traditionally attributed to the legendary -Old Master, - Lao Tzu, the <i>Tao Teh Ching</i> teaches that the qualities of the enlightened sage or ideal ruler are identical with those of the perfected individual. Today, Lao Tzu's words are as useful in mastering the arts of leadership in business and politics as they are in developing a sense of balance and harmony in everyday life. To follow the <i>Tao </i>or Way of all things and realize their true nature is to embody humility, spontaneity, and generosity. <br />John C. H. Wu has done a remarkable job of rendering this subtle text into English while retaining the freshness and depth of the original. A jurist and scholar, Dr. Wu was a recognized authority on Taoism and the translator of several Taoist and Zen texts and of Chinese poetry.<br />This book is part of the Shambhala Pocket Library series. The Shambhala Pocket Library is a collection of short, portable teachings from notable figures across religious traditions and classic texts. The covers in this series are rendered by Colorado artist Robert Spellman. The books in this collection distill the wisdom and heart of the work Shambhala Publications has published over 50 years into a compact format that is collectible, reader-friendly, and applicable to everyday life.",
 						"authors": {
 							"author": {
@@ -3424,7 +3516,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/2622245.Lao_Tzu"
 								},
 								"average_rating": "4.30",
-								"ratings_count": "110159",
+								"ratings_count": "110161",
 								"text_reviews_count": "4760"
 							}
 						},
@@ -3589,7 +3681,7 @@
 						"publication_year": "2011",
 						"publication_month": "10",
 						"average_rating": "4.13",
-						"ratings_count": "906619",
+						"ratings_count": "906656",
 						"description": "From the author of the bestselling biographies of Benjamin Franklin and Albert Einstein, this is the exclusive, New York Times bestselling biography of Apple co-founder Steve Jobs.<br /><br />Based on more than forty interviews with Jobs conducted over two years—as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues—Walter Isaacson has written a riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing.<br /><br />At a time when America is seeking ways to sustain its innovative edge, and when societies around the world are trying to build digital-age economies, Jobs stands as the ultimate icon of inventiveness and applied imagination. He knew that the best way to create value in the twenty-first century was to connect creativity with technology. He built a company where leaps of the imagination were combined with remarkable feats of engineering.<br /><br />Although Jobs cooperated with this book, he asked for no control over what was written nor even the right to read it before it was published. He put nothing off-limits. He encouraged the people he knew to speak honestly. And Jobs speaks candidly, sometimes brutally so, about the people he worked with and competed against. His friends, foes, and colleagues provide an unvarnished view of the passions, perfectionism, obsessions, artistry, devilry, and compulsion for control that shaped his approach to business and the innovative products that resulted.<br /><br />Driven by demons, Jobs could drive those around him to fury and despair. But his personality and products were interrelated, just as Apple’s hardware and software tended to be, as if part of an integrated system. His tale is instructive and cautionary, filled with lessons about innovation, character, leadership, and values.",
 						"authors": {
 							"author": {
@@ -3608,7 +3700,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/7111.Walter_Isaacson"
 								},
 								"average_rating": "4.12",
-								"ratings_count": "1216798",
+								"ratings_count": "1216830",
 								"text_reviews_count": "29060"
 							}
 						},
@@ -3700,7 +3792,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/11038.Immanuel_Kant"
 								},
 								"average_rating": "3.91",
-								"ratings_count": "80079",
+								"ratings_count": "80082",
 								"text_reviews_count": "2093"
 							}
 						},
@@ -3865,7 +3957,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.23",
-						"ratings_count": "102766",
+						"ratings_count": "102771",
 						"description": "<div>This 1742 translation is a collaborative work by Francis Hutcheson and<br />a colleague at Glasgow University, the classicist James Moor. Although<br />Hutcheson was secretive about the extent of his work on the book, he was<br />clearly the leading spirit of the project.<b><b><br />This influential classical work offered a vision of a universe governed<br />by a natural law that obliges us to love mankind and to govern our lives<br />in accordance with the natural order of things. In their account of the life<br />of the emperor, prefaced to their translation from the Greek, Hutcheson<br />and Moor celebrated the Stoic ideal of an orderly universe governed by a<br />benevolent God. They contrasted the serenity recommended and<br />practiced by Marcus Aurelius with the divisive sectarianism then exhibited<br />by their fellow Presbyterians in Scotland and elsewhere. They urged their<br />readers and fellow citizens to set aside their narrow prejudices.<b><b><br />In many ways, Hutcheson and Moor’s <strong><em>The Meditations of the<br />Emperor Marcus Aurelius Antoninus</em></strong> is a companion volume to<br />Hutcheson’s Latin work on ethics, released in the same year, <em>Philosophiae<br />Moralis Institutio Compendiaria.</em> In the latter volume, which is also available<br />from Liberty Fund, Hutcheson continues a theme that proffered his ethics<br />as a modern and, not least, Christianized version of Stoicism.<br /><b><b><br /><strong>Knud Haakonssen</strong> is Professor of Intellectual History and Director of the Centre for Intellectual History at the University of<br />Sussex, England.<br /></b></b></b></b></b></b></div>",
 						"authors": {
 							"author": {
@@ -3957,7 +4049,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.25",
-						"ratings_count": "270792",
+						"ratings_count": "270795",
 						"description": "Couples who understand each other's love language hold a priceless advantage in the quest for love that lasts a lifetime -- they know how to effectively and consistently make each other feel truly and deeply loved. That gift never fades away.",
 						"authors": {
 							"author": {
@@ -3976,7 +4068,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/622.Gary_Chapman"
 								},
 								"average_rating": "4.22",
-								"ratings_count": "334253",
+								"ratings_count": "334255",
 								"text_reviews_count": "17972"
 							}
 						},
@@ -4160,7 +4252,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/114041.Epicurus"
 								},
 								"average_rating": "3.93",
-								"ratings_count": "3839",
+								"ratings_count": "3840",
 								"text_reviews_count": "203"
 							}
 						},
@@ -4233,7 +4325,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.18",
-						"ratings_count": "2891886",
+						"ratings_count": "2891951",
 						"description": "Among the seminal texts of the 20th century, <i>Nineteen Eighty-Four</i> is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell's nightmare vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life--the ubiquity of television, the distortion of the language--and his ability to construct such a thorough version of hell. Required reading for students since it was published, it ranks among the most terrifying novels ever written.",
 						"authors": {
 							"author": {
@@ -4252,8 +4344,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/3706.George_Orwell"
 								},
 								"average_rating": "4.07",
-								"ratings_count": "5828404",
-								"text_reviews_count": "132210"
+								"ratings_count": "5828492",
+								"text_reviews_count": "132212"
 							}
 						},
 						"published": "",
@@ -4344,7 +4436,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/22395.Mortimer_J_Adler"
 								},
 								"average_rating": "3.99",
-								"ratings_count": "21092",
+								"ratings_count": "21093",
 								"text_reviews_count": "2313"
 							}
 						},
@@ -4417,7 +4509,7 @@
 						"publication_year": "2006",
 						"publication_month": "11",
 						"average_rating": "3.97",
-						"ratings_count": "653302",
+						"ratings_count": "653311",
 						"description": "<i>An alternate cover edition exists <a href=\"https://www.goodreads.com/book/show/34668905.here\" title=\"here\" rel=\"nofollow\">here</a>.</i><br /><br />The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate. This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.<br /><br />Gladwell introduces us to the particular personality types who are natural pollinators of new ideas and trends, the people who create the phenomenon of word of mouth. He analyzes fashion trends, smoking, children's television, direct mail, and the early days of the American Revolution for clues about making ideas infectious, and visits a religious commune, a successful high-tech company, and one of the world's greatest salesmen to show how to start and sustain social epidemics.",
 						"authors": {
 							"author": {
@@ -4436,8 +4528,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell"
 								},
 								"average_rating": "4.00",
-								"ratings_count": "1933347",
-								"text_reviews_count": "74923"
+								"ratings_count": "1933397",
+								"text_reviews_count": "74924"
 							}
 						},
 						"published": "2006",
@@ -4509,7 +4601,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "4.14",
-						"ratings_count": "76989",
+						"ratings_count": "76990",
 						"description": "<i>\"This book is written with the sole objective of helping the reader achieve a happy, satisfying, and worthwhile life.\"</i><p></p><p> -- Norman Vincent Peale</p><p></p><p>The precursor to <i>The Secret, The Power of Positive Thinking</i> has helped millions of men and women to achieve fulfillment in their lives. In this phenomenal bestseller, Dr. Peale demonstrates the power of faith in action. With the practical techniques outlined in this book, you can energize your life -- and give yourself the initiative needed to carry out your ambitions and hopes. You'll learn how to:</p><p></p><p></p> \n  <p> </p>\n   Expect the best and get it \n  <p></p>\n  <p> </p>\n   Believe in yourself and in everything you do \n  <p></p>\n  <p> </p>\n   Develop the power to reach your goals \n  <p></p>\n  <p> </p>\n   Break the worry habit and achieve a relaxed life \n  <p></p>\n  <p> </p>\n   Improve your personal and professional relationships  \n  <p></p>\n  <p> </p>\n   Assume control over your circumstances \n  <p></p>\n  <p> </p>\n   Be kind to yourself \n  <p></p>\n <p></p><p></p>",
 						"authors": {
 							"author": {
@@ -4528,7 +4620,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/8435.Norman_Vincent_Peale"
 								},
 								"average_rating": "4.14",
-								"ratings_count": "83907",
+								"ratings_count": "83908",
 								"text_reviews_count": "1706"
 							}
 						},
@@ -4601,7 +4693,7 @@
 						"publication_year": "2011",
 						"publication_month": "7",
 						"average_rating": "4.10",
-						"ratings_count": "119784",
+						"ratings_count": "119787",
 						"description": "To find the keys to greatness, Collins's 21-person research team read and coded 6,000 articles, generated more than 2,000 pages of interview transcripts and created 384 megabytes of computer data in a five-year project. The findings will surprise many readers and, quite frankly, upset others.<br /><br />The Challenge<br />Built to Last, the defining management study of the nineties, showed how great companies triumph over time and how long-term sustained performance can be engineered into the DNA of an enterprise from the very beginning. <br /><br />But what about the company that is not born with great DNA? How can good companies, mediocre companies, even bad companies achieve enduring greatness? <br /><br />The Study<br />For years, this question preyed on the mind of Jim Collins. Are there companies that defy gravity and convert long-term mediocrity or worse into long-term superiority? And if so, what are the universal distinguishing characteristics that cause a company to go from good to great?<br /><br />The Standards<br />Using tough benchmarks, Collins and his research team identified a set of elite companies that made the leap to great results and sustained those results for at least fifteen years. How great? After the leap, the good-to-great companies generated cumulative stock returns that beat the general stock market by an average of seven times in fifteen years, better than twice the results delivered by a composite index of the world's greatest companies, including Coca-Cola, Intel, General Electric, and Merck. <br /><br />The Comparisons<br />The research team contrasted the good-to-great companies with a carefully selected set of comparison companies that failed to make the leap from good to great. What was different? Why did one set of companies become truly great performers while the other set remained only good? <br /><br />The Findings<br />The findings of the Good to Great study will surprise many readers and shed light on virtually every area of management strategy and practice. The findings include:<br />Level 5 Leaders: The research team was shocked to discover the type of leadership required to achieve greatness.<br /><br />The Hedgehog Concept (Simplicity within the Three Circles): To go from good to great requires transcending the curse of competence.<br /><br />A Culture of Discipline: When you combine a culture of discipline with an ethic of entrepreneurship, you get the magical alchemy of great results. Technology Accelerators: Good-to-great companies think differently about the role of technology.<br /><br />The Flywheel and the Doom Loop: Those who launch radical change programs and wrenching restructurings will almost certainly fail to make the leap.",
 						"authors": {
 							"author": {
@@ -4620,7 +4712,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/2826.James_C_Collins"
 								},
 								"average_rating": "4.06",
-								"ratings_count": "208850",
+								"ratings_count": "208855",
 								"text_reviews_count": "6404"
 							}
 						},
@@ -4693,7 +4785,7 @@
 						"publication_year": "2011",
 						"publication_month": "5",
 						"average_rating": "4.17",
-						"ratings_count": "273418",
+						"ratings_count": "273423",
 						"description": "In the ten years since its publication in 1988, Stephen Hawking's classic work has become a landmark volume in scientific writing, with more than nine million copies in forty languages sold worldwide. That edition was on the cutting edge of what was then known about the origins and nature of the universe. But the intervening years have seen extraordinary advances in the technology of observing both the micro- and the macrocosmic worlds. These observations have confirmed many of Professor Hawking's theoretical predictions in the first edition of his book, including the recent discoveries of the Cosmic Background Explorer satellite (COBE), which probed back in time to within 300,000 years of the universe's beginning and revealed wrinkles in the fabric of space-time that he had projected. Eager to bring to his original text the new knowledge revealed by these observations, as well as his own recent research, Professor Hawking has prepared a new introduction to the book, written an entirely new chapter on wormholes and time travel, and updated the chapters throughout.",
 						"authors": {
 							"author": {
@@ -4712,7 +4804,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/1401.Stephen_Hawking"
 								},
 								"average_rating": "4.15",
-								"ratings_count": "503068",
+								"ratings_count": "503076",
 								"text_reviews_count": "19604"
 							}
 						},
@@ -4877,7 +4969,7 @@
 						"publication_year": "2017",
 						"publication_month": "11",
 						"average_rating": "4.28",
-						"ratings_count": "31173",
+						"ratings_count": "31176",
 						"description": "<b>An updated edition of the blockbuster bestselling leadership book that took America and the world by storm, two U.S. Navy SEAL officers who led the most highly decorated special operations unit of the Iraq War demonstrate how to apply powerful leadership principles from the battlefield to business and life.</b><br /><br />Combat, the most intense and dynamic environment imaginable, teaches the toughest leadership lessons, with absolutely everything at stake. Jocko Willink and Leif Babin learned this reality first-hand on the most violent and dangerous battlefield in Iraq. As leaders of SEAL Team Three's Task Unit Bruiser, their mission was one many thought impossible: help U.S. forces secure Ramadi, a violent, insurgent-held city deemed \"all but lost.\" In gripping, firsthand accounts of heroism, tragic loss, and hard-won victories, they learned that leadership--at every level--is the most important factor in whether a team succeeds or fails.<br /><br />Willink and Babin returned home from deployment and instituted SEAL leadership training to pass on their harsh lessons learned in combat to help forge the next generation of SEAL leaders. After leaving the SEAL Teams, they launched a company, Echelon Front, to teach those same leadership principles to leaders in businesses, companies, and organizations across the civilian sector. Since that time, they have trained countless leaders and worked with hundreds of companies in virtually every industry across the U.S. and internationally, teaching them how to develop their own high-performance teams and most effectively lead those teams to dominate their battlefields.<br /><br />Since it's release in October 2015, <i>Extreme Ownership </i>has revolutionized leadership development and set a new standard for literature on the subject. Required reading for many of the most successful organizations, it has become an integral part of the official leadership training programs for scores of business teams, military units, and first responders. Detailing the mindset and principles that enable SEAL units to accomplish the most difficult combat missions, <i>Extreme Ownership</i> demonstrates how to apply them to any team or organization, in any leadership environment. A compelling narrative with powerful instruction and direct application, <i>Extreme Ownership</i> challenges leaders everywhere to fulfill their ultimate purpose: lead and win.",
 						"authors": {
 							"author": {
@@ -4896,8 +4988,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/10803973.Jocko_Willink"
 								},
 								"average_rating": "4.29",
-								"ratings_count": "45932",
-								"text_reviews_count": "3953"
+								"ratings_count": "45933",
+								"text_reviews_count": "3954"
 							}
 						},
 						"published": "2017",
@@ -4969,7 +5061,7 @@
 						"publication_year": "",
 						"publication_month": "",
 						"average_rating": "3.71",
-						"ratings_count": "18687",
+						"ratings_count": "18688",
 						"description": "The Meditations, one of the key texts of Western philosophy, is the most widely studied of all Descartes' writings. This authoritative translation by John Cottingham, taken from the much acclaimed three-volume Cambridge edition of the Philosophical Writings of Descartes, is based upon the best available texts and presents Descartes' central metaphysical writings in clear, readable modern English. As well as the complete text of the Meditations, the reader will find a thematic abridgement of the Objections and Replies (which were originally published with the Meditations) containing Descartes' replies to his critics. These extracts, specially selected for the present volume, indicate the main philosophical difficulties which occurred to Descartes' contemporaries and show how Descartes developed and clarified his arguments in response. This edition contains a new comprehensive introduction to Descartes' philosophy by John Cottingham and the classic introductory essay on the Meditations by Bernard Williams.",
 						"authors": {
 							"author": {
@@ -4988,7 +5080,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/36556.Ren_Descartes"
 								},
 								"average_rating": "3.72",
-								"ratings_count": "67984",
+								"ratings_count": "67986",
 								"text_reviews_count": "1798"
 							}
 						},
@@ -5061,7 +5153,7 @@
 						"publication_year": "2009",
 						"publication_month": "6",
 						"average_rating": "4.13",
-						"ratings_count": "93233",
+						"ratings_count": "93234",
 						"description": "Why do our headaches persist after taking a one-cent aspirin but disappear when we take a 50-cent aspirin?<br /><br />Why does recalling the Ten Commandments reduce our tendency to lie, even when we couldn't possibly be caught?<br /><br />Why do we splurge on a lavish meal but cut coupons to save twenty-five cents on a can of soup?<br /><br />Why do we go back for second helpings at the unlimited buffet, even when our stomachs are already full?<br /><br />And how did we ever start spending $4.15 on a cup of coffee when, just a few years ago, we used to pay less than a dollar?<br /><br />When it comes to making decisions in our lives, we think we're in control. We think we're making smart, rational choices. But are we?<br /><br />In a series of illuminating, often surprising experiments, MIT behavioral economist Dan Ariely refutes the common assumption that we behave in fundamentally rational ways. Blending everyday experience with groundbreaking research, Ariely explains how expectations, emotions, social norms, and other invisible, seemingly illogical forces skew our reasoning abilities.<br /><br />Not only do we make astonishingly simple mistakes every day, but we make the same \"types\" of mistakes, Ariely discovers. We consistently overpay, underestimate, and procrastinate. We fail to understand the profound effects of our emotions on what we want, and we overvalue what we already own. Yet these misguided behaviors are neither random nor senseless. They're systematic and predictable--making us \"predictably\" irrational.<br /><br />From drinking coffee to losing weight, from buying a car to choosing a romantic partner, Ariely explains how to break through these systematic patterns of thought to make better decisions. \"Predictably Irrational\" will change the way we interact with the world--one small decision at a time.",
 						"authors": {
 							"author": {
@@ -5080,7 +5172,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/788461.Dan_Ariely"
 								},
 								"average_rating": "4.06",
-								"ratings_count": "148334",
+								"ratings_count": "148337",
 								"text_reviews_count": "8284"
 							}
 						},
@@ -5241,7 +5333,7 @@
 						"publication_year": "2018",
 						"publication_month": "2",
 						"average_rating": "4.24",
-						"ratings_count": "16227",
+						"ratings_count": "16230",
 						"description": "If you think the world is coming to an end, think again: people are living longer, healthier, freer, and happier lives, and while our problems are formidable, the solutions lie in the Enlightenment ideal of using reason and science.<br /><br />Is the world really falling apart? Is the ideal of progress obsolete? In this elegant assessment of the human condition in the third millennium, cognitive scientist and public intellectual Steven Pinker urges us to step back from the gory headlines and prophecies of doom, which play to our psychological biases. Instead, follow the data: In seventy-five jaw-dropping graphs, Pinker shows that life, health, prosperity, safety, peace, knowledge, and happiness are on the rise, not just in the West, but worldwide. This progress is not the result of some cosmic force. It is a gift of the Enlightenment: the conviction that reason and science can enhance human flourishing.<br /><br />Far from being a naïve hope, the Enlightenment, we now know, has worked. But more than ever, it needs a vigorous defense. The Enlightenment project swims against currents of human nature–tribalism, authoritarianism, demonization, magical thinking–which demagogues are all too willing to exploit. Many commentators, committed to political, religious, or romantic ideologies, fight a rearguard action against it. The result is a corrosive fatalism and a willingness to wreck the precious institutions of liberal democracy and global cooperation.<br /><br />With intellectual depth and literary flair, Enlightenment Now makes the case for reason, science, and humanism: the ideals we need to confront our problems and continue our progress.",
 						"authors": {
 							"author": {
@@ -5260,7 +5352,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/3915.Steven_Pinker"
 								},
 								"average_rating": "4.04",
-								"ratings_count": "137739",
+								"ratings_count": "137744",
 								"text_reviews_count": "10316"
 							}
 						},
@@ -5333,7 +5425,7 @@
 						"publication_year": "2016",
 						"publication_month": "9",
 						"average_rating": "3.96",
-						"ratings_count": "426326",
+						"ratings_count": "426345",
 						"description": "<i>Alternate cover edition of ISBN 9780062457738</i><br /><br />In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be \"positive\" all the time so that we can truly become better, happier people.<br /><br />For decades, we’ve been told that positive thinking is the key to a happy, rich life. \"F**k positivity,\" Mark Manson says. \"Let’s be honest, shit is f**ked and we have to live with it.\" In his wildly popular Internet blog, Manson doesn’t sugarcoat or equivocate. He tells it like it is—a dose of raw, refreshing, honest truth that is sorely lacking today. <em>The Subtle Art of Not Giving a F**k</em> is his antidote to the coddling, let’s-all-feel-good mindset that has infected American society and spoiled a generation, rewarding them with gold medals just for showing up.<br /><br />Manson makes the argument, backed both by academic research and well-timed poop jokes, that improving our lives hinges not on our ability to turn lemons into lemonade, but on learning to stomach lemons better. Human beings are flawed and limited—\"not everybody can be extraordinary, there are winners and losers in society, and some of it is not fair or your fault.\" Manson advises us to get to know our limitations and accept them. Once we embrace our fears, faults, and uncertainties, once we stop running and avoiding and start confronting painful truths, we can begin to find the courage, perseverance, honesty, responsibility, curiosity, and forgiveness we seek.<br /><br />There are only so many things we can give a f**k about so we need to figure out which ones really matter, Manson makes clear. While money is nice, caring about what you do with your life is better, because true wealth is about experience. A much-needed grab-you-by-the-shoulders-and-look-you-in-the-eye moment of real-talk, filled with entertaining stories and profane, ruthless humor, <em>The Subtle Art of Not Giving a F**k</em> is a refreshing slap for a generation to help them lead contented, grounded lives.",
 						"authors": {
 							"author": {
@@ -5352,8 +5444,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/8529755.Mark_Manson"
 								},
 								"average_rating": "3.96",
-								"ratings_count": "461355",
-								"text_reviews_count": "31629"
+								"ratings_count": "461385",
+								"text_reviews_count": "31630"
 							}
 						},
 						"published": "2016",
@@ -5438,7 +5530,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/115943.Richard_Branson"
 								},
 								"average_rating": "3.96",
-								"ratings_count": "75776",
+								"ratings_count": "75779",
 								"text_reviews_count": "3194"
 							}
 						},
@@ -5840,7 +5932,7 @@
 						},
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "21679"
+							"__text": "21680"
 						},
 						"uri": "kca://book/amzn1.gr.book.v1.4aaEOknMj7166lgef5EmXw",
 						"title": "Sapiens: A Brief History of Humankind",
@@ -5857,7 +5949,7 @@
 						"publication_year": "2014",
 						"publication_month": "",
 						"average_rating": "4.43",
-						"ratings_count": "382897",
+						"ratings_count": "382925",
 						"description": "100,000 years ago, at least six human species inhabited the earth. Today there is just one. Us. Homo sapiens. <br /><br />How did our species succeed in the battle for dominance? Why did our foraging ancestors come together to create cities and kingdoms? How did we come to believe in gods, nations and human rights; to trust money, books and laws; and to be enslaved by bureaucracy, timetables and consumerism? And what will our world be like in the millennia to come? <br /><br />In <i>Sapiens</i>, Dr Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical – and sometimes devastating – breakthroughs of the Cognitive, Agricultural and Scientific Revolutions. Drawing on insights from biology, anthropology, paleontology and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Have we become happier as history has unfolded? Can we ever free our behaviour from the heritage of our ancestors? And what, if anything, can we do to influence the course of the centuries to come? <br /><br />Bold, wide-ranging and provocative, Sapiens challenges everything we thought we knew about being human: our thoughts, our actions, our power ... and our future.",
 						"authors": {
 							"author": {
@@ -5876,8 +5968,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/395812.Yuval_Noah_Harari"
 								},
 								"average_rating": "4.37",
-								"ratings_count": "562878",
-								"text_reviews_count": "42466"
+								"ratings_count": "562922",
+								"text_reviews_count": "42467"
 							}
 						},
 						"published": "2014",
@@ -5916,63 +6008,63 @@
 					"owned": "0"
 				},
 				{
-					"id": "2983878355",
+					"id": "2087492545",
 					"book": {
 						"id": {
 							"_type": "integer",
-							"__text": "21864597"
+							"__text": "20527133"
 						},
-						"isbn": "0989988015",
-						"isbn13": "9780989988018",
+						"isbn": "0199678111",
+						"isbn13": "9780199678112",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "1"
+							"__text": "996"
 						},
-						"uri": "kca://book/amzn1.gr.book.v1.lWNiOxGxI1yJRbMSOk3V3w",
-						"title": "Justification for Murder",
-						"title_without_series": "Justification for Murder",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403188559l/21864597._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403188559l/21864597._SY75_.jpg",
+						"uri": "kca://book/amzn1.gr.book.v1.j4Qbmz9lhehFMewG7H1Rog",
+						"title": "Superintelligence: Paths, Dangers, Strategies",
+						"title_without_series": "Superintelligence: Paths, Dangers, Strategies",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400884046l/20527133._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400884046l/20527133._SY75_.jpg",
 						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/21864597-justification-for-murder",
-						"num_pages": "404",
-						"format": "Paperback",
+						"link": "https://www.goodreads.com/book/show/20527133-superintelligence",
+						"num_pages": "328",
+						"format": "Hardcover",
 						"edition_information": "",
-						"publisher": "Paperlessreads",
-						"publication_day": "29",
+						"publisher": "Oxford University Press, USA",
+						"publication_day": "3",
 						"publication_year": "2014",
-						"publication_month": "3",
-						"average_rating": "3.96",
-						"ratings_count": "703",
-						"description": "How far would you go to get something you desperately need? Detective Darcy Lynch licks his wounds as a desk jockey after an undercover case gone bad. He's handed a hit-and-run that quickly reveals itself as a brazen attempted murder-exactly the kind of case he was trying to avoid. Why would anyone want Saffron Meadows dead? An unexpected desire to protect her forces Lynch to stick with the case. Meanwhile, seasoned Detective Erik Sorensen and his intern work a string of bizarre suicides with too much in common to be a mere coincidence. What could drive these people to carve their own flesh out? As mysterious murders and suspicious suicides stack up in Silicon Valley, Lynch and his colleagues must connect the dots between the cases before more people die and panic spreads. Could all this be part of a cover-up? Is this just a hit man crossing names off of a list, or has one Valley startup gone too far? Could there ever be a justification for murder? B.R.A.G.Medallion Honoree",
+						"publication_month": "9",
+						"average_rating": "3.87",
+						"ratings_count": "11768",
+						"description": "Superintelligence asks the questions: what happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life. <br /><br />The human brain has some capabilities that the brains of other animals lack. It is to these distinctive capabilities that our species owes its dominant position. If machine brains surpassed human brains in general intelligence, then this new superintelligence could become extremely powerful--possibly beyond our control. As the fate of the gorillas now depends more on humans than on the species itself, so would the fate of humankind depend on the actions of the machine superintelligence.<br /><br />But we have one advantage: we get to make the first move. Will it be possible to construct a seed Artificial Intelligence, to engineer initial conditions so as to make an intelligence explosion survivable? How could one achieve a controlled detonation?",
 						"authors": {
 							"author": {
-								"id": "7390354",
-								"name": "Elin Barnes",
+								"id": "608087",
+								"name": "Nick Bostrom",
 								"role": "",
 								"image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1401920344p5/7390354.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1408029377p5/608087.jpg"
 								},
 								"small_image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1401920344p2/7390354.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1408029377p2/608087.jpg"
 								},
 								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/7390354.Elin_Barnes"
+									"__cdata": "https://www.goodreads.com/author/show/608087.Nick_Bostrom"
 								},
-								"average_rating": "4.07",
-								"ratings_count": "1314",
-								"text_reviews_count": "136"
+								"average_rating": "3.90",
+								"ratings_count": "12961",
+								"text_reviews_count": "1260"
 							}
 						},
 						"published": "2014",
 						"work": {
-							"id": "26735289",
-							"uri": "kca://work/amzn1.gr.work.v1.ZvLph5bm5-AsbhmhnsJf3A"
+							"id": "37286000",
+							"uri": "kca://work/amzn1.gr.work.v1.OqtBfW6_Hc-tmeBDyOgIFA"
 						}
 					},
-					"rating": "5",
+					"rating": "4",
 					"votes": "0",
 					"spoiler_flag": "false",
 					"spoilers_state": "none",
@@ -5988,102 +6080,16 @@
 					"recommended_by": "",
 					"started_at": "",
 					"read_at": "",
-					"date_added": "Thu Sep 19 23:34:12 -0700 2019",
-					"date_updated": "Thu Sep 19 23:34:13 -0700 2019",
+					"date_added": "Wed Aug 09 11:20:07 -0700 2017",
+					"date_updated": "Wed Aug 09 11:20:07 -0700 2017",
 					"read_count": "1",
 					"body": "",
 					"comments_count": "0",
 					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2983878355"
+						"__cdata": "https://www.goodreads.com/review/show/2087492545"
 					},
 					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2983878355"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087506552",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "343"
-						},
-						"isbn": "0140120831",
-						"isbn13": "9780140120837",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "7637"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.mN3aPAkRnqYYqtSMISBHlw",
-						"title": "Perfume: The Story of a Murderer",
-						"title_without_series": "Perfume: The Story of a Murderer",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/343.Perfume",
-						"num_pages": "263",
-						"format": "Paperback",
-						"edition_information": "",
-						"publisher": "Penguin Books",
-						"publication_day": "",
-						"publication_year": "1987",
-						"publication_month": "",
-						"average_rating": "4.02",
-						"ratings_count": "298638",
-						"description": "An acclaimed bestseller and international sensation, Patrick Suskind's classic novel provokes a terrifying examination of what happens when one man's indulgence in his greatest passion—his sense of smell—leads to murder.<br /><br />In the slums of eighteenth-century France, the infant Jean-Baptiste Grenouille is born with one sublime gift—an absolute sense of smell. As a boy, he lives to decipher the odors of Paris, and apprentices himself to a prominent perfumer who teaches him the ancient art of mixing precious oils and herbs. But Grenouille's genius is such that he is not satisfied to stop there, and he becomes obsessed with capturing the smells of objects such as brass doorknobs and fresh-cut wood. Then one day he catches a hint of a scent that will drive him on an ever-more-terrifying quest to create the \"ultimate perfume\"—the scent of a beautiful young virgin. Told with dazzling narrative brilliance, <i>Perfume</i> is a hauntingly powerful tale of murder and sensual depravity.",
-						"authors": {
-							"author": {
-								"id": "39402",
-								"name": "Patrick Süskind",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1201117958p5/39402.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1201117958p2/39402.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/39402.Patrick_S_skind"
-								},
-								"average_rating": "4.00",
-								"ratings_count": "321483",
-								"text_reviews_count": "15843"
-							}
-						},
-						"published": "1987",
-						"work": {
-							"id": "2977727",
-							"uri": "kca://work/amzn1.gr.work.v1.0GBNmY2Ia-KBFQYNo_Ao9w"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:34:33 -0700 2017",
-					"date_updated": "Mon Aug 28 17:31:24 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087506552"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087506552"
+						"__cdata": "https://www.goodreads.com/review/show/2087492545"
 					},
 					"owned": "0"
 				},
@@ -6115,7 +6121,7 @@
 						"publication_year": "2011",
 						"publication_month": "9",
 						"average_rating": "4.09",
-						"ratings_count": "203149",
+						"ratings_count": "203154",
 						"description": "<b>Most startups fail. But many of those failures are preventable. The Lean Startup is a new approach being adopted across the globe, changing the way companies are built and new products are launched. <br /></b><br />Eric Ries defines a startup as <b>an organization dedicated to creating something new under conditions of extreme uncertainty</b>. This is just as true for one person in a garage or a group of seasoned professionals in a Fortune 500 boardroom. What they have in common is a mission to penetrate that fog of uncertainty to discover a successful path to a sustainable business.<br /><br /><br /><br />The Lean Startup approach fosters companies that are both more capital efficient and that leverage human creativity more effectively. Inspired by lessons from lean manufacturing, it relies on \"validated learning,\" rapid scientific experimentation, as well as a number of counter-intuitive practices that shorten product development cycles, measure actual progress without resorting to vanity metrics, and learn what customers really want. It enables a company to shift directions with agility, altering plans inch by inch, minute by minute.<br /><br />Rather than wasting time creating elaborate business plans, <i>The Lean Startup</i> offers entrepreneurs - in companies of all sizes - a way to test their vision continuously, to adapt and adjust before it's too late. Ries provides a scientific approach to creating and managing successful startups in a age when companies need to innovate more than ever.",
 						"authors": {
 							"author": {
@@ -6134,8 +6140,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/278960.Eric_Ries"
 								},
 								"average_rating": "4.09",
-								"ratings_count": "208152",
-								"text_reviews_count": "3148"
+								"ratings_count": "208159",
+								"text_reviews_count": "3149"
 							}
 						},
 						"published": "2011",
@@ -6170,6 +6176,92 @@
 					},
 					"link": {
 						"__cdata": "https://www.goodreads.com/review/show/2087489112"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087493736",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "10339170"
+						},
+						"isbn": "0470627603",
+						"isbn13": "9780470627600",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "1077"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.PrqUVoV8MF7t7j5813ieBA",
+						"title": "The 10x Rule: The Only Difference Between Success and Failure",
+						"title_without_series": "The 10x Rule: The Only Difference Between Success and Failure",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310779133l/10339170._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310779133l/10339170._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/10339170-the-10x-rule",
+						"num_pages": "240",
+						"format": "Hardcover",
+						"edition_information": "",
+						"publisher": "Wiley",
+						"publication_day": "26",
+						"publication_year": "2011",
+						"publication_month": "4",
+						"average_rating": "4.03",
+						"ratings_count": "12401",
+						"description": "<b>Achieve \"Massive Action\" results and accomplish your business dreams!</b> While most people operate with only three degrees of action-no action, retreat, or normal action-if you're after big goals, you don't want to settle for the ordinary. To reach the next level, you must understand the coveted 4th degree of action. This 4th degree, also known as the 10 X Rule, is that level of action that guarantees companies and individuals realize their goals and dreams.<br /><br /><i>The 10 X Rule</i> unveils the principle of \"Massive Action,\" allowing you to blast through business clichZs and risk-aversion while taking concrete steps to reach your dreams. It also demonstrates why people get stuck in the first three actions and how to move into making the 10X Rule a discipline. Find out exactly where to start, what to do, and how to follow up each action you take with more action to achieve Massive Action results.<br /><br />Learn the \"Estimation of Effort\" calculation to ensure you exceed your targets Make the Fourth Degree a way of life and defy mediocrity Discover the time management myth Get the exact reasons why people fail and others succeed Know the exact formula to solve problems Extreme success is by definition outside the realm of normal action. Instead of behaving like everybody else and settling for average results, take Massive Action with <i>The 10 X Rule</i>, remove luck and chance from your business equation, and lock in massive success.",
+						"authors": {
+							"author": {
+								"id": "1638887",
+								"name": "Grant Cardone",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1326447807p5/1638887.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1326447807p2/1638887.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/1638887.Grant_Cardone"
+								},
+								"average_rating": "4.09",
+								"ratings_count": "22948",
+								"text_reviews_count": "2264"
+							}
+						},
+						"published": "2011",
+						"work": {
+							"id": "15241850",
+							"uri": "kca://work/amzn1.gr.work.v1.NGivOiXzaSR1eujXHjD1FQ"
+						}
+					},
+					"rating": "3",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:21:20 -0700 2017",
+					"date_updated": "Wed Aug 09 11:21:20 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087493736"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087493736"
 					},
 					"owned": "0"
 				},
@@ -6220,8 +6312,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/600.Robert_T_Kiyosaki"
 								},
 								"average_rating": "4.05",
-								"ratings_count": "442481",
-								"text_reviews_count": "16788"
+								"ratings_count": "442495",
+								"text_reviews_count": "16789"
 							}
 						},
 						"published": "2012",
@@ -6260,182 +6352,6 @@
 					"owned": "0"
 				},
 				{
-					"id": "2087492743",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "14461754"
-						},
-						"isbn": "1591845734",
-						"isbn13": "9781591845737",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "119"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.N2S4g-JbiMFQsBpt8qqSxg",
-						"title": "Tap Dancing to Work: Warren Buffett on Practically Everything, 1966-2012",
-						"title_without_series": "Tap Dancing to Work: Warren Buffett on Practically Everything, 1966-2012",
-						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
-						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/14461754-tap-dancing-to-work",
-						"num_pages": "345",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "Portfolio",
-						"publication_day": "21",
-						"publication_year": "2012",
-						"publication_month": "11",
-						"average_rating": "3.96",
-						"ratings_count": "1884",
-						"description": "<b>Warren Buffett built Berkshire Hathaway into something remarkable— and <i>Fortune </i>journalist Carol Loomis had a front-row seat for it all.</b> When Carol Loomis first mentioned a little-known Omaha hedge fund manager in a 1966 <i>Fortune </i>article, she didn’t dream that Warren Buffett would one day be considered the world’s greatest investor—nor that she and Buffett would quickly become close personal friends. As Buf­fett’s fortune and reputation grew over time, Loomis used her unique insight into Buffett’s thinking to chronicle his work for <i>Fortune</i>, writ­ing and proposing scores of stories that tracked his many accomplishments—and also his occa­sional mistakes. Now Loomis has collected and updated the best Buffett articles <i>Fortune </i>published between 1966 and 2012, including thirteen cover stories and a dozen pieces authored by Buffett himself. Loomis has provided commentary about each major arti­cle that supplies context and her own informed point of view. Readers will gain fresh insights into Buffett’s investment strategies and his thinking on management, philanthropy, public policy, and even parenting. Some of the highlights include:<br />The 1966 A. W. Jones story in which <i>Fortune </i>first mentioned Buffett. The first piece Buffett wrote for the magazine, 1977’s “How Inf lation Swindles the Equity Investor.” Andrew Tobias’s 1983 article “Letters from Chairman Buffett,” the first review of his Berk­shire Hathaway shareholder letters. Buffett’s stunningly prescient 2003 piece about derivatives, “Avoiding a Mega-Catastrophe.” His unconventional thoughts on inheritance and philanthropy, including his intention to leave his kids “enough money so they would feel they could do anything, but not so much that they could do nothing.” Bill Gates’s 1996 article describing his early impressions of Buffett as they struck up their close friendship. Scores of Buffett books have been written, but none can claim this work’s combination of trust between two friends, the writer’s deep under­standing of Buffett’s world, and a very long-term perspective.",
-						"authors": {
-							"author": {
-								"id": "6047133",
-								"name": "Carol J. Loomis",
-								"role": "",
-								"image_url": {
-									"_nophoto": "true",
-									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png"
-								},
-								"small_image_url": {
-									"_nophoto": "true",
-									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/6047133.Carol_J_Loomis"
-								},
-								"average_rating": "3.96",
-								"ratings_count": "1884",
-								"text_reviews_count": "137"
-							}
-						},
-						"published": "2012",
-						"work": {
-							"id": "20104200",
-							"uri": "kca://work/amzn1.gr.work.v1.vJUsKq_xDakO07Der5434g"
-						}
-					},
-					"rating": "4",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:20:19 -0700 2017",
-					"date_updated": "Wed Aug 09 11:20:19 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492743"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492743"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087489393",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "30186948"
-						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": {
-							"_nil": "true"
-						},
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "2220"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.1kndsk926BrSY-nuOCdVsA",
-						"title": "Think and Grow Rich",
-						"title_without_series": "Think and Grow Rich",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/30186948-think-and-grow-rich",
-						"num_pages": "233",
-						"format": "Paperback",
-						"edition_information": "",
-						"publisher": "",
-						"publication_day": "",
-						"publication_year": "2016",
-						"publication_month": "4",
-						"average_rating": "4.18",
-						"ratings_count": "188401",
-						"description": "This is the original 1937 version of Napoleon Hill's Classic Book: <i>Think and Grow Rich</i>. To the greatest extent possible, the text and formatting have been kept exactly the same as in the original release with the exception of some minor formatting changes.",
-						"authors": {
-							"author": {
-								"id": "399",
-								"name": "Napoleon Hill",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1265381018p5/399.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1265381018p2/399.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/399.Napoleon_Hill"
-								},
-								"average_rating": "4.21",
-								"ratings_count": "227739",
-								"text_reviews_count": "8015"
-							}
-						},
-						"published": "2016",
-						"work": {
-							"id": "1199320",
-							"uri": "kca://work/amzn1.gr.work.v1.3ttXVgrGhe0eHHnR7nR1KA"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:16:26 -0700 2017",
-					"date_updated": "Wed Aug 09 11:16:26 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489393"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489393"
-					},
-					"owned": "0"
-				},
-				{
 					"id": "2087491321",
 					"book": {
 						"id": {
@@ -6463,7 +6379,7 @@
 						"publication_year": "2005",
 						"publication_month": "1",
 						"average_rating": "3.97",
-						"ratings_count": "297300",
+						"ratings_count": "297309",
 						"description": "Twenty-Five Hundred years ago, Sun Tzu wrote this classic book of military strategy based on Chinese warfare and military thought. Since that time, all levels of military have used the teaching on Sun Tzu to warfare and civilization have adapted these teachings for use in politics, business and everyday life. The Art of War is a book which should be used to gain advantage of opponents in the boardroom and battlefield alike.",
 						"authors": {
 							"author": {
@@ -6482,8 +6398,8 @@
 									"__cdata": "https://www.goodreads.com/author/show/1771.Sun_Tzu"
 								},
 								"average_rating": "3.97",
-								"ratings_count": "306659",
-								"text_reviews_count": "10069"
+								"ratings_count": "306665",
+								"text_reviews_count": "10070"
 							}
 						},
 						"published": "2005",
@@ -6518,524 +6434,6 @@
 					},
 					"link": {
 						"__cdata": "https://www.goodreads.com/review/show/2087491321"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087489245",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "36072"
-						},
-						"isbn": "0743269519",
-						"isbn13": "9780743269513",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "7144"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.M79gPzAQ243bV3_sicUUmw",
-						"title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
-						"title_without_series": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421842784l/36072._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421842784l/36072._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People",
-						"num_pages": "372",
-						"format": "Paperback",
-						"edition_information": "Anniversary Edition",
-						"publisher": "Free Press",
-						"publication_day": "9",
-						"publication_year": "2004",
-						"publication_month": "11",
-						"average_rating": "4.11",
-						"ratings_count": "474631",
-						"description": "When Stephen Covey first released The Seven Habits of Highly Effective People, the book became an instant rage because people suddenly got up and took notice that their lives were headed off in the wrong direction; and more than that, they realized that there were so many simple things they could do in order to navigate their life correctly. This book was wonderful education for people, education in how to live life effectively and get closer to the ideal of being a ‘success’ in life.<br /><br />But not everyone understands Stephen Covey’s model fully well, or maybe there are some people who haven’t read it yet. This is definitely true because we still see so much failure all around us. Now, I am not saying that by using Covey’s model, or anyone else’s model for that matter, you can become a sure-shot success, but at least we should have seen many more successes around us already judging by the number of copies the book has sold! So, where is the shortcoming?<br /><br />There are two main problems here, and we are talking only about the people who have read the book already. The first problem is that most people are too lazy to implement the ideals of Stephen Covey in their lives. They consider his masterpiece of a book as a mere coffee-table book or a book that you use for light reading when you are traveling and then forget all about it. They do not realize that this book contains life-changing information. Or, they take the information and do not make the effort to actually utilize it so that it becomes knowledge for them.<br /><br />The second problem is that a lot of people have a myopic view of Covey’s ideals. These are people who are impressed by the book already. If you ask them what the seven habits are, they can rattle them off end to end, but then they miss the larger picture. They do not understand that Covey was trying to tell more than he wrote in words. There are hidden implications in this book, yes, and a lot of people have just failed to see through them.<br /><br />That is what we are trying to do. We are trying to show you how Covey’s book, or rather, his model, was a complete model in itself. There was nothing amiss about it. If you implement it, there should be no aspect of your life that should go untouched. The only thing is that you have to understand these ideals and try to implement them in your life.<br /><br />But, before we barge into that area, it is extremely important to understand what these ideals are. What was the model that was propounded by Stephen Covey in his mega-famous book? We shall begin by trying to understand his model first, and then interpret it in such a way that it pertains to every aspect of our life",
-						"authors": {
-							"author": {
-								"id": "1538",
-								"name": "Stephen R. Covey",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1321654785p5/1538.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1321654785p2/1538.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/1538.Stephen_R_Covey"
-								},
-								"average_rating": "4.10",
-								"ratings_count": "617922",
-								"text_reviews_count": "15147"
-							}
-						},
-						"published": "2004",
-						"work": {
-							"id": "6277",
-							"uri": "kca://work/amzn1.gr.work.v1.518dJHE8UkyGcRtBbZxLDw"
-						}
-					},
-					"rating": "4",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:16:16 -0700 2017",
-					"date_updated": "Wed Aug 09 11:16:16 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489245"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489245"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087489782",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "18050143"
-						},
-						"isbn": "0804139296",
-						"isbn13": "9780804139298",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "4476"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.bld_eTIK_coG-6BTDY40nQ",
-						"title": "Zero to One: Notes on Startups, or How to Build the Future",
-						"title_without_series": "Zero to One: Notes on Startups, or How to Build the Future",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143._SX50_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/18050143-zero-to-one",
-						"num_pages": "195",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "Crown Business",
-						"publication_day": "16",
-						"publication_year": "2014",
-						"publication_month": "9",
-						"average_rating": "4.17",
-						"ratings_count": "153414",
-						"description": "If you want to build a better future, you must believe in secrets.<br /><br />The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things. <br /><br />Thiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself.<br /><br />Doing what someone else already knows how to do takes the world from 1 to n, adding more of something familiar. But when you do something new, you go from 0 to 1. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. Tomorrow’s champions will not win by competing ruthlessly in today’s marketplace. They will escape competition altogether, because their businesses will be unique. <br /><br />Zero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.",
-						"authors": {
-							"author": {
-								"id": "8474721",
-								"name": "Peter Thiel",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1532597901p5/8474721.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1532597901p2/8474721.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/8474721.Peter_Thiel"
-								},
-								"average_rating": "4.17",
-								"ratings_count": "153675",
-								"text_reviews_count": "5187"
-							}
-						},
-						"published": "2014",
-						"work": {
-							"id": "25332940",
-							"uri": "kca://work/amzn1.gr.work.v1.sQhybJF2mK1jdyDem-lPmg"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:16:54 -0700 2017",
-					"date_updated": "Wed Aug 09 11:16:54 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489782"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087489782"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2500774301",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "4865"
-						},
-						"isbn": {
-							"_nil": "true"
-						},
-						"isbn13": "9780671723651",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "10494"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.rKo_rjo_Jxag7Cf2yDnvzg",
-						"title": "How to Win Friends and Influence People",
-						"title_without_series": "How to Win Friends and Influence People",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People",
-						"num_pages": "288",
-						"format": "Paperback",
-						"edition_information": "Special Anniversary Edition",
-						"publisher": "Gallery Books",
-						"publication_day": "1",
-						"publication_year": "1998",
-						"publication_month": "10",
-						"average_rating": "4.20",
-						"ratings_count": "533109",
-						"description": "You can go after the job you want...and get it! You can take the job you have...and improve it! You can take any situation you're in...and make it work for you!<br /><br />Since its release in 1936, <i>How to Win Friends and Influence People</i> has sold more than 15 million copies. Dale Carnegie's first book is a timeless bestseller, packed with rock-solid advice that has carried thousands of now famous people up the ladder of success in their business and personal lives.<br /><br />As relevant as ever before, Dale Carnegie's principles endure, and will help you achieve your maximum potential in the complex and competitive modern age.<br /><br />Learn the six ways to make people like you, the twelve ways to win people to your way of thinking, and the nine ways to change people without arousing resentment.",
-						"authors": {
-							"author": {
-								"id": "3317",
-								"name": "Dale Carnegie",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1230226725p5/3317.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1230226725p2/3317.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/3317.Dale_Carnegie"
-								},
-								"average_rating": "4.18",
-								"ratings_count": "639653",
-								"text_reviews_count": "17883"
-							}
-						},
-						"published": "1998",
-						"work": {
-							"id": "2370171",
-							"uri": "kca://work/amzn1.gr.work.v1.ZfNbTlbgMFPj0utnEXyWKA"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Mon Aug 20 09:57:07 -0700 2018",
-					"date_updated": "Mon Aug 20 09:57:23 -0700 2018",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2500774301"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2500774301"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2236619396",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "18176747"
-						},
-						"isbn": "0062273205",
-						"isbn13": "9780062273208",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "2204"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.CSf1AlzG9n9OsClYOs4SMw",
-						"title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
-						"title_without_series": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386609333l/18176747._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386609333l/18176747._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things",
-						"num_pages": "304",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "Harper Business",
-						"publication_day": "4",
-						"publication_year": "2014",
-						"publication_month": "3",
-						"average_rating": "4.24",
-						"ratings_count": "47912",
-						"description": "A lot of people talk about how great it is to start a business, but only Ben Horowitz is brutally honest about how hard it is to run one.<br /><br />In <em>The Hard Thing About Hard Things</em>, Ben Horowitz, cofounder of Andreessen Horowitz and one of Silicon Valley's most respected and experienced entrepreneurs, draws on his own story of founding, running, selling, buying, managing, and investing in technology companies to offer essential advice and practical wisdom for navigating the toughest problems business schools don't cover. His blog has garnered a devoted following of millions of readers who have come to rely on him to help them run their businesses. A lifelong rap fan, Horowitz amplifies business lessons with lyrics from his favorite songs and tells it straight about everything from firing friends to poaching competitors, from cultivating and sustaining a CEO mentality to knowing the right time to cash in.<br /><br />His advice is grounded in anecdotes from his own hard-earned rise—from cofounding the early cloud service provider Loudcloud to building the phenomenally successful Andreessen Horowitz venture capital firm, both with fellow tech superstar Marc Andreessen (inventor of Mosaic, the Internet's first popular Web browser). This is no polished victory lap; he analyzes issues with no easy answers through his trials, including<br /><br /><br />demoting (or firing) a loyal friend;<br />whether you should incorporate titles and promotions, and how to handle them;<br />if it's OK to hire people from your friend's company;<br />how to manage your own psychology, while the whole company is relying on you;<br />what to do when smart people are bad employees;<br />why Andreessen Horowitz prefers founder CEOs, and how to become one;<br />whether you should sell your company, and how to do it.<br />Filled with Horowitz's trademark humor and straight talk, and drawing from his personal and often humbling experiences, <em>The Hard Thing About Hard Things</em> is invaluable for veteran entrepreneurs as well as those aspiring to their own new ventures.",
-						"authors": {
-							"author": {
-								"id": "7155094",
-								"name": "Ben Horowitz",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1389896445p5/7155094.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1389896445p2/7155094.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/7155094.Ben_Horowitz"
-								},
-								"average_rating": "4.23",
-								"ratings_count": "50262",
-								"text_reviews_count": "2727"
-							}
-						},
-						"published": "2014",
-						"work": {
-							"id": "25548865",
-							"uri": "kca://work/amzn1.gr.work.v1.GwNwwb1SGJ9BhZRGl2JdIg"
-						}
-					},
-					"rating": "4",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Mon Jan 01 12:08:37 -0800 2018",
-					"date_updated": "Mon Jan 22 23:13:40 -0800 2018",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2236619396"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2236619396"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087491147",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "25541028"
-						},
-						"isbn": "0062301233",
-						"isbn13": "9780062301239",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "5979"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.d52utOGsc04TWSnQmaVWcw",
-						"title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
-						"title_without_series": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/25541028-elon-musk",
-						"num_pages": "400",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "Ecco",
-						"publication_day": "19",
-						"publication_year": "2015",
-						"publication_month": "5",
-						"average_rating": "4.23",
-						"ratings_count": "198342",
-						"description": "Elon Musk, the entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, sold one of his internet companies, PayPal, for $1.5 billion. Ashlee Vance captures the full spectacle and arc of the genius's life and work, from his tumultuous upbringing in South Africa and flight to the United States to his dramatic technical innovations and entrepreneurial pursuits. Vance uses Musk's story to explore one of the pressing questions of our age: can the nation of inventors and creators who led the modern world for a century still compete in an age of fierce global competition? He argues that Musk is an amalgam of legendary inventors and industrialists including Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs. More than any other entrepreneur today, Musk has dedicated his energies and his own vast fortune to inventing a future that is as rich and far-reaching as the visionaries of the golden age of science-fiction fantasy",
-						"authors": {
-							"author": {
-								"id": "761595",
-								"name": "Ashlee Vance",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1486997562p5/761595.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1486997562p2/761595.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/761595.Ashlee_Vance"
-								},
-								"average_rating": "4.23",
-								"ratings_count": "199103",
-								"text_reviews_count": "8488"
-							}
-						},
-						"published": "2015",
-						"work": {
-							"id": "41987016",
-							"uri": "kca://work/amzn1.gr.work.v1.u0SRWPh5pMbDRPZwUX1ktw"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:18:36 -0700 2017",
-					"date_updated": "Thu Jan 11 08:33:07 -0800 2018",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087491147"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087491147"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087492121",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "95887"
-						},
-						"isbn": "1576754227",
-						"isbn13": "9781576754221",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "2322"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.298at6Wytj5Su9FNHgdsnA",
-						"title": "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
-						"title_without_series": "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854785l/95887._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854785l/95887._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/95887.Eat_That_Frog_",
-						"num_pages": "128",
-						"format": "Paperback",
-						"edition_information": "Second Edition",
-						"publisher": "Berrett-Koehler Publishers",
-						"publication_day": "1",
-						"publication_year": "2007",
-						"publication_month": "1",
-						"average_rating": "3.87",
-						"ratings_count": "41489",
-						"description": "<div>The legendary <em>Eat That Frog!</em> (more than 450,000 copies sold and translated into 23 languages) provides the 21 most effective methods for conquering procrastination and accomplishing more. This new edition is revised and updated throughout, and includes brand new information on how to keep technology from dominating our time.</div>",
-						"authors": {
-							"author": {
-								"id": "22033",
-								"name": "Brian Tracy",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1258058862p5/22033.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1258058862p2/22033.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/22033.Brian_Tracy"
-								},
-								"average_rating": "4.00",
-								"ratings_count": "95449",
-								"text_reviews_count": "7360"
-							}
-						},
-						"published": "2007",
-						"work": {
-							"id": "2203492",
-							"uri": "kca://work/amzn1.gr.work.v1.JGzQD_KZdB5xdWe8R6Fd9A"
-						}
-					},
-					"rating": "5",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:19:43 -0700 2017",
-					"date_updated": "Wed Aug 09 11:19:43 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492121"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492121"
 					},
 					"owned": "0"
 				},
@@ -7126,6 +6524,786 @@
 					"owned": "0"
 				},
 				{
+					"id": "2087506552",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "343"
+						},
+						"isbn": "0140120831",
+						"isbn13": "9780140120837",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "7637"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.mN3aPAkRnqYYqtSMISBHlw",
+						"title": "Perfume: The Story of a Murderer",
+						"title_without_series": "Perfume: The Story of a Murderer",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/343.Perfume",
+						"num_pages": "263",
+						"format": "Paperback",
+						"edition_information": "",
+						"publisher": "Penguin Books",
+						"publication_day": "",
+						"publication_year": "1987",
+						"publication_month": "",
+						"average_rating": "4.02",
+						"ratings_count": "298639",
+						"description": "An acclaimed bestseller and international sensation, Patrick Suskind's classic novel provokes a terrifying examination of what happens when one man's indulgence in his greatest passion—his sense of smell—leads to murder.<br /><br />In the slums of eighteenth-century France, the infant Jean-Baptiste Grenouille is born with one sublime gift—an absolute sense of smell. As a boy, he lives to decipher the odors of Paris, and apprentices himself to a prominent perfumer who teaches him the ancient art of mixing precious oils and herbs. But Grenouille's genius is such that he is not satisfied to stop there, and he becomes obsessed with capturing the smells of objects such as brass doorknobs and fresh-cut wood. Then one day he catches a hint of a scent that will drive him on an ever-more-terrifying quest to create the \"ultimate perfume\"—the scent of a beautiful young virgin. Told with dazzling narrative brilliance, <i>Perfume</i> is a hauntingly powerful tale of murder and sensual depravity.",
+						"authors": {
+							"author": {
+								"id": "39402",
+								"name": "Patrick Süskind",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1201117958p5/39402.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1201117958p2/39402.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/39402.Patrick_S_skind"
+								},
+								"average_rating": "4.00",
+								"ratings_count": "321484",
+								"text_reviews_count": "15843"
+							}
+						},
+						"published": "1987",
+						"work": {
+							"id": "2977727",
+							"uri": "kca://work/amzn1.gr.work.v1.0GBNmY2Ia-KBFQYNo_Ao9w"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:34:33 -0700 2017",
+					"date_updated": "Mon Aug 28 17:31:24 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087506552"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087506552"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087489245",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "36072"
+						},
+						"isbn": "0743269519",
+						"isbn13": "9780743269513",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "7145"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.M79gPzAQ243bV3_sicUUmw",
+						"title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+						"title_without_series": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421842784l/36072._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421842784l/36072._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People",
+						"num_pages": "372",
+						"format": "Paperback",
+						"edition_information": "Anniversary Edition",
+						"publisher": "Free Press",
+						"publication_day": "9",
+						"publication_year": "2004",
+						"publication_month": "11",
+						"average_rating": "4.11",
+						"ratings_count": "474648",
+						"description": "When Stephen Covey first released The Seven Habits of Highly Effective People, the book became an instant rage because people suddenly got up and took notice that their lives were headed off in the wrong direction; and more than that, they realized that there were so many simple things they could do in order to navigate their life correctly. This book was wonderful education for people, education in how to live life effectively and get closer to the ideal of being a ‘success’ in life.<br /><br />But not everyone understands Stephen Covey’s model fully well, or maybe there are some people who haven’t read it yet. This is definitely true because we still see so much failure all around us. Now, I am not saying that by using Covey’s model, or anyone else’s model for that matter, you can become a sure-shot success, but at least we should have seen many more successes around us already judging by the number of copies the book has sold! So, where is the shortcoming?<br /><br />There are two main problems here, and we are talking only about the people who have read the book already. The first problem is that most people are too lazy to implement the ideals of Stephen Covey in their lives. They consider his masterpiece of a book as a mere coffee-table book or a book that you use for light reading when you are traveling and then forget all about it. They do not realize that this book contains life-changing information. Or, they take the information and do not make the effort to actually utilize it so that it becomes knowledge for them.<br /><br />The second problem is that a lot of people have a myopic view of Covey’s ideals. These are people who are impressed by the book already. If you ask them what the seven habits are, they can rattle them off end to end, but then they miss the larger picture. They do not understand that Covey was trying to tell more than he wrote in words. There are hidden implications in this book, yes, and a lot of people have just failed to see through them.<br /><br />That is what we are trying to do. We are trying to show you how Covey’s book, or rather, his model, was a complete model in itself. There was nothing amiss about it. If you implement it, there should be no aspect of your life that should go untouched. The only thing is that you have to understand these ideals and try to implement them in your life.<br /><br />But, before we barge into that area, it is extremely important to understand what these ideals are. What was the model that was propounded by Stephen Covey in his mega-famous book? We shall begin by trying to understand his model first, and then interpret it in such a way that it pertains to every aspect of our life",
+						"authors": {
+							"author": {
+								"id": "1538",
+								"name": "Stephen R. Covey",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1321654785p5/1538.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1321654785p2/1538.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/1538.Stephen_R_Covey"
+								},
+								"average_rating": "4.10",
+								"ratings_count": "617939",
+								"text_reviews_count": "15148"
+							}
+						},
+						"published": "2004",
+						"work": {
+							"id": "6277",
+							"uri": "kca://work/amzn1.gr.work.v1.518dJHE8UkyGcRtBbZxLDw"
+						}
+					},
+					"rating": "4",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:16:16 -0700 2017",
+					"date_updated": "Wed Aug 09 11:16:16 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087489245"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087489245"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087492743",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "14461754"
+						},
+						"isbn": "1591845734",
+						"isbn13": "9781591845737",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "119"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.N2S4g-JbiMFQsBpt8qqSxg",
+						"title": "Tap Dancing to Work: Warren Buffett on Practically Everything, 1966-2012",
+						"title_without_series": "Tap Dancing to Work: Warren Buffett on Practically Everything, 1966-2012",
+						"image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+						"small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/14461754-tap-dancing-to-work",
+						"num_pages": "345",
+						"format": "Hardcover",
+						"edition_information": "",
+						"publisher": "Portfolio",
+						"publication_day": "21",
+						"publication_year": "2012",
+						"publication_month": "11",
+						"average_rating": "3.96",
+						"ratings_count": "1884",
+						"description": "<b>Warren Buffett built Berkshire Hathaway into something remarkable— and <i>Fortune </i>journalist Carol Loomis had a front-row seat for it all.</b> When Carol Loomis first mentioned a little-known Omaha hedge fund manager in a 1966 <i>Fortune </i>article, she didn’t dream that Warren Buffett would one day be considered the world’s greatest investor—nor that she and Buffett would quickly become close personal friends. As Buf­fett’s fortune and reputation grew over time, Loomis used her unique insight into Buffett’s thinking to chronicle his work for <i>Fortune</i>, writ­ing and proposing scores of stories that tracked his many accomplishments—and also his occa­sional mistakes. Now Loomis has collected and updated the best Buffett articles <i>Fortune </i>published between 1966 and 2012, including thirteen cover stories and a dozen pieces authored by Buffett himself. Loomis has provided commentary about each major arti­cle that supplies context and her own informed point of view. Readers will gain fresh insights into Buffett’s investment strategies and his thinking on management, philanthropy, public policy, and even parenting. Some of the highlights include:<br />The 1966 A. W. Jones story in which <i>Fortune </i>first mentioned Buffett. The first piece Buffett wrote for the magazine, 1977’s “How Inf lation Swindles the Equity Investor.” Andrew Tobias’s 1983 article “Letters from Chairman Buffett,” the first review of his Berk­shire Hathaway shareholder letters. Buffett’s stunningly prescient 2003 piece about derivatives, “Avoiding a Mega-Catastrophe.” His unconventional thoughts on inheritance and philanthropy, including his intention to leave his kids “enough money so they would feel they could do anything, but not so much that they could do nothing.” Bill Gates’s 1996 article describing his early impressions of Buffett as they struck up their close friendship. Scores of Buffett books have been written, but none can claim this work’s combination of trust between two friends, the writer’s deep under­standing of Buffett’s world, and a very long-term perspective.",
+						"authors": {
+							"author": {
+								"id": "6047133",
+								"name": "Carol J. Loomis",
+								"role": "",
+								"image_url": {
+									"_nophoto": "true",
+									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png"
+								},
+								"small_image_url": {
+									"_nophoto": "true",
+									"__cdata": "https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/6047133.Carol_J_Loomis"
+								},
+								"average_rating": "3.96",
+								"ratings_count": "1884",
+								"text_reviews_count": "137"
+							}
+						},
+						"published": "2012",
+						"work": {
+							"id": "20104200",
+							"uri": "kca://work/amzn1.gr.work.v1.vJUsKq_xDakO07Der5434g"
+						}
+					},
+					"rating": "4",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:20:19 -0700 2017",
+					"date_updated": "Wed Aug 09 11:20:19 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087492743"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087492743"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2236619396",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "18176747"
+						},
+						"isbn": "0062273205",
+						"isbn13": "9780062273208",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "2204"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.CSf1AlzG9n9OsClYOs4SMw",
+						"title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+						"title_without_series": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386609333l/18176747._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386609333l/18176747._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things",
+						"num_pages": "304",
+						"format": "Hardcover",
+						"edition_information": "",
+						"publisher": "Harper Business",
+						"publication_day": "4",
+						"publication_year": "2014",
+						"publication_month": "3",
+						"average_rating": "4.24",
+						"ratings_count": "47913",
+						"description": "A lot of people talk about how great it is to start a business, but only Ben Horowitz is brutally honest about how hard it is to run one.<br /><br />In <em>The Hard Thing About Hard Things</em>, Ben Horowitz, cofounder of Andreessen Horowitz and one of Silicon Valley's most respected and experienced entrepreneurs, draws on his own story of founding, running, selling, buying, managing, and investing in technology companies to offer essential advice and practical wisdom for navigating the toughest problems business schools don't cover. His blog has garnered a devoted following of millions of readers who have come to rely on him to help them run their businesses. A lifelong rap fan, Horowitz amplifies business lessons with lyrics from his favorite songs and tells it straight about everything from firing friends to poaching competitors, from cultivating and sustaining a CEO mentality to knowing the right time to cash in.<br /><br />His advice is grounded in anecdotes from his own hard-earned rise—from cofounding the early cloud service provider Loudcloud to building the phenomenally successful Andreessen Horowitz venture capital firm, both with fellow tech superstar Marc Andreessen (inventor of Mosaic, the Internet's first popular Web browser). This is no polished victory lap; he analyzes issues with no easy answers through his trials, including<br /><br /><br />demoting (or firing) a loyal friend;<br />whether you should incorporate titles and promotions, and how to handle them;<br />if it's OK to hire people from your friend's company;<br />how to manage your own psychology, while the whole company is relying on you;<br />what to do when smart people are bad employees;<br />why Andreessen Horowitz prefers founder CEOs, and how to become one;<br />whether you should sell your company, and how to do it.<br />Filled with Horowitz's trademark humor and straight talk, and drawing from his personal and often humbling experiences, <em>The Hard Thing About Hard Things</em> is invaluable for veteran entrepreneurs as well as those aspiring to their own new ventures.",
+						"authors": {
+							"author": {
+								"id": "7155094",
+								"name": "Ben Horowitz",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1389896445p5/7155094.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1389896445p2/7155094.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/7155094.Ben_Horowitz"
+								},
+								"average_rating": "4.23",
+								"ratings_count": "50264",
+								"text_reviews_count": "2727"
+							}
+						},
+						"published": "2014",
+						"work": {
+							"id": "25548865",
+							"uri": "kca://work/amzn1.gr.work.v1.GwNwwb1SGJ9BhZRGl2JdIg"
+						}
+					},
+					"rating": "4",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Mon Jan 01 12:08:37 -0800 2018",
+					"date_updated": "Mon Jan 22 23:13:40 -0800 2018",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2236619396"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2236619396"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087491147",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "25541028"
+						},
+						"isbn": "0062301233",
+						"isbn13": "9780062301239",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "5979"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.d52utOGsc04TWSnQmaVWcw",
+						"title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+						"title_without_series": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518291452l/25541028._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/25541028-elon-musk",
+						"num_pages": "400",
+						"format": "Hardcover",
+						"edition_information": "",
+						"publisher": "Ecco",
+						"publication_day": "19",
+						"publication_year": "2015",
+						"publication_month": "5",
+						"average_rating": "4.23",
+						"ratings_count": "198356",
+						"description": "Elon Musk, the entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, sold one of his internet companies, PayPal, for $1.5 billion. Ashlee Vance captures the full spectacle and arc of the genius's life and work, from his tumultuous upbringing in South Africa and flight to the United States to his dramatic technical innovations and entrepreneurial pursuits. Vance uses Musk's story to explore one of the pressing questions of our age: can the nation of inventors and creators who led the modern world for a century still compete in an age of fierce global competition? He argues that Musk is an amalgam of legendary inventors and industrialists including Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs. More than any other entrepreneur today, Musk has dedicated his energies and his own vast fortune to inventing a future that is as rich and far-reaching as the visionaries of the golden age of science-fiction fantasy",
+						"authors": {
+							"author": {
+								"id": "761595",
+								"name": "Ashlee Vance",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1486997562p5/761595.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1486997562p2/761595.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/761595.Ashlee_Vance"
+								},
+								"average_rating": "4.23",
+								"ratings_count": "199113",
+								"text_reviews_count": "8488"
+							}
+						},
+						"published": "2015",
+						"work": {
+							"id": "41987016",
+							"uri": "kca://work/amzn1.gr.work.v1.u0SRWPh5pMbDRPZwUX1ktw"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:18:36 -0700 2017",
+					"date_updated": "Thu Jan 11 08:33:07 -0800 2018",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087491147"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087491147"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2983878355",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "21864597"
+						},
+						"isbn": "0989988015",
+						"isbn13": "9780989988018",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "1"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.lWNiOxGxI1yJRbMSOk3V3w",
+						"title": "Justification for Murder",
+						"title_without_series": "Justification for Murder",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403188559l/21864597._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403188559l/21864597._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/21864597-justification-for-murder",
+						"num_pages": "404",
+						"format": "Paperback",
+						"edition_information": "",
+						"publisher": "Paperlessreads",
+						"publication_day": "29",
+						"publication_year": "2014",
+						"publication_month": "3",
+						"average_rating": "3.96",
+						"ratings_count": "703",
+						"description": "How far would you go to get something you desperately need? Detective Darcy Lynch licks his wounds as a desk jockey after an undercover case gone bad. He's handed a hit-and-run that quickly reveals itself as a brazen attempted murder-exactly the kind of case he was trying to avoid. Why would anyone want Saffron Meadows dead? An unexpected desire to protect her forces Lynch to stick with the case. Meanwhile, seasoned Detective Erik Sorensen and his intern work a string of bizarre suicides with too much in common to be a mere coincidence. What could drive these people to carve their own flesh out? As mysterious murders and suspicious suicides stack up in Silicon Valley, Lynch and his colleagues must connect the dots between the cases before more people die and panic spreads. Could all this be part of a cover-up? Is this just a hit man crossing names off of a list, or has one Valley startup gone too far? Could there ever be a justification for murder? B.R.A.G.Medallion Honoree",
+						"authors": {
+							"author": {
+								"id": "7390354",
+								"name": "Elin Barnes",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1401920344p5/7390354.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1401920344p2/7390354.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/7390354.Elin_Barnes"
+								},
+								"average_rating": "4.07",
+								"ratings_count": "1314",
+								"text_reviews_count": "136"
+							}
+						},
+						"published": "2014",
+						"work": {
+							"id": "26735289",
+							"uri": "kca://work/amzn1.gr.work.v1.ZvLph5bm5-AsbhmhnsJf3A"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Thu Sep 19 23:34:12 -0700 2019",
+					"date_updated": "Thu Sep 19 23:34:13 -0700 2019",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2983878355"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2983878355"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2500774301",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "4865"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": "9780671723651",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "10494"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.rKo_rjo_Jxag7Cf2yDnvzg",
+						"title": "How to Win Friends and Influence People",
+						"title_without_series": "How to Win Friends and Influence People",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People",
+						"num_pages": "288",
+						"format": "Paperback",
+						"edition_information": "Special Anniversary Edition",
+						"publisher": "Gallery Books",
+						"publication_day": "1",
+						"publication_year": "1998",
+						"publication_month": "10",
+						"average_rating": "4.20",
+						"ratings_count": "533127",
+						"description": "You can go after the job you want...and get it! You can take the job you have...and improve it! You can take any situation you're in...and make it work for you!<br /><br />Since its release in 1936, <i>How to Win Friends and Influence People</i> has sold more than 15 million copies. Dale Carnegie's first book is a timeless bestseller, packed with rock-solid advice that has carried thousands of now famous people up the ladder of success in their business and personal lives.<br /><br />As relevant as ever before, Dale Carnegie's principles endure, and will help you achieve your maximum potential in the complex and competitive modern age.<br /><br />Learn the six ways to make people like you, the twelve ways to win people to your way of thinking, and the nine ways to change people without arousing resentment.",
+						"authors": {
+							"author": {
+								"id": "3317",
+								"name": "Dale Carnegie",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1230226725p5/3317.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1230226725p2/3317.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/3317.Dale_Carnegie"
+								},
+								"average_rating": "4.18",
+								"ratings_count": "639673",
+								"text_reviews_count": "17883"
+							}
+						},
+						"published": "1998",
+						"work": {
+							"id": "2370171",
+							"uri": "kca://work/amzn1.gr.work.v1.ZfNbTlbgMFPj0utnEXyWKA"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Mon Aug 20 09:57:07 -0700 2018",
+					"date_updated": "Mon Aug 20 09:57:23 -0700 2018",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2500774301"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2500774301"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087492121",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "95887"
+						},
+						"isbn": "1576754227",
+						"isbn13": "9781576754221",
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "2322"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.298at6Wytj5Su9FNHgdsnA",
+						"title": "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
+						"title_without_series": "Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854785l/95887._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854785l/95887._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/95887.Eat_That_Frog_",
+						"num_pages": "128",
+						"format": "Paperback",
+						"edition_information": "Second Edition",
+						"publisher": "Berrett-Koehler Publishers",
+						"publication_day": "1",
+						"publication_year": "2007",
+						"publication_month": "1",
+						"average_rating": "3.87",
+						"ratings_count": "41489",
+						"description": "<div>The legendary <em>Eat That Frog!</em> (more than 450,000 copies sold and translated into 23 languages) provides the 21 most effective methods for conquering procrastination and accomplishing more. This new edition is revised and updated throughout, and includes brand new information on how to keep technology from dominating our time.</div>",
+						"authors": {
+							"author": {
+								"id": "22033",
+								"name": "Brian Tracy",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1258058862p5/22033.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1258058862p2/22033.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/22033.Brian_Tracy"
+								},
+								"average_rating": "4.00",
+								"ratings_count": "95450",
+								"text_reviews_count": "7360"
+							}
+						},
+						"published": "2007",
+						"work": {
+							"id": "2203492",
+							"uri": "kca://work/amzn1.gr.work.v1.JGzQD_KZdB5xdWe8R6Fd9A"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:19:43 -0700 2017",
+					"date_updated": "Wed Aug 09 11:19:43 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087492121"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087492121"
+					},
+					"owned": "0"
+				},
+				{
+					"id": "2087489393",
+					"book": {
+						"id": {
+							"_type": "integer",
+							"__text": "30186948"
+						},
+						"isbn": {
+							"_nil": "true"
+						},
+						"isbn13": {
+							"_nil": "true"
+						},
+						"text_reviews_count": {
+							"_type": "integer",
+							"__text": "2220"
+						},
+						"uri": "kca://book/amzn1.gr.book.v1.1kndsk926BrSY-nuOCdVsA",
+						"title": "Think and Grow Rich",
+						"title_without_series": "Think and Grow Rich",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SY75_.jpg",
+						"large_image_url": "",
+						"link": "https://www.goodreads.com/book/show/30186948-think-and-grow-rich",
+						"num_pages": "233",
+						"format": "Paperback",
+						"edition_information": "",
+						"publisher": "",
+						"publication_day": "",
+						"publication_year": "2016",
+						"publication_month": "4",
+						"average_rating": "4.18",
+						"ratings_count": "188410",
+						"description": "This is the original 1937 version of Napoleon Hill's Classic Book: <i>Think and Grow Rich</i>. To the greatest extent possible, the text and formatting have been kept exactly the same as in the original release with the exception of some minor formatting changes.",
+						"authors": {
+							"author": {
+								"id": "399",
+								"name": "Napoleon Hill",
+								"role": "",
+								"image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1265381018p5/399.jpg"
+								},
+								"small_image_url": {
+									"_nophoto": "false",
+									"__cdata": "https://images.gr-assets.com/authors/1265381018p2/399.jpg"
+								},
+								"link": {
+									"__cdata": "https://www.goodreads.com/author/show/399.Napoleon_Hill"
+								},
+								"average_rating": "4.21",
+								"ratings_count": "227748",
+								"text_reviews_count": "8015"
+							}
+						},
+						"published": "2016",
+						"work": {
+							"id": "1199320",
+							"uri": "kca://work/amzn1.gr.work.v1.3ttXVgrGhe0eHHnR7nR1KA"
+						}
+					},
+					"rating": "5",
+					"votes": "0",
+					"spoiler_flag": "false",
+					"spoilers_state": "none",
+					"shelves": {
+						"shelf": {
+							"_name": "read",
+							"_exclusive": "true",
+							"_id": "229319165",
+							"_review_shelf_id": ""
+						}
+					},
+					"recommended_for": "",
+					"recommended_by": "",
+					"started_at": "",
+					"read_at": "",
+					"date_added": "Wed Aug 09 11:16:26 -0700 2017",
+					"date_updated": "Wed Aug 09 11:16:26 -0700 2017",
+					"read_count": "1",
+					"body": "",
+					"comments_count": "0",
+					"url": {
+						"__cdata": "https://www.goodreads.com/review/show/2087489393"
+					},
+					"link": {
+						"__cdata": "https://www.goodreads.com/review/show/2087489393"
+					},
+					"owned": "0"
+				},
+				{
 					"id": "2087495414",
 					"book": {
 						"id": {
@@ -7153,7 +7331,7 @@
 						"publication_year": "2007",
 						"publication_month": "4",
 						"average_rating": "4.12",
-						"ratings_count": "120178",
+						"ratings_count": "120183",
 						"description": "Einstein was a rebel and nonconformist from boyhood days, and these character traits drove both his life and his science. In this narrative, Walter Isaacson explains how his mind worked and the mysteries of the universe that he discovered.",
 						"authors": {
 							"author": {
@@ -7172,7 +7350,7 @@
 									"__cdata": "https://www.goodreads.com/author/show/7111.Walter_Isaacson"
 								},
 								"average_rating": "4.12",
-								"ratings_count": "1216798",
+								"ratings_count": "1216830",
 								"text_reviews_count": "29060"
 							}
 						},
@@ -7212,63 +7390,63 @@
 					"owned": "0"
 				},
 				{
-					"id": "2087492545",
+					"id": "2087489782",
 					"book": {
 						"id": {
 							"_type": "integer",
-							"__text": "20527133"
+							"__text": "18050143"
 						},
-						"isbn": "0199678111",
-						"isbn13": "9780199678112",
+						"isbn": "0804139296",
+						"isbn13": "9780804139298",
 						"text_reviews_count": {
 							"_type": "integer",
-							"__text": "996"
+							"__text": "4476"
 						},
-						"uri": "kca://book/amzn1.gr.book.v1.j4Qbmz9lhehFMewG7H1Rog",
-						"title": "Superintelligence: Paths, Dangers, Strategies",
-						"title_without_series": "Superintelligence: Paths, Dangers, Strategies",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400884046l/20527133._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400884046l/20527133._SY75_.jpg",
+						"uri": "kca://book/amzn1.gr.book.v1.bld_eTIK_coG-6BTDY40nQ",
+						"title": "Zero to One: Notes on Startups, or How to Build the Future",
+						"title_without_series": "Zero to One: Notes on Startups, or How to Build the Future",
+						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143._SX98_.jpg",
+						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143._SX50_.jpg",
 						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/20527133-superintelligence",
-						"num_pages": "328",
+						"link": "https://www.goodreads.com/book/show/18050143-zero-to-one",
+						"num_pages": "195",
 						"format": "Hardcover",
 						"edition_information": "",
-						"publisher": "Oxford University Press, USA",
-						"publication_day": "3",
+						"publisher": "Crown Business",
+						"publication_day": "16",
 						"publication_year": "2014",
 						"publication_month": "9",
-						"average_rating": "3.87",
-						"ratings_count": "11767",
-						"description": "Superintelligence asks the questions: what happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life. <br /><br />The human brain has some capabilities that the brains of other animals lack. It is to these distinctive capabilities that our species owes its dominant position. If machine brains surpassed human brains in general intelligence, then this new superintelligence could become extremely powerful--possibly beyond our control. As the fate of the gorillas now depends more on humans than on the species itself, so would the fate of humankind depend on the actions of the machine superintelligence.<br /><br />But we have one advantage: we get to make the first move. Will it be possible to construct a seed Artificial Intelligence, to engineer initial conditions so as to make an intelligence explosion survivable? How could one achieve a controlled detonation?",
+						"average_rating": "4.17",
+						"ratings_count": "153419",
+						"description": "If you want to build a better future, you must believe in secrets.<br /><br />The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things. <br /><br />Thiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself.<br /><br />Doing what someone else already knows how to do takes the world from 1 to n, adding more of something familiar. But when you do something new, you go from 0 to 1. The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin won’t make a search engine. Tomorrow’s champions will not win by competing ruthlessly in today’s marketplace. They will escape competition altogether, because their businesses will be unique. <br /><br />Zero to One presents at once an optimistic view of the future of progress in America and a new way of thinking about innovation: it starts by learning to ask the questions that lead you to find value in unexpected places.",
 						"authors": {
 							"author": {
-								"id": "608087",
-								"name": "Nick Bostrom",
+								"id": "8474721",
+								"name": "Peter Thiel",
 								"role": "",
 								"image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1408029377p5/608087.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1532597901p5/8474721.jpg"
 								},
 								"small_image_url": {
 									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1408029377p2/608087.jpg"
+									"__cdata": "https://images.gr-assets.com/authors/1532597901p2/8474721.jpg"
 								},
 								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/608087.Nick_Bostrom"
+									"__cdata": "https://www.goodreads.com/author/show/8474721.Peter_Thiel"
 								},
-								"average_rating": "3.90",
-								"ratings_count": "12960",
-								"text_reviews_count": "1260"
+								"average_rating": "4.17",
+								"ratings_count": "153679",
+								"text_reviews_count": "5187"
 							}
 						},
 						"published": "2014",
 						"work": {
-							"id": "37286000",
-							"uri": "kca://work/amzn1.gr.work.v1.OqtBfW6_Hc-tmeBDyOgIFA"
+							"id": "25332940",
+							"uri": "kca://work/amzn1.gr.work.v1.sQhybJF2mK1jdyDem-lPmg"
 						}
 					},
-					"rating": "4",
+					"rating": "5",
 					"votes": "0",
 					"spoiler_flag": "false",
 					"spoilers_state": "none",
@@ -7284,109 +7462,23 @@
 					"recommended_by": "",
 					"started_at": "",
 					"read_at": "",
-					"date_added": "Wed Aug 09 11:20:07 -0700 2017",
-					"date_updated": "Wed Aug 09 11:20:07 -0700 2017",
+					"date_added": "Wed Aug 09 11:16:54 -0700 2017",
+					"date_updated": "Wed Aug 09 11:16:54 -0700 2017",
 					"read_count": "1",
 					"body": "",
 					"comments_count": "0",
 					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492545"
+						"__cdata": "https://www.goodreads.com/review/show/2087489782"
 					},
 					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087492545"
-					},
-					"owned": "0"
-				},
-				{
-					"id": "2087493736",
-					"book": {
-						"id": {
-							"_type": "integer",
-							"__text": "10339170"
-						},
-						"isbn": "0470627603",
-						"isbn13": "9780470627600",
-						"text_reviews_count": {
-							"_type": "integer",
-							"__text": "1077"
-						},
-						"uri": "kca://book/amzn1.gr.book.v1.PrqUVoV8MF7t7j5813ieBA",
-						"title": "The 10x Rule: The Only Difference Between Success and Failure",
-						"title_without_series": "The 10x Rule: The Only Difference Between Success and Failure",
-						"image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310779133l/10339170._SX98_.jpg",
-						"small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310779133l/10339170._SY75_.jpg",
-						"large_image_url": "",
-						"link": "https://www.goodreads.com/book/show/10339170-the-10x-rule",
-						"num_pages": "240",
-						"format": "Hardcover",
-						"edition_information": "",
-						"publisher": "Wiley",
-						"publication_day": "26",
-						"publication_year": "2011",
-						"publication_month": "4",
-						"average_rating": "4.03",
-						"ratings_count": "12401",
-						"description": "<b>Achieve \"Massive Action\" results and accomplish your business dreams!</b> While most people operate with only three degrees of action-no action, retreat, or normal action-if you're after big goals, you don't want to settle for the ordinary. To reach the next level, you must understand the coveted 4th degree of action. This 4th degree, also known as the 10 X Rule, is that level of action that guarantees companies and individuals realize their goals and dreams.<br /><br /><i>The 10 X Rule</i> unveils the principle of \"Massive Action,\" allowing you to blast through business clichZs and risk-aversion while taking concrete steps to reach your dreams. It also demonstrates why people get stuck in the first three actions and how to move into making the 10X Rule a discipline. Find out exactly where to start, what to do, and how to follow up each action you take with more action to achieve Massive Action results.<br /><br />Learn the \"Estimation of Effort\" calculation to ensure you exceed your targets Make the Fourth Degree a way of life and defy mediocrity Discover the time management myth Get the exact reasons why people fail and others succeed Know the exact formula to solve problems Extreme success is by definition outside the realm of normal action. Instead of behaving like everybody else and settling for average results, take Massive Action with <i>The 10 X Rule</i>, remove luck and chance from your business equation, and lock in massive success.",
-						"authors": {
-							"author": {
-								"id": "1638887",
-								"name": "Grant Cardone",
-								"role": "",
-								"image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1326447807p5/1638887.jpg"
-								},
-								"small_image_url": {
-									"_nophoto": "false",
-									"__cdata": "https://images.gr-assets.com/authors/1326447807p2/1638887.jpg"
-								},
-								"link": {
-									"__cdata": "https://www.goodreads.com/author/show/1638887.Grant_Cardone"
-								},
-								"average_rating": "4.09",
-								"ratings_count": "22948",
-								"text_reviews_count": "2264"
-							}
-						},
-						"published": "2011",
-						"work": {
-							"id": "15241850",
-							"uri": "kca://work/amzn1.gr.work.v1.NGivOiXzaSR1eujXHjD1FQ"
-						}
-					},
-					"rating": "3",
-					"votes": "0",
-					"spoiler_flag": "false",
-					"spoilers_state": "none",
-					"shelves": {
-						"shelf": {
-							"_name": "read",
-							"_exclusive": "true",
-							"_id": "229319165",
-							"_review_shelf_id": ""
-						}
-					},
-					"recommended_for": "",
-					"recommended_by": "",
-					"started_at": "",
-					"read_at": "",
-					"date_added": "Wed Aug 09 11:21:20 -0700 2017",
-					"date_updated": "Wed Aug 09 11:21:20 -0700 2017",
-					"read_count": "1",
-					"body": "",
-					"comments_count": "0",
-					"url": {
-						"__cdata": "https://www.goodreads.com/review/show/2087493736"
-					},
-					"link": {
-						"__cdata": "https://www.goodreads.com/review/show/2087493736"
+						"__cdata": "https://www.goodreads.com/review/show/2087489782"
 					},
 					"owned": "0"
 				}
 			],
 			"_start": "1",
-			"_end": "82",
-			"_total": "82"
+			"_end": "83",
+			"_total": "83"
 		}
 	}
 }
