@@ -13,6 +13,8 @@ excerpt: "Contemplation while my being in Bali. Indonesia."
 
 This is an essay about my philosophical dialog while I was in Bali. You will find some social aspects in this writing, but keep in mind that I am not aiming to be sentimental. It's purely an introspection and contemplation.
 
+I am not an experienced traveler, so many new things I see will cause a thought chain.
+
 <br />
 
 #### Landing
