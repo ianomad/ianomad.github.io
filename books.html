@@ -6,22 +6,23 @@ layout: default
   <h2 class="section-title"><i class="fa fa-book"></i>Books</h2>
 
   <p>
-    Some books I read. [{{ site.data.books.GoodreadsResponse.reviews.review | size }}].
+    By bookshelf is replicated from <a href="https://www.goodreads.com/user/show/70242311-iliiaz-akhmedov"> Goodreads </a>
+    [{{ site.data.books.GoodreadsResponse.reviews.review | size }}]
   </p>
 
   <ul class="books">
-  {% for review in site.data.books.GoodreadsResponse.reviews.review %}
-      <li>
-          <span class="title">{{ review.book.title }}</span>
-          <span class="author">by {{ review.book.authors.author.name }}</span>
-          <a href="{{ review.book.link }}" target="_blank">[ref]</a>
+    {% for review in site.data.books.GoodreadsResponse.reviews.review %}
+    <li>
+      <span class="title">{{ review.book.title }}</span>
+      <span class="author">by {{ review.book.authors.author.name }}</span>
+      <a href="{{ review.book.link }}" target="_blank">[ref]</a>
 
-          <details>
-            <summary><span>See Review</span></summary>
-            <span class="review"><i>{{ review.body.__cdata }}</i></span>
-          </details>
+      <details>
+        <summary><span>See Review</span></summary>
+        <span class="review"><i>{{ review.body.__cdata }}</i></span>
+      </details>
 
-      </li>
-  {% endfor %}
+    </li>
+    {% endfor %}
   </ul>
 </section>
