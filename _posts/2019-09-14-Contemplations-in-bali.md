@@ -6,7 +6,7 @@ categories: reading
 excerpt: "Contemplation while my being in Bali. Indonesia."
 ---
 
-### <strong>Meditations in the orient. Bali, Indonesia</strong>
+### <strong>Contemplations in Bali</strong>
 <br />
 <strong>Disclaimer: This essay is not a tourist's guide to Bali and neither is it "hidden gems" of Indonesia.</strong>
 <br />
