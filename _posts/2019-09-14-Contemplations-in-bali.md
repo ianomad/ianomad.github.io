@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meditations in the orient"
+title:  "Contemplation in Indonesia"
 date:   2019-09-14
 categories: reading
 excerpt: "Contemplation while my being in Bali. Indonesia."
