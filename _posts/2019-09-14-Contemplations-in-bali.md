@@ -6,10 +6,9 @@ categories: reading
 excerpt: "Contemplation while my being in Bali. Indonesia."
 ---
 
-### <strong>Contemplations in Bali</strong>
-<br />
+# <strong>Contemplations in Bali</strong>
+
 <strong>Disclaimer: This essay is not a tourist's guide to Bali and neither is it "hidden gems" of Indonesia.</strong>
-<br />
 
 This is an essay about my philosophical dialog while I was in Bali. You will find some social aspects in this writing, but keep in mind that I am not aiming to be sentimental. It's purely an introspection and contemplation.
 
@@ -17,7 +16,7 @@ I am not an experienced traveler, so many new things I see will cause a thought 
 
 <br />
 
-#### Landing
+## Landing
 
 As I enter the terminal, I immediately feel this warm and humid tropical weather. In need of cash for the cab, I turn to one of the vast selection of currency conversion offices where I hand in 200 US dollars, and they give me back about 2,700,000 rupiah. This is the first of many following contacts of global capitalistic disparity I am going to witness. "Terima Kasih" means thank you in indonesian (there is also a balinese language). I am given a cab after being in the line among many, it's <strong>organized</strong>, we are awaited...
 
@@ -47,7 +46,7 @@ Above one monkey is gently picking through the fur of the other, while the latte
 
 <br />
 
-#### Temples
+## Temples
 
 Indonesian temples are so much different from Japanese. They mostly consist of stones and clay. Women are not allowed to enter while having menstruation. Locals are mostly hindu. Often times passing by any local business, you will see a small chair like statue representing a small temple for luck.
 
@@ -67,7 +66,7 @@ A lot of them actually represent some monster looking like creature. It probably
 
 <br />
 
-#### Paintings
+## Paintings
 
 Below is some thought food for me. Seriously, I am finding myself in the paintings of the east seeing a banner on the entrance <strong>"Inspiration for Marketing 2.0"</strong>. What are all these? I am supposedly in this traditional museum of drawings depicting some historical and cultural matter looking like some naked people (inspired by hippie western tourist nudes or is it really that old where clothing was more frugal?) and taking pictures of it on my iPhone 8S. By the way, yes, there is an elevated number of nude paintings, pardon.
 
@@ -83,7 +82,7 @@ Below is some thought food for me. Seriously, I am finding myself in the paintin
   </a>
 </p>
 
-#### Butterflies
+## Butterflies
 
 The creature below is a product of a caterpillar, cocoon and a timespan of 1.5 - 2 months. When the butterfly is out, it lives only 5 days. When I entered, I saw lots and lots of butterflies, everyday there is hundreds of them coming and going whatever that's supposed to mean in a physical or philosophical sense.
 
@@ -95,7 +94,7 @@ The creature below is a product of a caterpillar, cocoon and a timespan of 1.5 -
 
 <br />
 
-#### River
+## River
 
 <p class="embed-image-small">
   <a href="{{site.baseurl}}/assets/images/bali/river.jpg" data-lightbox="bali">

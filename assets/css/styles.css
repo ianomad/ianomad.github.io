@@ -338,6 +338,7 @@ used for profile image
 .embed-image-small {
   width: 100%;
   text-align: center;
+  margin: 20px 0;
 }
 
 .embed-image-small img {
