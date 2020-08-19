@@ -31,7 +31,7 @@ Before I jump into practical basics, I want to give a high level overview of hum
 
 **Oxytocin**. We feel this when hugging friends, family, and partners. In the feeling of friendship, love, safety, care, or that "Plan B" that we can always rely on as support if things go wildly wrong. It is a reliability aspect of survival and quite fundamental in collective alignment as well.
 
-**Endorphine** is a stress supressor. When one is jogging and injured their toe, they might not feel it until after the jogging is over. It makes perfect sense in the puzzle of survival, because if you are being chased my a tiger, you wouldn't wanna feel the pain until you are safe and brain helps us supress it.
+**Endorphin** is a stress supressor. When one is jogging and injured their toe, they might not feel it until after the jogging is over. It makes perfect sense in the puzzle of survival, because if you are being chased my a tiger, you wouldn't wanna feel the pain until you are safe and brain helps us supress it.
 
 <br/>
 
@@ -68,7 +68,7 @@ Avoid simple carbs especially during the day which can make you sleepy/crash. Ju
 
 Exercise like jogging can do 2 things at the least
 - help maintaining a healthy body
-- generate dopamine and endorphine
+- generate dopamine and endorphin
 
 Let's focus on the second point a little more. One can utilize exercising to generate dopamine to boost that extra motivation and endorphine as a stress supressor. If you really nail both, you are basically unstoppable.
 
