@@ -25,7 +25,7 @@ Before I jump into practical basics, I want to give a high level overview of hum
   </a>
 </p>
 
-**Dopamine** is an addiction chemical (hormone) of the brain that make us a gambler of an achievement. Once set, we strive towards it and feel pleasure once we have achieved. Some great examples of dopamine is having a milestone and feeling accomplished after achieving it. It lasts for a period and will need to be reiterated with a new milestone. The milestones can be some project by a certain date or a long biking distance. The bigger the goal, the bigger the dopamine shot is. It is a huge part of individual motivation.
+**Dopamine** is an addiction chemical (hormone) of the brain that make us a gambler of an achievement. Once set, we strive towards it and feel pleasure once we have achieved. Some great examples of dopamine is having a milestone and feeling accomplished after achieving it. It lasts for a period and will need to be reiterated with a new milestone. The milestones can be some project by a certain date or a long biking distance. The bigger the goal, the the bigger the dopamine shot is. It is a huge part of individual motivation.
 
 **Serotonin** can mostly be described in the feeling of confidence in a certain ability. It is reinforced with more skill and capability. It's the sense of pride with yourself and others driving you even more. One good example would be social recognition for talent and effort. This is an important aspect from collective alignment perspective and is a way to validate that aspect, in my opinion.
 
@@ -70,7 +70,7 @@ Exercise like jogging can do 2 things at the least
 - help maintaining a healthy body
 - generate dopamine and endorphin
 
-Let's focus on the second point a little more. One can utilize exercising to generate dopamine to boost that extra motivation and endorphine as a stress supressor. If you really nail both, you are basically unstoppable.
+Let's focus on the second point a little more. One can utilize exercising to generate dopamine to boost that extra motivation and endorphin as a stress supressor. If you really nail both, you are basically unstoppable.
 
 <br/>
 
@@ -79,7 +79,7 @@ Let's focus on the second point a little more. One can utilize exercising to gen
 Sleep is extremely important for brain and the rest of the body.[^2] Here are some important notes for having a good sleep that vary individually.
 - sleep temperature (about 65-70F on average)
 - limited light exposure towards bed time (e.g. LED lights)
-- minimization of rapid eye movement sleep disruption
+- minimization of rapid eye movement sleep
   - external noise
   - night bathroom walks
 - caffeine and other substances intake post lunch (coffee, tea, alcohol)
