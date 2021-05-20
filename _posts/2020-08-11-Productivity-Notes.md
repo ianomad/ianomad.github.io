@@ -146,7 +146,7 @@ Below are some notes I took while experimenting with my schedule. They vary by c
 
 #### Finale
 
-I hope these tips are actionable for some people. There is a lot more involved in my experiments which I will try to cover in other essays. Some of them are Deep Work[^3], how I think and act about Serotonin and Oxytocin[^1], and convert everything into tangible outcomes as a cohesive roadmap, but it is quite hard to put them all in a single note. Feel free to share your thoughts about this note with me via any channel like <a href="https://twitter.com/ilyusha_io" target="_blank">twitter</a>.
+I hope these tips are actionable for some people. There is a lot more involved in my experiments which I will try to cover in other essays. Some of them are Deep Work[^3], how I think and act about Serotonin and Oxytocin[^1], and convert everything into tangible outcomes as a cohesive roadmap, but it is quite hard to put them all in a single note. Feel free to share your thoughts about this note with me via any channel like <a href="https://twitter.com/ilyushasays" target="_blank">twitter</a>.
 
 [^1]: Habits of a Happy Brain [ref](https://www.goodreads.com/book/show/26618156-habits-of-a-happy-brain)
 [^2]: Why We Sleep: Unlocking the Power of Sleep and Dreams [ref](https://www.goodreads.com/book/show/34466963-why-we-sleep)
