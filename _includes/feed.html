@@ -3,19 +3,24 @@
   <div class="summary">
 
     <p>
-      <b>Hi, visitor!</b>
+      Hey, welcome! 👋
 
-      <br />
-      <br />
+      <br/>
+      <br/>
 
-      My name is Iliiaz (E-li-yas) and I am a software engineer based in the bay area. I am currently working at CashApp, but previously also worked at Instagram, EA, and a few other companies.
+      My name is Iliiaz (E-li-yas), I am a software engineer based in Bay Area currently working at
+      Cash.
 
-      This blog is still in an infancy state mostly used to share my bookshelf, some articles, and thoughts.
+      <br/>
+      <br/>
 
-      <br />
-      <br />
+      Before this I worked at Instagram, Electronic Arts, Samsung, and a few other companies.
+      This is my blogging website still in an infant state.
 
-      <b>Status Update</b>: these days I am reading philosophy, bouldering, and cycling.
+      <br/>
+      <br/>
+
+      Besides my job I like reading, philosophy, and biking.
 
     </p>
 
@@ -24,15 +29,21 @@
 
 <section class="section notes-section">
 
-<h4><i class="fa fa-feed"></i> Notes</h4>
-<div class="notes">
+  <h4><i class="fa fa-file-text-o"></i> Essays</h4>
+  <div class="notes">
 
-  {% assign items = site.posts | sort: 'date' %}
-  {% for post in items reversed %}
+    {% assign items = site.posts | sort: 'date' %}
+    {% for post in items reversed %}
     <div class="item">
-      <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} ({{ post.date | date: "%B %d, %Y" }})</a></p>
+      <ul>
+        <li>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            <i> {{ post.title }} ({{ post.date | date: "%B %d, %Y" }}) </i>
+          </a>
+        </li>
+      </ul>
     </div>
-  {% endfor %}
+    {% endfor %}
 
-</div>
+  </div>
 </section>
