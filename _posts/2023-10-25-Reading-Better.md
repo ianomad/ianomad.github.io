@@ -16,7 +16,6 @@ like
 another interesting experiment I want to try.
 
 <br />
-
 **Why read?**
 
 Often times I impulsively buy many books on interesting topics, but when I think about
