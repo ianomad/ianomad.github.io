@@ -9,7 +9,6 @@ excerpt: "Getting better at reading"
 ## Reading Better (Draft V2)
 
 <br />
-
 I have been reading more for the past couple of years, and it's been kind of amazing. It just sort
 of tingles my brain and I like this feeling. Now I decided to write about how I read; it just seems
 like
