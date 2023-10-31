@@ -41,7 +41,7 @@ specifically. The more of them I like, the better.
 <br />
 **Absorbing the book**
 
-Ooh, now it's getting interesting; you found something interesting that you actually want to
+Ooh, now it's getting exciting; you found something interesting that you actually want to
 read. But wait, you don't want to ruin this, right? Patience is the virtue!
 
 You are about to have this amazing time with the book, and there are just so many things which could
