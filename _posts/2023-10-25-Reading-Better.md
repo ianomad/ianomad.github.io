@@ -6,84 +6,82 @@ categories: reading
 excerpt: "Getting better at reading"
 ---
 
-# <strong>Getting Better at Reading (draft) </strong>
-
-<br />
-Couple of years ago I started reading more and while curiosity is large, my absorption is much
-smaller in comparison with it. In this essay I am going to reflect on my strategies to read better.
+## Reading Better (Draft V2)
 
 <br />
 
-### Why reading?
-
-There are a lot of interesting things, and you can either watch, listen, or read. I choose
-reading when I really want to focus on something, because it removes sounds, limits pictures, and
-allows me to pace.
-
-Reading could be done for entertainment, learning, or research. To be honest, I mostly read for
-learning and very few for research. As for entertainment, I prefer watching or listening for now.
+I have been reading more for the past couple of years, and it's been kind of amazing. It just sort
+of tingles my brain and I like this feeling. Now I decided to write about how I read; it just seems
+like
+another interesting experiment I want to try.
 
 <br />
 
-### Choosing a book
+**Why read?**
 
-Choosing the right book is a critical decision and there are a few
-techniques to maximize success.
+Often times I impulsively buy many books on interesting topics, but when I think about
+it deeply, the answer will be curiosity. I am trying to be selective though, there are many books I
+don't end up liking. Also, I could watch or listen, but I choose to read for focus. There are no
+sounds or motion picture; it's just you, text, and pacing. It's like black coffee.
 
-**Motivation**. Why do you want to read a specific book? You kind of want to be honest whether the
-topic is actually interesting to you.
+<br />
+**Choosing a book**
 
-**Scanning through the table of content**. Do those chapter titles catch your eye? Do you feel you
-are being impatient to run through them? If yes, then it's probably a good book.
+Ah, this is like the most important decision. It's gotta be interesting, you have to be ready for
+it, and the book better not take your entire life to read. Picking the wrong
+book is like that casual invite for a drink you shouldn't have accepted in the middle of the week,
+you are gonna regret about it.
 
-**Looking through the reviews**. Does it actually matter? If it's below 3.5 on GoodReads, probably
-yeah... but that's also fighting with your curiosity, so you decide!
+I mean, you have to be really honest about what's interesting to you instead of trying to be cool.
+But don't you worry, choosing a good book is a skill and takes time to shape. Take a look at the
+table of contents, read through some reviews, think whether you want to give this book a chance.
+When I see a good book, I become very impatient to start reading it, and often times some chapters
+specifically. The more of them I like, the better.
 
-**Pacing and gaging curiosity**. Are you actually going to read those 1000+ pages by Dumas? I say
-no.
+<br />
+**Absorbing the book**
+
+Ooh, now it's getting interesting; you found something interesting that you actually want to
+read. But wait, you don't want to ruin this, right? Patience is the virtue!
+
+You are about to have this amazing time with the book, and there are just so many things which could
+go wrong! Something could be bothering you, you are sleep-deprived, ate too
+much or too little, something noisy around, low lighting or wrong temperature, or someone calling
+you. I am not even gonna get into the social media apps.
+
+Okay, you are ready now! We are officially entering the book's world guided by the table of contents
+and the author tells you why this is going to be so amazing. You are passing through the
+chapters impatiently paying full attention. While there are distractions, what you want to read in
+the book is very personal to you, and you are now in a flight!
+
+It comes with challenges: you don't understand some of the words, lose attention, or
+have to postpone for another day. But then you remember why you chose the book, and you don't
+want to leave it alone! Sometimes you have to jump straight to the chapter you want or buy the neck
+light to spend more time reading during nights. You are pacing faster through what you already knew
+or slowing down where there is stuff to learn.
+
+You are now winning and nothing could be better than being here in the middle of the book in a cozy
+warm seat with your brains tingling in silence! :3 :3 :3
+
+Wait, I now had to travel for the holidays and forgot my book! It's too good, you are going to pay
+for the digital version to read this on your phone! Finally, both you and the book made it to the
+end. Hurray!
 
 <br />
 
-### Absorbing the book (how)
-
-**Table of contents is your friend**. I rely on the table of contents and it's my guiding friend.
-It's kind of promises how exciting the book is going to be.
-
-**Jumping between chapters**. Skip to something more interesting to you, but this probably doesn't
-work with fiction? I mean, I don't read fiction anyway.
-
-**Reminding yourself why you chose this book to gage focus**. I was falling asleep and then
-remembered that if I didn't read that now, I will have trouble sleeping.
-
-**Reading something you are familiar with already**. Ooh, this is like reading second half of Elon
-Musk. I read most of that on Twitter during the past decade and the book was basically like a quick
-rewind.
-
-**Cozy & quite environment**. I mean, this kind of matters. I like silence and am typically easily
-distracted.
-
-**Phone, kindle, hard & paper covers**. I use them all and sometimes pay twice for the same book.
-
-**Skipping, listening, quitting**. If the book is really not going forward, either I am unready for
-it or the writer is bad! If it's the second sometimes I kind of get pissed about the wasted time.
-Well, what can I do? He couldn't have predicted that.
+Hm... this is interesting though, how can avoid the challenges above next time?
 
 <br />
 
-### Should I have really read this?
+**Are you happy now?**
 
-**Finding answers to the long-standing questions.** Books can be very resourceful and I typically
-really appreciate those writers. To be totally frank, I don't always understand their motivation and
-such dedication. However, for me the answers are very precious, and they can clearly make
-significant impact on your life.
+Oh, this holy fluid artifact of stored knowledge transcending through time of human evolution
+exploding my mind! But wait, I kind of forgot most of the book (-_-). Although... I found some
+answers to my questions, and learn that some just don't have the answers. Who cares! My
+curiosity on this matter is satisfied! I will talk to my friends about this. Also, I need to mention
+to my parents to read more.
 
-**Happiness & satisfaction.** It kind of tingles my brain, especially if there are huge deep topics
-that never made sense to be that are now put together like a solved puzzle. Besides happiness, often
-times it makes me laugh.
+<br />
+**But I could have gone to the party!**
 
-**Speed, retention, depth.** It really depends, but does it really matter? My brain is insensitive
-to names and dates, and generally it doesn't like details, unless I am really going to use that
-information in any way.
-
-
------------------
+Hmm... yeah, you could. But how can you do both? I will think about it.
