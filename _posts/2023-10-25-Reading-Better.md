@@ -69,7 +69,7 @@ end. Hurray!
 
 <br />
 
-Hm... this is interesting though, how can avoid the challenges above next time?
+Hm... this is interesting though, how can I avoid the challenges above next time?
 
 <br />
 
