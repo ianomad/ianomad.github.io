@@ -33,7 +33,7 @@ book is like that casual invite for a drink you shouldn't have accepted in the m
 you are gonna regret about it.
 
 I mean, you have to be really honest about what's interesting to you instead of trying to be cool.
-But don't you worry, choosing a good book is a skill and takes time to shape. Take a look at the
+But don't you worry, choosing a good book is a skill, it takes time to shape. Take a look at the
 table of contents, read through some reviews, think whether you want to give this book a chance.
 When I see a good book, I become very impatient to start reading it, and often times some chapters
 specifically. The more of them I like, the better.
