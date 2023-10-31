@@ -67,9 +67,10 @@ Wait, I now had to travel for the holidays and forgot my book! It's too good, yo
 for the digital version to read this on your phone! Finally, both you and the book made it to the
 end. Hurray!
 
-<br />
-
-Hm... this is interesting though, how can I avoid the challenges above next time?
+Hm... this is interesting though, how can I avoid the challenges above next time? I read the book
+called "How to read a book", I also read the book "The Book" and both were great. You could improve
+by reading about reading, you could improve on anything! There is probably more good stuff out
+there.
 
 <br />
 
