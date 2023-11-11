@@ -9,12 +9,9 @@ excerpt: "This article is about why reading journey and what I have learnt from 
 ### My Reading Journey
 
 
-Several months ago (that is around beginning of June, 2019), I, all of a sudden, started reading books greedily. My urge to do so has been
-<strong>unexpected</strong> to my family, friends, colleagues and, more importantly, to myself.
+A few months ago I started reading books greedily and the reason for the desire to read is not really clear to me.
 
-I will describe here what it has been like and leave off the reasons on <strong>why</strong>. However, I will mention that it is not caused by any existential crisis, but rather greed for life, knowledge, and desire to know.
-
-<strong>It's important to note, if you go down the references and try to decipher my interpretations, you may not find the same meanings which is pretty well expected for the worse parts of communication as a concept. Everyone is an interpretator, and with every funnel you lose the original shape.</strong>
+However, in this essay I will describe what it's been like and without much introspection on why I wanted to read. However, the desire to read is not caused by some kind of existential crisis, but rather curiosity and a strong desire to know.
 
 <br />
 
