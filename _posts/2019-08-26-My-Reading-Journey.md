@@ -8,10 +8,9 @@ excerpt: "This article is about my recent journey of reading more and what I hav
 
 ### My Reading Journey
 
+<br />
 
-A few months ago I started reading books greedily and the reason for the desire to read is not really clear to me.
-
-However, in this essay I will describe what it's been like and without much introspection on why I wanted to read. However, the desire to read is not caused by some kind of existential crisis, but rather curiosity and a strong desire to know.
+I am not completely sure why, but a few months ago I decided to read more. In this essay I won't be talking about why I decided to read more, but more about the experience. However, I will also mention that this is not caused by some kind of existential crisis, but rather curiosity and a strong desire to know.
 
 <br />
 
