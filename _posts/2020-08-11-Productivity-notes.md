@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Productivity Notes (Fundamentals)"
+title:  "Productivity notes (fundamentals)"
 date:   2020-08-11
 categories: productivity
 excerpt: "Shortly about my productivity experiments"
 ---
 
-## <strong>Productivity Notes (Foundation)</strong>
+## <strong>Productivity notes (foundation)</strong>
 <br />
 
 I define **productivity** as one's ability to deliver a certain output in a given time. If one has a goal, it is a distance reduction rate towards the goal. Do not confuse it with speed, since speed can be achieved by doing routine at an elevated rate. This note will formalize some of my recent experiments in this regard in several areas into a structured framework.
