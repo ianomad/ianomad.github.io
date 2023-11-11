@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "My Reading Journey"
+title:  "My reading journey"
 date:   2019-08-26
 categories: reading
-excerpt: "This article is about why reading journey and what I have learnt from the past couple of months"
+excerpt: "This article is about my recent journey of reading more and what I have learnt about Reading"
 ---
 
 ### My Reading Journey
