@@ -6,7 +6,7 @@ categories: reading
 excerpt: "This article is about my recent journey of reading more and what I have learnt about Reading"
 ---
 
-### My Reading Journey
+### My reading journey
 
 <br />
 
