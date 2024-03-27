@@ -7,7 +7,7 @@
 
     <hr/>
 
-    My name is Iliiaz [E-lí-yas]; I am a software engineer based in Bay Area. I am an AUCA alum `14 originally from Kyrgyzstan.
+    My name is Iliiaz [E-lí-yas]; I am a software engineer based in Bay Area originally from Kyrgyzstan 🇰🇬.
 
     <br/>
     <br/>
@@ -16,27 +16,6 @@
       I like reading philosophy, economics, and pop science; Lately I have been more interested in
       the subjects of language and knowledge.
     </p>
-
-  </div>
-</section>
-
-<section class="section notes-section">
-
-  <h4><i class="fa fa-file-text-o"></i> My Essays</h4>
-  <div class="notes">
-
-    {% assign items = site.posts | sort: 'date' %}
-    {% for post in items reversed %}
-    <div class="item">
-      <ul>
-        <li>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            <i> {{ post.title }} ({{ post.date | date: "%B %d, %Y" }}) </i>
-          </a>
-        </li>
-      </ul>
-    </div>
-    {% endfor %}
 
   </div>
 </section>
