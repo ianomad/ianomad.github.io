@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<section class="section books-section">
+  <h2 class="section-title"><i class="fa fa-book"></i>Books</h2>
+
+  <p>
+    See my complete bookshelf on <a href="https://www.goodreads.com/user/show/70242311-iliiaz-akhmedov"> Goodreads </a>
+  </p>
+
+  <ul class="books">
+    {% for review in site.data.books.GoodreadsResponse.reviews.review %}
+    <li>
+      <span class="title">{{ review.book.title }}</span>
+      <span class="author">by {{ review.book.authors.author.name }}</span>
+      <a href="{{ review.book.link }}" target="_blank">[ref]</a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
